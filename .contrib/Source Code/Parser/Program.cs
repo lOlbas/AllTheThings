@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+
 using NLua;
 
 namespace ATT
@@ -17,8 +18,9 @@ namespace ATT
             // Prepare console output to a file.
             Directory.CreateDirectory("../Debugging");
 
+            var data_dir = "..\\..\\..\\..\\..\\Parser";
             // Load all of the RAW JSON Data into the database.
-            var files = Directory.EnumerateFiles(".", "*.json", SearchOption.AllDirectories).ToList();
+            var files = Directory.EnumerateFiles(data_dir + "\\DATAS", "*.json", SearchOption.AllDirectories).ToList();
             files.Sort();
             foreach(var fileName in files)
             {
@@ -40,10 +42,10 @@ namespace ATT
             Trace.WriteLine("Done parsing JSON files...");
 
             // Load all of the Lua files into the database.
-            var luaFiles = Directory.GetFiles(".", "*.lua", SearchOption.AllDirectories).ToList();
-            if (luaFiles.Contains(".\\_main.lua"))
+            var luaFiles = Directory.GetFiles(data_dir, "*.lua", SearchOption.AllDirectories).ToList();
+            if (luaFiles.Contains(data_dir + "\\_main.lua"))
             {
-                luaFiles.Remove(".\\_main.lua"); // Do not iterate over the header file.
+                luaFiles.Remove(data_dir + "\\_main.lua"); // Do not iterate over the header file.
                 luaFiles.Sort();
             }
             else
@@ -56,7 +58,7 @@ namespace ATT
             }
 
             Lua lua = new Lua();
-            lua.DoFile("./_main.lua");
+            lua.DoFile(data_dir + "\\_main.lua");
 
             // Try to Copy in the Alliance Only / Horde Only lists
             try

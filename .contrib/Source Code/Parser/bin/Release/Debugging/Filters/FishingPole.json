@@ -1,0 +1,411 @@
+{
+	i(6256, { -- Fishing Pole
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 20,
+	}),
+	i(6365, { -- Strong Fishing Pole
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			3
+		},
+		["q"] = 1,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(6366, { -- Darkwood Fishing Pole
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			7
+		},
+		["q"] = 1,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(6367, { -- Big Iron Fishing Pole
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["requireSkill"] = 2592,
+		["subclass"] = 20,
+	}),
+	i(12225, { -- Blump Family Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(19022, { -- Nat Pagle's Extreme Angler FC-5000
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 26,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 7546,
+		},
+		["q"] = 2,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(19970, { -- Arcanite Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 7884,
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+		["u"] = 30,
+	}),
+	i(25978, { -- Seth's Graphite Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 10687,
+		},
+		["q"] = 2,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(44050, { -- Mastercraft Kalu'ak Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 21318,
+		},
+		["q"] = 4,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(45120, { -- Basic Fishing Pole
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 20,
+	}),
+	i(45858, { -- Nat's Lucky Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 22092,
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(45991, { -- Bone Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 8,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 22166,
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(45992, { -- Jeweled Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 8,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 22167,
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(46337, { -- Staats' Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(52678, { -- Jonathan's Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(84660, { -- Pandaren Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 43158,
+		},
+		["q"] = 2,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(84661, { -- Dragon Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 43159,
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(116825, { -- Savage Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		117397,
+		25
+	}
+},
+		["equippable"] = 1,
+		["f"] = 57,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 65557,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(116826, { -- Draenic Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		117397,
+		25
+	}
+},
+		["equippable"] = 1,
+		["f"] = 57,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 65558,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(118381, { -- Ephemeral Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 8,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 66541,
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(120163, { -- Thruk's Fishing Rod
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 67918,
+		},
+		["q"] = 2,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(133755, { -- Underlight Angler
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["ilvl"] = 152,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 76909,
+		},
+		["q"] = 6,
+		["subclass"] = 20,
+	}),
+	i(168804, { -- Powered Piscine Procurement Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 104673,
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(173044, { -- Wreathed Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 8,
+		["inventoryType"] = 17,
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	}),
+	i(177030, { -- Aquatic Extractor
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 20,
+	}),
+	i(180136, { -- The Brokers Angle'r
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 57,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 112899,
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 20,
+	})
+}
+
+i(6256);		--[[Fishing Pole]]
+i(6365);		--[[Strong Fishing Pole]]
+i(6366);		--[[Darkwood Fishing Pole]]
+i(6367);		--[[Big Iron Fishing Pole]]
+i(12225);		--[[Blump Family Fishing Pole]]
+i(19022);		--[[Nat Pagle's Extreme Angler FC-5000]]
+i(19970);		--[[Arcanite Fishing Pole]]
+i(25978);		--[[Seth's Graphite Fishing Pole]]
+i(44050);		--[[Mastercraft Kalu'ak Fishing Pole]]
+i(45120);		--[[Basic Fishing Pole]]
+i(45858);		--[[Nat's Lucky Fishing Pole]]
+i(45991);		--[[Bone Fishing Pole]]
+i(45992);		--[[Jeweled Fishing Pole]]
+i(46337);		--[[Staats' Fishing Pole]]
+i(52678);		--[[Jonathan's Fishing Pole]]
+i(84660);		--[[Pandaren Fishing Pole]]
+i(84661);		--[[Dragon Fishing Pole]]
+i(116825);		--[[Savage Fishing Pole]]
+i(116826);		--[[Draenic Fishing Pole]]
+i(118381);		--[[Ephemeral Fishing Pole]]
+i(120163);		--[[Thruk's Fishing Rod]]
+i(133755);		--[[Underlight Angler]]
+i(168804);		--[[Powered Piscine Procurement Pole]]
+i(173044);		--[[Wreathed Fishing Pole]]
+i(177030);		--[[Aquatic Extractor]]
+i(180136);		--[[The Brokers Angle'r]]

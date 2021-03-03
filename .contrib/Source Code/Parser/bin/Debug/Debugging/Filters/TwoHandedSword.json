@@ -1,0 +1,10269 @@
+{
+	i(647, { -- Destiny
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 68,
+			[1] = 68,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(922, { -- Dacian Falx
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			10
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(1194, { -- Bastard Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(1198, { -- Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 8,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			5
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(1387, { -- Ghoulfang
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 11,
+		["inventoryType"] = 17,
+		["lvl"] = 7,
+		["modIDs"] = {
+			[0] = 258,
+			[1] = 258,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(1412, { -- Crude Bastard Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 3,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			2
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(1460, { -- Shadowhide Two-Handed Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["lvl"] = 7,
+		["modIDs"] = {
+			[0] = 297,
+			[1] = 297,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(1513, { -- Old Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 7,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			4
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(1566, { -- Edge of the People's Militia
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 10,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 340,
+			[1] = 340,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(1604, { -- Chromatic Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 24,
+		["inventoryType"] = 17,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 342,
+			[1] = 342,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(1625, { -- Exquisite Flamberge
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 22,
+		["inventoryType"] = 17,
+		["lvl"] = 15,
+		["modIDs"] = {
+			[0] = 347,
+			[1] = 347,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(1811, { -- Blunt Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 10,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			6
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(1818, { -- Standard Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 15,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			9
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(1830, { -- Long Bastard Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			11
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(1975, { -- Pysan's Old Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["lvl"] = 13,
+		["modIDs"] = {
+			[0] = 515,
+			[1] = 515,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(1982, { -- Nightblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 24,
+		["inventoryType"] = 17,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 520,
+			[1] = 520,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(1986, { -- Gutrender
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 22,
+		["inventoryType"] = 17,
+		["lvl"] = 15,
+		["modIDs"] = {
+			[0] = 524,
+			[1] = 524,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(2000, { -- Archeus
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 532,
+			[1] = 532,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(2014, { -- Black Metal Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["lvl"] = 11,
+		["modIDs"] = {
+			[0] = 535,
+			[1] = 535,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(2024, { -- Espadon
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 13,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			8
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(2084, { -- Darksteel Bastard Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["lvl"] = 11,
+		["modIDs"] = {
+			[0] = 586,
+			[1] = 586,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(2204, { -- Brashclaw's Skewer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 10,
+		["inventoryType"] = 17,
+		["lvl"] = 6,
+		["modIDs"] = {
+			[0] = 667,
+			[1] = 667,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(2205, { -- Duskbringer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 13,
+		["inventoryType"] = 17,
+		["lvl"] = 8,
+		["modIDs"] = {
+			[1] = 668,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(2489, { -- Two-Handed Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 3,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			2
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(2521, { -- Flamberge
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			13
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(2529, { -- Zweihander
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 24,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			18
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(2754, { -- Tarnished Bastard Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(2801, { -- Blade of Hanna
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 953,
+			[1] = 953,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(2822, { -- Mo'grosh Toothpick
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 11,
+		["inventoryType"] = 17,
+		["lvl"] = 6,
+		["modIDs"] = {
+			[0] = 965,
+			[1] = 965,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(2877, { -- Combatant Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[0] = 988,
+			[1] = 988,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(3188, { -- Coral Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 8,
+		["inventoryType"] = 17,
+		["lvl"] = 5,
+		["modIDs"] = {
+			[0] = 1112,
+			[1] = 1112,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(3192, { -- Short Bastard Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 6,
+		["inventoryType"] = 17,
+		["lvl"] = 3,
+		["modIDs"] = {
+			[0] = 1116,
+			[1] = 1116,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(3196, { -- Edged Bastard Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 11,
+		["inventoryType"] = 17,
+		["lvl"] = 6,
+		["modIDs"] = {
+			[0] = 1120,
+			[1] = 1120,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(3197, { -- Stonecutter Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["lvl"] = 13,
+		["modIDs"] = {
+			[0] = 1121,
+			[1] = 1121,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(3206, { -- Cavalier Two-Hander
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["lvl"] = 11,
+		["modIDs"] = {
+			[0] = 1130,
+			[1] = 1130,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(3209, { -- Ancient War Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 1133,
+			[1] = 1133,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(3417, { -- Onyx Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 1246,
+			[1] = 1246,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(3487, { -- Heavy Copper Broadsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 11,
+		["inventoryType"] = 17,
+		["lvl"] = 7,
+		["modIDs"] = {
+			[0] = 1296,
+			[1] = 1296,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(3781, { -- Broad Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			13
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(3822, { -- Runic Darkblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 1441,
+			[1] = 1441,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(3853, { -- Moonsteel Broadsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 21,
+		["inventoryType"] = 17,
+		["lvl"] = 13,
+		["modIDs"] = {
+			[0] = 1460,
+			[1] = 1460,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(3854, { -- Frost Tiger Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 22,
+		["inventoryType"] = 17,
+		["lvl"] = 15,
+		["modIDs"] = {
+			[0] = 1461,
+			[1] = 1461,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(4018, { -- Whetted Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 23,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			16
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(4567, { -- Merc Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 9,
+		["inventoryType"] = 17,
+		["lvl"] = 5,
+		["modIDs"] = {
+			[0] = 1761,
+			[1] = 1761,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(4817, { -- Blessed Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 14,
+		["inventoryType"] = 17,
+		["isLimited"] = 1,
+		["lvl"] = 8,
+		["modIDs"] = {
+			[0] = 1871,
+			[1] = 1871,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(4818, { -- Executioner's Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 15,
+		["inventoryType"] = 17,
+		["isLimited"] = 1,
+		["lvl"] = 9,
+		["modIDs"] = {
+			[0] = 1872,
+			[1] = 1872,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(4939, { -- Steady Bastard Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 1924,
+			[1] = 1924,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(5182, { -- Shiver Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["lvl"] = 7,
+		["modIDs"] = {
+			[0] = 1980,
+			[1] = 1980,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(5614, { -- Seraph's Strike
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 2156,
+			[1] = 2156,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(5615, { -- Woodsman Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 2157,
+			[1] = 2157,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(5779, { -- Forsaken Bastard Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(5813, { -- Emil's Brand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 2194,
+			[1] = 2194,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(6186, { -- Trogg Slicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 11,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 2283,
+			[1] = 2283,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(6641, { -- Haunting Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 13,
+		["inventoryType"] = 17,
+		["lvl"] = 8,
+		["modIDs"] = {
+			[1] = 2549,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(6741, { -- Orcish War Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(6909, { -- Strike of the Hydra
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 2649,
+			[1] = 2649,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(6977, { -- Whirlwind Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 22,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 2665,
+			[1] = 2665,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(7689, { -- Morbid Dawn
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[1] = 2915,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(7955, { -- Copper Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			3
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(7957, { -- Bronze Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 3001,
+			[1] = 3001,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(7960, { -- Truesilver Champion
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 3004,
+			[1] = 3004,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(8177, { -- Practice Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 3,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			2
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(8178, { -- Training Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["lvl"] = 3,
+		["modIDs"] = {
+			[0] = 3078,
+			[1] = 3078,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(8199, { -- Battlefield Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 25,
+		["inventoryType"] = 17,
+		["lvl"] = 18,
+		["modIDs"] = {
+			[0] = 3099,
+			[1] = 3099,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(9372, { -- Sul'thraze the Lasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 25,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			19
+		},
+		["modIDs"] = {
+			[0] = 3228,
+			[1] = 3228,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(9385, { -- Archaic Defender
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 21,
+		["inventoryType"] = 17,
+		["lvl"] = 13,
+		["modIDs"] = {
+			[0] = 3236,
+			[1] = 3236,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(9418, { -- Stoneslayer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 22,
+		["inventoryType"] = 17,
+		["lvl"] = 15,
+		["modIDs"] = {
+			[0] = 3268,
+			[1] = 3268,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(9490, { -- Gizmotron Megachopper
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["lvl"] = 11,
+		["modIDs"] = {
+			[0] = 3320,
+			[1] = 3320,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(9602, { -- Brushwood Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(10573, { -- Boneslasher
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 24,
+		["inventoryType"] = 17,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 3996,
+			[1] = 3996,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(10628, { -- Deathblow
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = 21,
+		["modIDs"] = {
+			[0] = 4020,
+			[1] = 4020,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(10758, { -- X'caliboar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 24,
+		["inventoryType"] = 17,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 4068,
+			[1] = 4068,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(11786, { -- Stone of the Earth
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 4250,
+			[1] = 4250,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(11854, { -- Samophlange Screwdriver
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 11,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 4278,
+			[1] = 4278,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(12463, { -- Drakefang Butcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = 21,
+		["modIDs"] = {
+			[0] = 4436,
+			[1] = 4436,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(12592, { -- Blackblade of Shahram
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 4473,
+			[1] = 4473,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(12764, { -- Thorium Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 4527,
+			[1] = 4527,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(12782, { -- Corruption
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 4537,
+			[1] = 4537,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(12790, { -- Arcanite Champion
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 4543,
+			[1] = 4543,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["timeline"] = {
+			"added 1.11.1.5462",
+			"removed 4.0.1.13287",
+			"added 7.1.5.23360"
+		},
+	}),
+	i(12992, { -- Searing Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 14,
+		["inventoryType"] = 17,
+		["lvl"] = 9,
+		["modIDs"] = {
+			[0] = 4635,
+			[1] = 4635,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13041, { -- Guardian Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 4681,
+			[1] = 4681,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13042, { -- Sword of the Magistrate
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 22,
+		["inventoryType"] = 17,
+		["lvl"] = 15,
+		["modIDs"] = {
+			[0] = 4682,
+			[1] = 4682,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13043, { -- Blade of the Titans
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 25,
+		["inventoryType"] = 17,
+		["lvl"] = 19,
+		["modIDs"] = {
+			[0] = 4683,
+			[1] = 4683,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13044, { -- Demonslayer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 4684,
+			[1] = 4684,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13049, { -- Deanship Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[0] = 4689,
+			[1] = 4689,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13051, { -- Witchfury
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 24,
+		["inventoryType"] = 17,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 4691,
+			[1] = 4691,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13052, { -- Warmonger
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 4692,
+			[1] = 4692,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13053, { -- Doombringer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 4693,
+			[1] = 4693,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13163, { -- Relentless Scythe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 4776,
+			[1] = 4776,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13262, { -- Ashbringer
+		["b"] = 1,
+		["class"] = 2,
+		["collectible"] = false,
+		["description"] = "This is here so that you can quickly compare the Corrupted Ashbringer with the original Ashbringer model. It was never available to players.\n\nThis weapon was eventually turned into an Artifact weapon with an updated model for the Legion expansion for Retribution Paladins.",
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 4820,
+			[1] = 4820,
+		},
+		["q"] = 5,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(13348, { -- Demonshear
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 25,
+		["inventoryType"] = 17,
+		["lvl"] = 18,
+		["modIDs"] = {
+			[0] = 4844,
+			[1] = 4844,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(13505, { -- Runeblade of Baron Rivendare
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["lvl"] = 21,
+		["modIDs"] = {
+			[0] = 4892,
+			[1] = 4892,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(13817, { -- Tapered Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			22
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(13982, { -- Warblade of Caer Darrow
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 24,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 5087,
+			[1] = 5087,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(14541, { -- Barovian Family Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 24,
+		["inventoryType"] = 17,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 5453,
+			[1] = 5453,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(15248, { -- Gleaming Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["lvl"] = 7,
+		["modIDs"] = {
+			[0] = 6031,
+			[1] = 6031,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15249, { -- Polished Zweihander
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 6032,
+			[1] = 6032,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15250, { -- Glimmering Flamberge
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[0] = 6033,
+			[1] = 6033,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15251, { -- Headstriker Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 23,
+		["inventoryType"] = 17,
+		["lvl"] = 16,
+		["modIDs"] = {
+			[0] = 6034,
+			[1] = 6034,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15252, { -- Tusker Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 25,
+		["inventoryType"] = 17,
+		["lvl"] = 19,
+		["modIDs"] = {
+			[0] = 6035,
+			[1] = 6035,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15253, { -- Beheading Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 6036,
+			[1] = 6036,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15254, { -- Dark Espadon
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["lvl"] = 21,
+		["modIDs"] = {
+			[0] = 6037,
+			[1] = 6037,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15255, { -- Gallant Flamberge
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 6038,
+			[1] = 6038,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15256, { -- Massacre Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 6039,
+			[1] = 6039,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15257, { -- Shin Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 6040,
+			[1] = 6040,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(15258, { -- Divine Warblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 6041,
+			[1] = 6041,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(16039, { -- Ta'Kierthan Songblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 6579,
+			[1] = 6579,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(17076, { -- Bonereaver's Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7085,
+			[1] = 7085,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(18410, { -- Sprinter's Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 28,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 7321,
+			[1] = 7321,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(18520, { -- Barbarous Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 25,
+		["inventoryType"] = 17,
+		["lvl"] = 19,
+		["modIDs"] = {
+			[0] = 7388,
+			[1] = 7388,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(18542, { -- Typhoon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7406,
+			[1] = 7406,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(18822, { -- Obsidian Edged Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7498,
+			[1] = 7498,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(18876, { -- Grand Marshal's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7534,
+			[1] = 7534,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(18877, { -- High Warlord's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7535,
+			[1] = 7535,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(19334, { -- The Untamed Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7655,
+			[1] = 7655,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(19364, { -- Ashkandi, Greatsword of the Brotherhood
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7674,
+			[1] = 7674,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(19854, { -- Zin'rokh, Destroyer of Worlds
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7822,
+			[1] = 7822,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(20504, { -- Lightforged Blade
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 8094,
+			[1] = 8094,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(20669, { -- Darkstone Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 8161,
+			[1] = 8161,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(21492, { -- Manslayer of the Qiraji
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 8492,
+			[1] = 8492,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(21679, { -- Kalimdor's Revenge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 8585,
+			[1] = 8585,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(22691, { -- Corrupted Ashbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 30,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 8925,
+			[1] = 8925,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(22813, { -- Claymore of Unholy Might
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 8983,
+			[1] = 8983,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(22958, { -- Farstrider Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(22995, { -- Sin'dorei Warblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 13,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 9059,
+			[1] = 9059,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(23346, { -- Battleworn Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(23372, { -- Bloodhawk Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 3,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(23390, { -- Exodar Bastard Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(23423, { -- Mercenary Greatsword
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 9263,
+			[1] = 9263,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(23499, { -- Fel Iron Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 9312,
+			[1] = 9312,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(23541, { -- Khorium Champion
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 9349,
+			[1] = 9349,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(24352, { -- Blade of the Hand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 9510,
+			[1] = 9510,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(24430, { -- Seafarer's Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(24550, { -- Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 9588,
+			[1] = 9588,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(25156, { -- Royal Crusader Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10153,
+			[1] = 10153,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25157, { -- Serpentlord Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 30,
+		["inventoryType"] = 17,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10154,
+			[1] = 10154,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25158, { -- Skeletal Broadsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 30,
+		["inventoryType"] = 17,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10155,
+			[1] = 10155,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25159, { -- Thunderstrike Falchion
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 30,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10156,
+			[1] = 10156,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(25160, { -- Vengeance Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 30,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10157,
+			[1] = 10157,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25161, { -- Dragon Wing Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 30,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10158,
+			[1] = 10158,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25162, { -- Darkened Broadsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10159,
+			[1] = 10159,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25163, { -- Elexorien Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10160,
+			[1] = 10160,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25164, { -- Crude Umbrafen Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10161,
+			[1] = 10161,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25165, { -- Boulderfist Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10162,
+			[1] = 10162,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25166, { -- Mok'Nathal Warblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10163,
+			[1] = 10163,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25167, { -- Nethersteel Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10164,
+			[1] = 10164,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25168, { -- Sha'tari Longsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10165,
+			[1] = 10165,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25169, { -- Fel Orc Brute Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10166,
+			[1] = 10166,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(25400, { -- Tarnished Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(25944, { -- Shaarde the Greater
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[1] = 10656,
+			[2] = 10656,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(25987, { -- Helboar Carving Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 30,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 10696,
+			[1] = 10696,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(27389, { -- Surplus Bastard Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 11867,
+			[1] = 11867,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(27390, { -- Vindicator's Letter Opener
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 9,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 11868,
+			[1] = 11868,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(27752, { -- Zangarmarsh Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 12041,
+			[1] = 12041,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(27769, { -- Endbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12054,
+			[2] = 12054,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(28164, { -- Tranquillien Flamberge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 8,
+		["inventoryType"] = 17,
+		["lvl"] = 5,
+		["modIDs"] = {
+			[0] = 12288,
+			[1] = 12288,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(28293, { -- High Warlord's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12371,
+			[1] = 12371,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(28367, { -- Greatsword of Forlorn Visions
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12423,
+			[2] = 12423,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(28428, { -- Lionheart Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12467,
+			[1] = 12467,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["timeline"] = {
+			"added 2.0.1.6180",
+			"removed 4.0.1.13287"
+		},
+		["u"] = 2,
+	}),
+	i(28429, { -- Lionheart Champion
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12468,
+			[1] = 12468,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["timeline"] = {
+			"added 2.0.1.6180",
+			"removed 4.0.1.13287"
+		},
+		["u"] = 2,
+	}),
+	i(28430, { -- Lionheart Executioner
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12469,
+			[1] = 12469,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["timeline"] = {
+			"added 2.0.1.6180",
+			"removed 4.0.1.13287"
+		},
+		["u"] = 2,
+	}),
+	i(28573, { -- Despair
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12555,
+			[1] = 12555,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(28943, { -- Grand Marshal's Warblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12833,
+			[1] = 12833,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(29356, { -- Quantum Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 13100,
+			[2] = 13100,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(29993, { -- Twinblade of the Phoenix
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 13448,
+			[1] = 13448,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(30086, { -- Stoneforged Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 13525,
+			[1] = 13525,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["timeline"] = {
+			"added 2.1.0.6692",
+			"removed 4.0.1.13287",
+			"added 7.1.5.23360"
+		},
+	}),
+	i(30394, { -- Sunfury Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 13744,
+			[1] = 13744,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(30570, { -- Arkadian Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["isLimited"] = 1,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 13816,
+			[1] = 13816,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(30597, { -- Halaani Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["isLimited"] = 1,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 13821,
+			[1] = 13821,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(30750, { -- Draenic Warblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(30789, { -- Illidari-Bane Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 13920,
+			[1] = 13920,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(30902, { -- Cataclysm's Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 13975,
+			[1] = 13975,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(31134, { -- Blade of Misfortune
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 30,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 14160,
+			[1] = 14160,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(31267, { -- (Action Figure) Gnome Warrior Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(31816, { -- Dragonbone Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 14633,
+			[1] = 14633,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(31984, { -- Merciless Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 14671,
+			[1] = 14671,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(33430, { -- Abandoned Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(33475, { -- Frostmourne
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["q"] = 0,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(33478, { -- Jin'rohk, The Great Apocalypse
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 15458,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(33688, { -- Vengeful Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15561,
+			[1] = 15561,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(34247, { -- Apolyon, the Soul-Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15816,
+			[1] = 15816,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(34661, { -- Massacre Sword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 8,
+		["modIDs"] = {
+			[0] = 16095,
+			[1] = 16095,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(35015, { -- Brutal Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16258,
+			[1] = 16258,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(35618, { -- Troll Butcherer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[1] = 16552,
+			[2] = 16552,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(35849, { -- Featherweight Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 16647,
+			[1] = 16647,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36529, { -- Unearthed Broadsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 17266,
+			[1] = 17266,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36530, { -- Whetted Ironblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17267,
+			[1] = 17267,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36531, { -- Sawtooth Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17268,
+			[1] = 17268,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36532, { -- Shark Fin Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17269,
+			[1] = 17269,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36533, { -- Adorned Broadsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			27
+		},
+		["modIDs"] = {
+			[0] = 17270,
+			[1] = 17270,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(36534, { -- Tempered-Steel Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17271,
+			[1] = 17271,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36535, { -- Dragon's Rib Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17272,
+			[1] = 17272,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36536, { -- Inlaid Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17273,
+			[1] = 17273,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36537, { -- Fur-Grip Broadsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17274,
+			[1] = 17274,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36538, { -- Trollish Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17275,
+			[1] = 17275,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36539, { -- Chilled Warblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17276,
+			[1] = 17276,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36540, { -- Petrified Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17277,
+			[1] = 17277,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36541, { -- Wintry Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17278,
+			[1] = 17278,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36542, { -- Invasion Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 17279,
+			[1] = 17279,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36883, { -- Combatant Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 17480,
+			[1] = 17480,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(36942, { -- Frostmourne
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(37080, { -- Crimson Will
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 32,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 17592,
+			[1] = 17592,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(37108, { -- Dreadlord's Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[1] = 17604,
+			[2] = 17604,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(37653, { -- Sword of Justice
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 17928,
+			[2] = 17928,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(37659, { -- Enti's Quenched Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(38181, { -- Warblade of the Forgotten Footman
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 18299,
+			[1] = 18299,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(38195, { -- Magister's Bane
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 18312,
+			[1] = 18312,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(38632, { -- Greatsword of the Ebon Blade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 18497,
+			[1] = 18497,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(38707, { -- Runed Soulblade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 18521,
+			[1] = 18521,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(39117, { -- Liberator's Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 18663,
+			[1] = 18663,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(39370, { -- Keleseth's Persuader
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(39393, { -- Claymore of Ancient Power
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 18835,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(39802, { -- Crusader's Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 19119,
+			[1] = 19119,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(40004, { -- Forsaken Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(40343, { -- Armageddon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 19363,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(41242, { -- Forged Cobalt Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 33,
+		["inventoryType"] = 17,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 19956,
+			[1] = 19956,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(42297, { -- Savage Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20466,
+			[1] = 20466,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(42331, { -- Hateful Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20479,
+			[1] = 20479,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(42332, { -- Deadly Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20480,
+			[1] = 20480,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(42333, { -- Furious Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20481,
+			[1] = 20481,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(42334, { -- Relentless Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20482,
+			[1] = 20482,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(42799, { -- Snowblind Butcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 20727,
+			[1] = 20727,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(43832, { -- The Argent Resolve
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 21160,
+			[1] = 21160,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(43883, { -- Arete's Command
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 34,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 21196,
+			[1] = 21196,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(44092, { -- Reforged Truesilver Champion
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 142,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 21333,
+			[1] = 21333,
+		},
+		["q"] = 7,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(44249, { -- Runeblade of Demonstrable Power
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 21415,
+			[1] = 21415,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(44639, { -- Dalaran Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(45074, { -- Claymore of the Prophet
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		241,
+		25
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 21639,
+			[1] = 21639,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 8,
+	}),
+	i(45205, { -- Greatsword of the Sin'dorei
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		241,
+		25
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 21707,
+			[1] = 21707,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 8,
+	}),
+	i(45233, { -- Stormrune Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21727,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(45516, { -- Voldrethar, Dark Blade of Oblivion
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21956,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(45868, { -- Aesir's Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 22098,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(45950, { -- Furious Gladiator's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22133,
+			[1] = 22133,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(46016, { -- Abaddon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 22177,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(47515, { -- Decimation
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22816,
+			[1] = 22816,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(47516, { -- Fleshrender
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22817,
+			[1] = 22817,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(47737, { -- Reckoning
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 22953,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 8,
+	}),
+	i(47884, { -- Edge of Agony
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 23067,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 8,
+	}),
+	i(47951, { -- Reckoning
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 23121,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 8,
+	}),
+	i(48023, { -- Edge of Agony
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 23181,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 8,
+	}),
+	i(48406, { -- Relentless Gladiator's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 23530,
+			[1] = 23530,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(49299, { -- Keen Obsidian Edged Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24062,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(49396, { -- Rusty Prybar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(49457, { -- Fury of the Flame
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 10,
+		["inventoryType"] = 17,
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(49498, { -- Sharpened Obsidian Edged Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24204,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(49560, { -- Proof of Death
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 9,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 24256,
+			[1] = 24256,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(49607, { -- Battlescarred Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 6,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(49778, { -- Worn Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(49839, { -- Mourning Malice
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24413,
+			[2] = 24413,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(50048, { -- Quel'Delar, Might of the Faithful
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 24517,
+			[1] = 24517,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(50049, { -- Quel'Delar, Ferocity of the Scorned
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 24518,
+			[1] = 24518,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(50070, { -- Glorenzelg, High-Blade of the Silver Hand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24534,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(50442, { -- Ashbringer (Extra Effects)
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(50730, { -- Glorenzelg, High-Blade of the Silver Hand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24832,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(50761, { -- Citadel Enforcer's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24848,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(51392, { -- Wrathful Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25249,
+			[1] = 25249,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(51393, { -- Wrathful Gladiator's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25250,
+			[1] = 25250,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(51936, { -- Citadel Enforcer's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25650,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(53259, { -- Tomusa's Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 26068,
+			[1] = 26068,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(53298, { -- Stonesthrow Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 26100,
+			[1] = 26100,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(54989, { -- Rallying Charge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 7,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 26754,
+			[1] = 26754,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(55052, { -- Obsidium Executioner
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 26815,
+			[1] = 26815,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(55461, { -- Razorwind Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 27064,
+			[1] = 27064,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(55462, { -- Steelspark Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 27065,
+			[1] = 27065,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(55463, { -- Angerfang Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 27066,
+			[1] = 27066,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(55464, { -- Nethergarde Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 27067,
+			[1] = 27067,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(55465, { -- Splinterspear Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 27068,
+			[1] = 27068,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(55466, { -- Mardenholde Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 27069,
+			[1] = 27069,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(55467, { -- Bladefist Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 27070,
+			[1] = 27070,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(55468, { -- Irontree Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 27071,
+			[1] = 27071,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(55469, { -- Rustmaul Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			32
+		},
+		["modIDs"] = {
+			[0] = 27072,
+			[1] = 27072,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(55811, { -- Sword of the Bottomless Pit
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 27398,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(55904, { -- The Tranquilizer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 27460,
+			[1] = 27460,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(56342, { -- Sword of the Bottomless Pit
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 27672,
+			[2] = 27672,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(56702, { -- Saw Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 27914,
+			[1] = 27914,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(56705, { -- Skunkworks Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 27916,
+			[1] = 27916,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(57155, { -- Worgen Slaying Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 4,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(57248, { -- Well-Used Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 28168,
+			[1] = 28168,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(57294, { -- Poisonfire Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 28208,
+			[1] = 28208,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(57437, { -- Barus' Backup Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 18,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 28331,
+			[1] = 28331,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(58931, { -- House Wrynn Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 8,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 29292,
+			[1] = 29292,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(59039, { -- Very Light Sabre
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 2,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 29358,
+			[1] = 29358,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(59647, { -- Captain Verne's Splitter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 29825,
+			[1] = 29825,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(59650, { -- Glovaal's Choppink Svord
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 29828,
+			[1] = 29828,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(60823, { -- Battlefront Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			29
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(61346, { -- Vicious Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 30711,
+			[1] = 30711,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(62064, { -- Warped Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(62454, { -- Blade of the Fearless
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		391,
+		85
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 31375,
+			[1] = 31375,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(62473, { -- Blade of the Fearless
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		391,
+		85
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 31382,
+			[1] = 31382,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(63679, { -- Reclaimed Ashkandi, Greatsword of the Brotherhood
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 31994,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(63787, { -- Oversized Oblique Ogre Obliterator
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 32071,
+			[1] = 32071,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(64377, { -- Zin'rokh, Destroyer of Worlds
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 32202,
+			[1] = 32202,
+		},
+		["q"] = 4,
+		["requireSkill"] = 794,
+		["subclass"] = 8,
+	}),
+	i(64604, { -- Sword of Marshtide Watch
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 32297,
+			[1] = 32297,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(64755, { -- Bloodthirsty Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 32390,
+			[1] = 32390,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(65003, { -- Reclaimed Ashkandi, Greatsword of the Brotherhood
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[2] = 32600,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(65474, { -- Greatsword of the Sunwalker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 32953,
+			[1] = 32953,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(65493, { -- Greatsword of the Crown
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 12,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 32972,
+			[1] = 32972,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(65681, { -- Stagwich Slicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 14,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 33128,
+			[1] = 33128,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(65982, { -- Sword of Nefarian's Hand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 33347,
+			[1] = 33347,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(66978, { -- Rage-Possessed Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 36,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 34131,
+			[1] = 34131,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(67198, { -- Scourgebane's Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 27,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 34238,
+			[1] = 34238,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(67447, { -- Vicious Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 34282,
+			[1] = 34282,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(70164, { -- Masterwork Elementium Deathblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35723,
+			[1] = 35723,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(70178, { -- Ruthless Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35725,
+			[1] = 35725,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(70231, { -- Ruthless Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35778,
+			[1] = 35778,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(71780, { -- Zoid's Firelit Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 36864,
+			[3] = 36864,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(71781, { -- Zoid's Firelit Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[2] = 36865,
+			[5] = 36865,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(72041, { -- Placeholder 2H Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(72992, { -- Valiant Greatsword
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 37450,
+			[1] = 37450,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(72993, { -- Zealous Greatsword
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 37451,
+			[1] = 37451,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(73210, { -- Trainee's Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(73235, { -- Sword of the Burning Spirit
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(73442, { -- Cataclysmic Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37650,
+			[1] = 37650,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(73475, { -- Cataclysmic Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37683,
+			[1] = 37683,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(74589, { -- Jade Hilted Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 3,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(77191, { -- Gurthalak, Voice of the Deeps
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 38926,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(77560, { -- Replica Grand Marshal's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 39141,
+			[1] = 39141,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 8,
+	}),
+	i(77577, { -- Replica High Warlord's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 39158,
+			[1] = 39158,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 8,
+	}),
+	i(78478, { -- Gurthalak, Voice of the Deeps
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[2] = 39855,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(78487, { -- Gurthalak, Voice of the Deeps
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 39864,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(80791, { -- Jinyu Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 40671,
+			[1] = 40671,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(81545, { -- Marista Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 41171,
+			[1] = 41171,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(81552, { -- Red Crane Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 41178,
+			[1] = 41178,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(81577, { -- Lightbreaker Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 41192,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(81681, { -- Faded Forest Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 41281,
+			[1] = 41281,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(81703, { -- Glorenzelg, High-Blade of the Silver Hand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 41303,
+			[1] = 41303,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(82000, { -- Polished Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 41524,
+			[1] = 41524,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(82050, { -- Bronzed Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 41572,
+			[1] = 41572,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(82105, { -- Barbarian Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 41625,
+			[1] = 41625,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(82160, { -- Rigid Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[0] = 41678,
+			[1] = 41678,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(82215, { -- Inlaid Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[0] = 41731,
+			[1] = 41731,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(82270, { -- Engraved Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["lvl"] = 34,
+		["modIDs"] = {
+			[0] = 41784,
+			[1] = 41784,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(82599, { -- Shomi's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 41955,
+			[1] = 41955,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(82716, { -- Mountainscaler Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[0] = 42056,
+			[1] = 42056,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(82822, { -- Gravetouch Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 42120,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(83270, { -- Wasteland Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["lvl"] = 34,
+		["modIDs"] = {
+			[0] = 42425,
+			[1] = 42425,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(84254, { -- Sword of the Lone Victor
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 42905,
+			[1] = 42905,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(84530, { -- Swordmistress' Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 43099,
+			[1] = 43099,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(84537, { -- Binan Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 43106,
+			[1] = 43106,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(84717, { -- Dreadful Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43208,
+			[1] = 43208,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(84790, { -- Malevolent Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43262,
+			[1] = 43262,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(85112, { -- Malevolent Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43555,
+			[1] = 43555,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(86140, { -- Starshatter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 44287,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(86523, { -- Swarming Cleaver of Ka'roz
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[0] = 44488,
+			[1] = 44488,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(86799, { -- Starshatter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 44683,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(87061, { -- Starshatter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 44907,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(87423, { -- Bjam's Door-Breaker
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 38,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 45161,
+			[1] = 45161,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(87542, { -- Mogu'Dar, Blade of the Thousand Slaves
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 45242,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(88297, { -- Lightbreaker Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 19,
+		["inventoryType"] = 17,
+		["lvl"] = 13,
+		["modIDs"] = {
+			[1] = 45693,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(88339, { -- Gravetouch Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 23,
+		["inventoryType"] = 17,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[1] = 45702,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(89398, { -- Amber Flammard of Klaxxi'vess
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 46293,
+			[1] = 46293,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(90388, { -- Greatsword of Kofinna Kottr
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 46970,
+			[1] = 46970,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(90464, { -- Satay's Stabbing Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 47017,
+			[1] = 47017,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(90813, { -- Salt-Scored Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(91091, { -- Tyrannical Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47401,
+			[1] = 47401,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(91092, { -- Tyrannical Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47402,
+			[1] = 47402,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(91444, { -- Malevolent Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47723,
+			[1] = 47723,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(93127, { -- Scavenged Pandaren Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 48534,
+			[1] = 48534,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(93851, { -- Battle-Forged Truesilver Champion
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 170,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 49001,
+			[1] = 49001,
+		},
+		["q"] = 7,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(94311, { -- Tyrannical Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 49291,
+			[1] = 49291,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(94588, { -- Lionheart Blade, Reborn
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 49474,
+			[1] = 49474,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(94590, { -- Lionheart Champion, Reborn
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 49476,
+			[1] = 49476,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(94592, { -- Lionheart Executioner, Reborn
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 49478,
+			[1] = 49478,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(94758, { -- Zerat, Malakk's Soulburning Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 49612,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(95505, { -- Greatsword of Frozen Hells
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50119,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(95675, { -- Zerat, Malakk's Soulburning Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50202,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(95875, { -- Greatsword of Frozen Hells
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50367,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(96047, { -- Zerat, Malakk's Soulburning Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50514,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(96247, { -- Greatsword of Frozen Hells
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50679,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(96419, { -- Zerat, Malakk's Soulburning Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 41,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 50826,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(96619, { -- Greatsword of Frozen Hells
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 41,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 50991,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(96791, { -- Zerat, Malakk's Soulburning Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 41,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 51138,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(96991, { -- Greatsword of Frozen Hells
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 41,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 51303,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(98262, { -- Immaculate Pandaren Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 51984,
+			[1] = 51984,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(98312, { -- Immaculate Pandaren Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 52003,
+			[1] = 52003,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(99768, { -- Tyrannical Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 52959,
+			[1] = 52959,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(99972, { -- Tyrannical Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53140,
+			[1] = 53140,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(100187, { -- Grievous Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53326,
+			[1] = 53326,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(100188, { -- Grievous Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53327,
+			[1] = 53327,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(100541, { -- Grievous Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53657,
+			[1] = 53657,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(101146, { -- Sunsoul Greatsword
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53977,
+			[1] = 53977,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(101278, { -- Oathsworn Greatsword
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54064,
+			[1] = 54064,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(102599, { -- Prideful Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54790,
+			[1] = 54790,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(102796, { -- Grievous Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54961,
+			[1] = 54961,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(102986, { -- Prideful Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55125,
+			[1] = 55125,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(103141, { -- Grievous Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55280,
+			[1] = 55280,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(103338, { -- Prideful Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55451,
+			[1] = 55451,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(103869, { -- Greatsword of Pride's Fall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55840,
+			[1] = 55840,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(104483, { -- Greatsword of Pride's Fall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56105,
+			[1] = 56105,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(104732, { -- Greatsword of Pride's Fall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 41,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56306,
+			[1] = 56306,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(104981, { -- Greatsword of Pride's Fall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56507,
+			[1] = 56507,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(105230, { -- Greatsword of Pride's Fall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56708,
+			[1] = 56708,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(105479, { -- Greatsword of Pride's Fall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56909,
+			[1] = 56909,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(106322, { -- Brittle Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			35
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(108806, { -- 7.0 PH Weapon - 2H Sword Str
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 136,
+		["inventoryType"] = 17,
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(108905, { -- Jagged Turtleshell Blade
+		["b"] = 1,
+		["class"] = 2,
+		["description"] = "If this drops for you, please provide as much information as you can about how and where you got it.",
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 90,
+		["modIDs"] = {
+			[0] = 58948,
+			[1] = 58948,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(108912, { -- Karabor Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 58952,
+			[1] = 58952,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(109373, { -- 7.0 QA Combat Test Strength 2h Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 152,
+		["inventoryType"] = 17,
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(110030, { -- Chakram-Breaker Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[1] = 59634,
+			[2] = 61042,
+			[22] = 59634,
+			[23] = 59634,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(111204, { -- Primal Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 60259,
+			[1] = 60259,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(111811, { -- Foundry Raid - Shaman - Stalker Sword - MRN
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(112949, { -- Greatsword of Pride's Fall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 41,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[3] = 61975,
+			[4] = 61976,
+			[5] = 61975,
+			[6] = 61977,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(113045, { -- Restalaan's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 62024,
+			[1] = 62024,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(113848, { -- Gor'gah, High Blade of the Gorians
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 62634,
+			[5] = 62635,
+			[6] = 62636,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(113913, { -- Ka'graz's Burning Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 62752,
+			[5] = 62753,
+			[6] = 62754,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(114912, { -- Mighty Gorian Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 63761,
+			[1] = 63761,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(115138, { -- Primal Combatant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64064,
+			[1] = 64064,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(115418, { -- Blood Gutter Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64363,
+			[1] = 64363,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(115731, { -- Primal Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64598,
+			[1] = 64598,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(115819, { -- Primal Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64644,
+			[1] = 64644,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(116116, { -- Blazegrease Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 94,
+		["modIDs"] = {
+			[0] = 64964,
+			[1] = 64964,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(116366, { -- Magic-Breaker Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[4] = 65229,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(116472, { -- Frostbitten Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65334,
+			[1] = 65334,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116489, { -- Lunarglow Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65351,
+			[1] = 65351,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116506, { -- Vinewrapped Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 36,
+		["modIDs"] = {
+			[0] = 65368,
+			[1] = 65368,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116523, { -- Creeperclaw Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 36,
+		["modIDs"] = {
+			[0] = 65385,
+			[1] = 65385,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116540, { -- Incised Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 40,
+		["inventoryType"] = 17,
+		["lvl"] = 37,
+		["modIDs"] = {
+			[0] = 65402,
+			[1] = 65402,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116557, { -- Auchenai Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 41,
+		["inventoryType"] = 17,
+		["lvl"] = 37,
+		["modIDs"] = {
+			[0] = 65419,
+			[1] = 65419,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116574, { -- Skettis Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 38,
+		["modIDs"] = {
+			[0] = 65436,
+			[1] = 65436,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116591, { -- Longclaw Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 38,
+		["modIDs"] = {
+			[0] = 65453,
+			[1] = 65453,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116608, { -- Bloodmane Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 65470,
+			[1] = 65470,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116625, { -- Gorian Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 43,
+		["inventoryType"] = 17,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 65487,
+			[1] = 65487,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(116642, { -- Howling Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 65504,
+			[1] = 65504,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(117019, { -- Heart-Lesion Greatsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65725,
+			[1] = 65725,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(117049, { -- Heart-Lesion Runeblade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65745,
+			[1] = 65745,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(117711, { -- Tournament Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66152,
+			[1] = 66152,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(117912, { -- Tournament Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66314,
+			[1] = 66314,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(118080, { -- Admiral Taylor's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 42,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 66418,
+			[1] = 66418,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(118264, { -- Serrated Void Crystal
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 98,
+		["modIDs"] = {
+			[0] = 66525,
+			[1] = 66525,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(118412, { -- Greatsword of the Inferno
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = 10000000,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66560,
+			[1] = 66560,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(118740, { -- Bleakblade of Shahram
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[1] = 66630,
+			[2] = 66630,
+			[23] = 66630,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(118806, { -- Windworn Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 38,
+		["modIDs"] = {
+			[0] = 67835,
+			[1] = 67835,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(118994, { -- Expeditious Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66745,
+			[1] = 66745,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(119411, { -- Massive Rockworm Fang
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 67078,
+			[1] = 67078,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(119469, { -- Heart-Lesion Greatsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67331,
+			[1] = 67331,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(119499, { -- Heart-Lesion Runeblade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67351,
+			[1] = 67351,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(120076, { -- Primal Combatant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67781,
+			[1] = 67781,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(120978, { -- Ashbringer
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 69077,
+			[1] = 69077,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+	}),
+	i(121339, { -- Kvaldir Skinning Knife
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			40
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(121381, { -- Chipped Colossus Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			40
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(122067, { -- Inexorable Greatsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 69022,
+			[1] = 69022,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(122068, { -- Inexorable Runeblade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			40
+		},
+		["modIDs"] = {
+			[0] = 69023,
+			[1] = 69023,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(122365, { -- Reforged Truesilver Champion
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 64,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 69194,
+			[1] = 69194,
+		},
+		["q"] = 7,
+		["subclass"] = 8,
+	}),
+	i(122747, { -- Ashbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 142,
+		["inventoryType"] = 17,
+		["lvl"] = 100,
+		["q"] = 5,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(124388, { -- Fel-Burning Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 45,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 70198,
+			[5] = 70199,
+			[6] = 70200,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(124389, { -- Calamity's Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 45,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 70201,
+			[5] = 70202,
+			[6] = 70203,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(124543, { -- Jubei's Sword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(124625, { -- Baleful Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			40
+		},
+		["modIDs"] = {
+			[0] = 70379,
+			[1] = 70379,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(124843, { -- Wild Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 45,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70546,
+			[1] = 70546,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(125021, { -- Wild Combatant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70683,
+			[1] = 70683,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(125322, { -- Wild Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 45,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70924,
+			[1] = 70924,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(125498, { -- Wild Combatant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71061,
+			[1] = 71061,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(125633, { -- Wild Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 45,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71150,
+			[1] = 71150,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(125957, { -- Warmongering Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 46,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71457,
+			[1] = 71457,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(126135, { -- Warmongering Combatant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 45,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71594,
+			[1] = 71594,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(126436, { -- Warmongering Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 46,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71835,
+			[1] = 71835,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(126612, { -- Warmongering Combatant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 45,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71972,
+			[1] = 71972,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(126747, { -- Warmongering Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 46,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 72061,
+			[1] = 72061,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(127220, { -- Shaarde the Greater
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[22] = 72437,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(127339, { -- Forgotten Champion's Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 72522,
+			[1] = 72522,
+			[22] = 72522,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(127340, { -- Felfire Lit Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[0] = 72523,
+			[1] = 72523,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(127456, { -- Quantum Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 31,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[22] = 72579,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(128201, { -- Greatsword of Chaos
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[4] = 73331,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(128403, { -- Apocalypse
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 76523,
+			[1] = 76523,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+	}),
+	i(128908, { -- Warswords of the Valarjar
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 76540,
+			[1] = 76540,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+	}),
+	i(128910, { -- Strom'kar, the Warbreaker
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 73752,
+			[1] = 73752,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+	}),
+	i(129426, { -- Heart-Lesion Greatsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 74062,
+			[1] = 74062,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(129456, { -- Heart-Lesion Runeblade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 74082,
+			[1] = 74082,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(131738, { -- Ashbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 152,
+		["inventoryType"] = 17,
+		["q"] = 6,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(131739, { -- Ashbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 152,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 76003,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(131741, { -- Ashbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 152,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 76004,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(131742, { -- Ashbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 152,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[1] = 76005,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(133219, { -- Sword of the Bottomless Pit
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[22] = 76593,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(134553, { -- Warswords of the Valarjar
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 20,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 77771,
+			[1] = 77771,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+	}),
+	i(134606, { -- Scorching Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 78370,
+			[1] = 78370,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(134664, { -- Recruit's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 78345,
+			[1] = 78345,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(134746, { -- Covert Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 78394,
+			[1] = 78394,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(136665, { -- Stromkar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 152,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(137581, { -- Test Artifact 1
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 48,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 79113,
+			[1] = 79113,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(137582, { -- Ashbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 48,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 79133,
+			[1] = 79133,
+		},
+		["q"] = 6,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(139162, { -- Blood Guard's Tooth
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 80480,
+			[1] = 80480,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(139164, { -- Wrathblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 80482,
+			[1] = 80482,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(140558, { -- Greatsword of the Silver Hand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 47,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 81595,
+			[1] = 81595,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(140559, { -- Skyhold Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 47,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 81596,
+			[1] = 81596,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(140687, { -- Unholy Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 81742,
+			[1] = 81742,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(140714, { -- Bloodcaked Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 81769,
+			[1] = 81769,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(141364, { -- Unholy Ebon Warsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 82389,
+			[1] = 82389,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(141375, { -- Bloodied Ebon Warsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 82398,
+			[1] = 82398,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(141376, { -- Icy Ebon Warsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 82399,
+			[1] = 82399,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(142274, { -- Keleseth's Persuader
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(144187, { -- Lightbreaker Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 84455,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(144201, { -- Gravetouch Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 84469,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(144214, { -- Mogu'Dar, Blade of the Thousand Slaves
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 39,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 84482,
+			[2] = 84482,
+			[22] = 84482,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(150421, { -- Typhoon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 88908,
+			[1] = 88908,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 31,
+	}),
+	i(150582, { -- Unholy Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 89041,
+			[1] = 89041,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(150609, { -- Bloodcaked Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 89068,
+			[1] = 89068,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(152094, { -- Taeshalach
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			45
+		},
+		["modIDs"] = {
+			[3] = 90006,
+			[4] = 90006,
+			[5] = 90006,
+			[6] = 90006,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(152340, { -- Lustrous Daybreak Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			45
+		},
+		["modIDs"] = {
+			[0] = 90360,
+			[1] = 90360,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(152341, { -- Lustrous Eventide Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			45
+		},
+		["modIDs"] = {
+			[0] = 90361,
+			[1] = 90361,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(152828, { -- Monel-Hardened Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 52,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98215,
+			[1] = 98215,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(153312, { -- Praetor's Ornamental Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 90881,
+			[1] = 90881,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(153313, { -- Praetor's Ornamental Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 90882,
+			[1] = 90882,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(153315, { -- Praetor's Ornamental Warblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 90884,
+			[1] = 90884,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(153316, { -- Praetor's Ornamental Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 90885,
+			[1] = 90885,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(153403, { -- Scalawag's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 90964,
+			[1] = 90964,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(153717, { -- Heart-Lesion Greatsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 91025,
+			[1] = 91025,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(153747, { -- Heart-Lesion Runeblade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			45
+		},
+		["modIDs"] = {
+			[0] = 91045,
+			[1] = 91045,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(154664, { -- Lionsight Omensword
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 91697,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(155079, { -- Thrashneck Gladius
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 91978,
+			[1] = 91978,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(155152, { -- Witchrend Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 92045,
+			[1] = 92045,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(155225, { -- Bramblehulk Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 92112,
+			[1] = 92112,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(155444, { -- Sethraliss-Blessed Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 92313,
+			[1] = 92313,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(155972, { -- Stormrune Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92584,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(156228, { -- Voldrethar, Dark Blade of Oblivion
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92808,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(156290, { -- Aesir's Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92854,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(156341, { -- Abaddon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 35,
+		["inventoryType"] = 17,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92895,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(156955, { -- Reconditioned Archeus
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 93185,
+			[1] = 93185,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(157618, { -- Unholy Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 93804,
+			[1] = 93804,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(157646, { -- Bloodcaked Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 16,
+		["inventoryType"] = 17,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 93832,
+			[1] = 93832,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(158106, { -- Ironcrest Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94186,
+			[1] = 94186,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(158135, { -- Golden Empire Broadsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94215,
+			[1] = 94215,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(158506, { -- Scalawag's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 59,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 94500,
+			[1] = 94500,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(158650, { -- Sea-Scourge Greatblade
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 94618,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 94618,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(159095, { -- Bloodhunter Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 94845,
+			[1] = 94845,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(159103, { -- Dregada's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 94853,
+			[1] = 94853,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(159598, { -- Golden Fleet Longsword
+		["bonusIDs"] = {
+			[4796] = 95399,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95399,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(159599, { -- Zocali Greatsword
+		["bonusIDs"] = {
+			[4796] = 95400,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95400,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(159600, { -- Loa-Blessed Broadsword
+		["bonusIDs"] = {
+			[4796] = 95401,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95401,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(159601, { -- Zem'lan Longsword
+		["bonusIDs"] = {
+			[4796] = 95402,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95402,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(159634, { -- Jeweled Sharksplitter
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 95414,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 59,
+		["inventoryType"] = 17,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 95515,
+			[23] = 95516,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(159644, { -- Geti'ikku, Cut of Death
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 59,
+		["inventoryType"] = 17,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 95458,
+			[23] = 95458,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(159883, { -- Monster - Kings' Rest - Boss 4 - Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 180,
+		["inventoryType"] = 17,
+		["lvl"] = 110,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(160686, { -- Voror, Gleaming Blade of the Stalwart
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 96649,
+			[4] = 99124,
+			[5] = 96650,
+			[6] = 96651,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(160928, { -- Weathered Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			45
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(160972, { -- Herculean Golden Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[0] = 96922,
+			[1] = 96922,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(161195, { -- Sethrak Warden's Scimitar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 97111,
+			[1] = 97111,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(161293, { -- Thrashneck Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 97182,
+			[1] = 97182,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(161692, { -- Dread Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 97769,
+			[1] = 97769,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(161914, { -- Monel-Hardened Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 52,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98216,
+			[1] = 98216,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(162879, { -- Dread Aspirant's Greatsword
+		["b"] = 1,
+		["bonusIDs"] = {
+			[5080] = 98718,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98718,
+			[1] = 98718,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(163010, { -- Gravewalker's Runeblade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 50,
+		["inventoryType"] = 17,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98831,
+			[1] = 98831,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(163890, { -- 7th Legionnaire's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 99983,
+			[1] = 99983,
+			[3] = 99983,
+			[5] = 99983,
+			[6] = 99983,
+			[23] = 99983,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(163962, { -- Decapitator of Alireza
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100779,
+			[1] = 100779,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(164279, { -- Plundered Farakki Hacker
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100322,
+			[1] = 100322,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(164281, { -- Plundered Jadestar Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100324,
+			[1] = 100324,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(164334, { -- Plundered Blade of Northern Kings
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100375,
+			[1] = 100375,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(164353, { -- Plundered Scalebane Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100394,
+			[1] = 100394,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(165030, { -- Sinister Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 101213,
+			[1] = 101213,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(165195, { -- Sinister Aspirant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 101507,
+			[1] = 101507,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(165274, { -- Fallback Weapon - 2H Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["inventoryType"] = 17,
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(165586, { -- Dawnbreaker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 101996,
+			[4] = 101999,
+			[5] = 101997,
+			[6] = 101998,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(165632, { -- Sentinel's Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 102097,
+			[5] = 102097,
+			[6] = 102097,
+			[23] = 102097,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(166340, { -- Zuldazar Raid - 2h Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			45
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(166478, { -- Sinister Aspirant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 102751,
+			[1] = 102751,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(166479, { -- Sinister Gladiator's Greatsword
+		["b"] = 1,
+		["bonusIDs"] = {
+			[5080] = 102752,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 102752,
+			[1] = 102752,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(166482, { -- Deathguard's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 102755,
+			[5] = 102755,
+			[6] = 102755,
+			[23] = 102755,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(168799, { -- Steel Greatsword
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(169760, { -- Notorious Aspirant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105223,
+			[1] = 105223,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(169761, { -- Notorious Aspirant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105224,
+			[1] = 105224,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(169801, { -- Ogre Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(170093, { -- Tyr'mar's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 72,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 105347,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(170124, { -- Coral-Sharpened Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[0] = 105380,
+			[1] = 105380,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(170590, { -- Heart-Lesion Greatsword
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 68,
+		["inventoryType"] = 17,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 105642,
+			[1] = 105642,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+		["u"] = 1,
+	}),
+	i(170604, { -- Heart-Lesion Runeblade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 68,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105646,
+			[1] = 105646,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(171383, { -- Ceremonious Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 100,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105969,
+			[1] = 105969,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(171490, { -- Twinblade of the Phoenix
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			27
+		},
+		["modIDs"] = {
+			[1] = 106046,
+			[22] = 106046,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 36,
+	}),
+	i(171496, { -- Cataclysm's Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			27
+		},
+		["modIDs"] = {
+			[1] = 106051,
+			[22] = 106051,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 36,
+	}),
+	i(171566, { -- Glorenzelg, High-Blade of the Silver Hand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			30
+		},
+		["modIDs"] = {
+			[1] = 106114,
+			[22] = 106114,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 36,
+	}),
+	i(171639, { -- Reclaimed Ashkandi, Greatsword of the Brotherhood
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 106183,
+			[22] = 106183,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 36,
+	}),
+	i(172187, { -- Devastation's Hour
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 95,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[3] = 106544,
+			[4] = 108329,
+			[5] = 108330,
+			[6] = 108331,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(172763, { -- Corrupted Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107179,
+			[1] = 107179,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(172767, { -- Corrupted Gladiator's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107183,
+			[1] = 107183,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(172884, { -- Corrupted Aspirant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1792,
+		1750
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107294,
+			[1] = 107294,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(172885, { -- Corrupted Aspirant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1792,
+		1750
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107295,
+			[1] = 107295,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(173272, { -- Zoid's Firelit Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 85,
+		["modIDs"] = {
+			[1] = 107411,
+			[22] = 107411,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(173539, { -- Unholy Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 107553,
+			[1] = 107553,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(173566, { -- Bloodcaked Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 107580,
+			[1] = 107580,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(174224, { -- Greatsword of Cruelty
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 60,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 108404,
+			[1] = 108404,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(174485, { -- Burning Greatsword of the Ebon Blade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 108653,
+			[1] = 108653,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(174486, { -- Crimson Greatsword of the Ebon Blade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 108654,
+			[1] = 108654,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(174487, { -- Unholy Greatsword of the Ebon Blade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 108655,
+			[1] = 108655,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(174488, { -- Freezing Greatsword of the Ebon Blade
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 29,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 108656,
+			[1] = 108656,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(174990, { -- Monster - Sword_2h_PandaRaid_D_01 - Orange
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["inventoryType"] = 13,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(175166, { -- Expeditionary Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 5,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 108832,
+			[1] = 108832,
+		},
+		["q"] = 2,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(176283, { -- Ruthless Contender's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 85,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 109753,
+			[1] = 109753,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(176338, { -- Skytone Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 85,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 109796,
+			[1] = 109796,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(176800, { -- Modest Greatblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 100,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 110307,
+			[1] = 110307,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(177137, { -- 7th Legionnaire's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 58,
+		["inventoryType"] = 17,
+		["modIDs"] = {
+			[0] = 110568,
+			[1] = 110568,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 8,
+	}),
+	i(178476, { -- Sinful Aspirant's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1792,
+		1750
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 158,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 111379,
+			[1] = 111379,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(178671, { -- Sinful Aspirant's Broadsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 155,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			60
+		},
+		["modIDs"] = {
+			[1] = 111434,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(178780, { -- Rimebinder's Runeblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 158,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[1] = 111497,
+			[2] = 111497,
+			[23] = 111497,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(178949, { -- Blackhound Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 100,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 111600,
+			[1] = 111600,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(179301, { -- Large Muck Stained Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			50
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(179330, { -- Zin'khas, Blade of the Fallen God
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 158,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[1] = 111650,
+			[2] = 111650,
+			[23] = 111650,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(180273, { -- Sorrowbane
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 85,
+		["inventoryType"] = 17,
+		["lvl"] = 51,
+		["modIDs"] = {
+			[0] = 112961,
+			[1] = 112961,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(180669, { -- Reanimated Executioner's Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 85,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 113222,
+			[1] = 113222,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(180823, { -- Bonefused Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 85,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 113252,
+			[1] = 113252,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(181142, { -- Dark Blade of the Repentant
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3500
+	},
+	{
+		"c",
+		1885,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 157,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113468,
+			[1] = 113468,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(181232, { -- Cupbearer's Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 140,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113536,
+			[1] = 113536,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(181329, { -- Marrowfused Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		500
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 140,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113576,
+			[1] = 113576,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(181634, { -- Memoria Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 148,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113655,
+			[1] = 113655,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(181694, { -- Gorewrought Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 148,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113702,
+			[1] = 113702,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(182337, { -- Unholy Weapon
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 44,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			40
+		},
+		["modIDs"] = {
+			[0] = 114085,
+			[1] = 114085,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(182370, { -- Crusader's Blade of the Ember Court
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			60
+		},
+		["modIDs"] = {
+			[0] = 114092,
+			[1] = 114092,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(182389, { -- Nathrian Crusader's Bastard Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 174,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 114105,
+			[3] = 114105,
+			[4] = 114105,
+			[5] = 114105,
+			[6] = 115055,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(182402, { -- Sinful Gladiator's Crusaderblade
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1602,
+		1800
+	}
+},
+		["customCollect"] = {
+			"SL_COV_VEN"
+		},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 200,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 114118,
+			[1] = 114118,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(182415, { -- Stoneborn Goliath's Cleaver
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 174,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 114131,
+			[3] = 114131,
+			[4] = 114131,
+			[5] = 114131,
+			[6] = 115056,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(182428, { -- Gilded Sinfall Bastard Sword
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3500
+	},
+	{
+		"c",
+		1885,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 174,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 114144,
+			[1] = 114144,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	}),
+	i(182569, { -- NPE Weapon 2H Sword STR
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 155,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[0] = 114253,
+			[1] = 114253,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(182579, { -- NPE Weapon 2H Sword STR 2
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 155,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[0] = 114263,
+			[1] = 114263,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(183083, { -- Battle Tested Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 151,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			60
+		},
+		["modIDs"] = {
+			[0] = 114554,
+			[1] = 114554,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(183611, { -- Humble Ophelia's Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 144,
+		["inventoryType"] = 17,
+		["lvl"] = 48,
+		["modIDs"] = {
+			[0] = 114853,
+			[1] = 114853,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(183626, { -- Troll Gorer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 100,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 114871,
+			[1] = 114871,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+		["u"] = 2,
+	}),
+	i(183906, { -- Maw 2H Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(183907, { -- Maw 2H Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(183908, { -- Maw 2H Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(183909, { -- Maw 2H Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(183910, { -- Maw 2H Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(183911, { -- Maw 2H Sword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 17,
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(183981, { -- Kyrian Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3000
+	}
+},
+		["equippable"] = 1,
+		["f"] = 26,
+		["inventoryType"] = 17,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 115073,
+			[1] = 115073,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(184178, { -- Worldrending Claymore
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 85,
+		["inventoryType"] = 17,
+		["lvl"] = 48,
+		["modIDs"] = {
+			[0] = 115463,
+			[1] = 115463,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(184179, { -- Lichsworn Commander's Boneblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 85,
+		["inventoryType"] = 17,
+		["lvl"] = 48,
+		["modIDs"] = {
+			[0] = 115464,
+			[1] = 115464,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(184296, { -- Purity's Edge Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 144,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 115604,
+			[1] = 115604,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(184297, { -- Death Warden's Greatblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 144,
+		["inventoryType"] = 17,
+		["lvl"] = 48,
+		["modIDs"] = {
+			[0] = 115605,
+			[1] = 115605,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(184368, { -- Sputtering Hilt
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			47
+		},
+		["q"] = 0,
+		["subclass"] = 8,
+	}),
+	i(184469, { -- Doubt Tinged Greatsword
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 115667,
+			[1] = 115667,
+		},
+		["q"] = 2,
+		["subclass"] = 8,
+	}),
+	i(184530, { -- Greatsword of the Elysian Guard
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 151,
+		["inventoryType"] = 17,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 115686,
+			[1] = 115686,
+		},
+		["q"] = 3,
+		["subclass"] = 8,
+	}),
+	i(184804, { -- Ulfius' Calming Claymore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 26,
+		["ilvl"] = 190,
+		["inventoryType"] = 17,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 115874,
+			[1] = 115874,
+		},
+		["q"] = 4,
+		["subclass"] = 8,
+	})
+}
+
+i(647);		--[[Destiny]]
+i(922);		--[[Dacian Falx]]
+i(1194);		--[[Bastard Sword]]
+i(1198);		--[[Claymore]]
+i(1387);		--[[Ghoulfang]]
+i(1412);		--[[Crude Bastard Sword]]
+i(1460);		--[[Shadowhide Two-Handed Sword]]
+i(1513);		--[[Old Greatsword]]
+i(1566);		--[[Edge of the People's Militia]]
+i(1604);		--[[Chromatic Sword]]
+i(1625);		--[[Exquisite Flamberge]]
+i(1811);		--[[Blunt Claymore]]
+i(1818);		--[[Standard Claymore]]
+i(1830);		--[[Long Bastard Sword]]
+i(1975);		--[[Pysan's Old Greatsword]]
+i(1982);		--[[Nightblade]]
+i(1986);		--[[Gutrender]]
+i(2000);		--[[Archeus]]
+i(2014);		--[[Black Metal Greatsword]]
+i(2024);		--[[Espadon]]
+i(2084);		--[[Darksteel Bastard Sword]]
+i(2204);		--[[Brashclaw's Skewer]]
+i(2205);		--[[Duskbringer]]
+i(2489);		--[[Two-Handed Sword]]
+i(2521);		--[[Flamberge]]
+i(2529);		--[[Zweihander]]
+i(2754);		--[[Tarnished Bastard Sword]]
+i(2801);		--[[Blade of Hanna]]
+i(2822);		--[[Mo'grosh Toothpick]]
+i(2877);		--[[Combatant Claymore]]
+i(3188);		--[[Coral Claymore]]
+i(3192);		--[[Short Bastard Sword]]
+i(3196);		--[[Edged Bastard Sword]]
+i(3197);		--[[Stonecutter Claymore]]
+i(3206);		--[[Cavalier Two-Hander]]
+i(3209);		--[[Ancient War Sword]]
+i(3417);		--[[Onyx Claymore]]
+i(3487);		--[[Heavy Copper Broadsword]]
+i(3781);		--[[Broad Claymore]]
+i(3822);		--[[Runic Darkblade]]
+i(3853);		--[[Moonsteel Broadsword]]
+i(3854);		--[[Frost Tiger Blade]]
+i(4018);		--[[Whetted Claymore]]
+i(4567);		--[[Merc Sword]]
+i(4817);		--[[Blessed Claymore]]
+i(4818);		--[[Executioner's Sword]]
+i(4939);		--[[Steady Bastard Sword]]
+i(5182);		--[[Shiver Blade]]
+i(5614);		--[[Seraph's Strike]]
+i(5615);		--[[Woodsman Sword]]
+i(5779);		--[[Forsaken Bastard Sword]]
+i(5813);		--[[Emil's Brand]]
+i(6186);		--[[Trogg Slicer]]
+i(6641);		--[[Haunting Blade]]
+i(6741);		--[[Orcish War Sword]]
+i(6909);		--[[Strike of the Hydra]]
+i(6977);		--[[Whirlwind Sword]]
+i(7689);		--[[Morbid Dawn]]
+i(7955);		--[[Copper Claymore]]
+i(7957);		--[[Bronze Greatsword]]
+i(7960);		--[[Truesilver Champion]]
+i(8177);		--[[Practice Sword]]
+i(8178);		--[[Training Sword]]
+i(8199);		--[[Battlefield Destroyer]]
+i(9372);		--[[Sul'thraze the Lasher]]
+i(9385);		--[[Archaic Defender]]
+i(9418);		--[[Stoneslayer]]
+i(9490);		--[[Gizmotron Megachopper]]
+i(9602);		--[[Brushwood Blade]]
+i(10573);		--[[Boneslasher]]
+i(10628);		--[[Deathblow]]
+i(10758);		--[[X'caliboar]]
+i(11786);		--[[Stone of the Earth]]
+i(11854);		--[[Samophlange Screwdriver]]
+i(12463);		--[[Drakefang Butcher]]
+i(12592);		--[[Blackblade of Shahram]]
+i(12764);		--[[Thorium Greatsword]]
+i(12782);		--[[Corruption]]
+i(12790);		--[[Arcanite Champion]]
+i(12992);		--[[Searing Blade]]
+i(13041);		--[[Guardian Blade]]
+i(13042);		--[[Sword of the Magistrate]]
+i(13043);		--[[Blade of the Titans]]
+i(13044);		--[[Demonslayer]]
+i(13049);		--[[Deanship Claymore]]
+i(13051);		--[[Witchfury]]
+i(13052);		--[[Warmonger]]
+i(13053);		--[[Doombringer]]
+i(13163);		--[[Relentless Scythe]]
+i(13262);		--[[Ashbringer]]
+i(13348);		--[[Demonshear]]
+i(13505);		--[[Runeblade of Baron Rivendare]]
+i(13817);		--[[Tapered Greatsword]]
+i(13982);		--[[Warblade of Caer Darrow]]
+i(14541);		--[[Barovian Family Sword]]
+i(15248);		--[[Gleaming Claymore]]
+i(15249);		--[[Polished Zweihander]]
+i(15250);		--[[Glimmering Flamberge]]
+i(15251);		--[[Headstriker Sword]]
+i(15252);		--[[Tusker Sword]]
+i(15253);		--[[Beheading Blade]]
+i(15254);		--[[Dark Espadon]]
+i(15255);		--[[Gallant Flamberge]]
+i(15256);		--[[Massacre Sword]]
+i(15257);		--[[Shin Blade]]
+i(15258);		--[[Divine Warblade]]
+i(16039);		--[[Ta'Kierthan Songblade]]
+i(17076);		--[[Bonereaver's Edge]]
+i(18410);		--[[Sprinter's Sword]]
+i(18520);		--[[Barbarous Blade]]
+i(18542);		--[[Typhoon]]
+i(18822);		--[[Obsidian Edged Blade]]
+i(18876);		--[[Grand Marshal's Claymore]]
+i(18877);		--[[High Warlord's Greatsword]]
+i(19334);		--[[The Untamed Blade]]
+i(19364);		--[[Ashkandi, Greatsword of the Brotherhood]]
+i(19854);		--[[Zin'rokh, Destroyer of Worlds]]
+i(20504);		--[[Lightforged Blade]]
+i(20669);		--[[Darkstone Claymore]]
+i(21492);		--[[Manslayer of the Qiraji]]
+i(21679);		--[[Kalimdor's Revenge]]
+i(22691);		--[[Corrupted Ashbringer]]
+i(22813);		--[[Claymore of Unholy Might]]
+i(22958);		--[[Farstrider Sword]]
+i(22995);		--[[Sin'dorei Warblade]]
+i(23346);		--[[Battleworn Claymore]]
+i(23372);		--[[Bloodhawk Claymore]]
+i(23390);		--[[Exodar Bastard Sword]]
+i(23423);		--[[Mercenary Greatsword]]
+i(23499);		--[[Fel Iron Greatsword]]
+i(23541);		--[[Khorium Champion]]
+i(24352);		--[[Blade of the Hand]]
+i(24430);		--[[Seafarer's Blade]]
+i(24550);		--[[Gladiator's Greatsword]]
+i(25156);		--[[Royal Crusader Sword]]
+i(25157);		--[[Serpentlord Claymore]]
+i(25158);		--[[Skeletal Broadsword]]
+i(25159);		--[[Thunderstrike Falchion]]
+i(25160);		--[[Vengeance Blade]]
+i(25161);		--[[Dragon Wing Blade]]
+i(25162);		--[[Darkened Broadsword]]
+i(25163);		--[[Elexorien Blade]]
+i(25164);		--[[Crude Umbrafen Blade]]
+i(25165);		--[[Boulderfist Claymore]]
+i(25166);		--[[Mok'Nathal Warblade]]
+i(25167);		--[[Nethersteel Claymore]]
+i(25168);		--[[Sha'tari Longsword]]
+i(25169);		--[[Fel Orc Brute Sword]]
+i(25400);		--[[Tarnished Claymore]]
+i(25944);		--[[Shaarde the Greater]]
+i(25987);		--[[Helboar Carving Blade]]
+i(27389);		--[[Surplus Bastard Sword]]
+i(27390);		--[[Vindicator's Letter Opener]]
+i(27752);		--[[Zangarmarsh Claymore]]
+i(27769);		--[[Endbringer]]
+i(28164);		--[[Tranquillien Flamberge]]
+i(28293);		--[[High Warlord's Claymore]]
+i(28367);		--[[Greatsword of Forlorn Visions]]
+i(28428);		--[[Lionheart Blade]]
+i(28429);		--[[Lionheart Champion]]
+i(28430);		--[[Lionheart Executioner]]
+i(28573);		--[[Despair]]
+i(28943);		--[[Grand Marshal's Warblade]]
+i(29356);		--[[Quantum Blade]]
+i(29993);		--[[Twinblade of the Phoenix]]
+i(30086);		--[[Stoneforged Claymore]]
+i(30394);		--[[Sunfury Blade]]
+i(30570);		--[[Arkadian Claymore]]
+i(30597);		--[[Halaani Claymore]]
+i(30750);		--[[Draenic Warblade]]
+i(30789);		--[[Illidari-Bane Claymore]]
+i(30902);		--[[Cataclysm's Edge]]
+i(31134);		--[[Blade of Misfortune]]
+i(31267);		--[[(Action Figure) Gnome Warrior Sword]]
+i(31816);		--[[Dragonbone Greatsword]]
+i(31984);		--[[Merciless Gladiator's Greatsword]]
+i(33430);		--[[Abandoned Greatsword]]
+i(33475);		--[[Frostmourne]]
+i(33478);		--[[Jin'rohk, The Great Apocalypse]]
+i(33688);		--[[Vengeful Gladiator's Greatsword]]
+i(34247);		--[[Apolyon, the Soul-Render]]
+i(34661);		--[[Massacre Sword]]
+i(35015);		--[[Brutal Gladiator's Greatsword]]
+i(35618);		--[[Troll Butcherer]]
+i(35849);		--[[Featherweight Claymore]]
+i(36529);		--[[Unearthed Broadsword]]
+i(36530);		--[[Whetted Ironblade]]
+i(36531);		--[[Sawtooth Greatsword]]
+i(36532);		--[[Shark Fin Blade]]
+i(36533);		--[[Adorned Broadsword]]
+i(36534);		--[[Tempered-Steel Blade]]
+i(36535);		--[[Dragon's Rib Sword]]
+i(36536);		--[[Inlaid Greatsword]]
+i(36537);		--[[Fur-Grip Broadsword]]
+i(36538);		--[[Trollish Destroyer]]
+i(36539);		--[[Chilled Warblade]]
+i(36540);		--[[Petrified Sword]]
+i(36541);		--[[Wintry Claymore]]
+i(36542);		--[[Invasion Blade]]
+i(36883);		--[[Combatant Greatsword]]
+i(36942);		--[[Frostmourne]]
+i(37080);		--[[Crimson Will]]
+i(37108);		--[[Dreadlord's Blade]]
+i(37653);		--[[Sword of Justice]]
+i(37659);		--[[Enti's Quenched Sword]]
+i(38181);		--[[Warblade of the Forgotten Footman]]
+i(38195);		--[[Magister's Bane]]
+i(38632);		--[[Greatsword of the Ebon Blade]]
+i(38707);		--[[Runed Soulblade]]
+i(39117);		--[[Liberator's Blade]]
+i(39370);		--[[Keleseth's Persuader]]
+i(39393);		--[[Claymore of Ancient Power]]
+i(39802);		--[[Crusader's Greatblade]]
+i(40004);		--[[Forsaken Greatsword]]
+i(40343);		--[[Armageddon]]
+i(41242);		--[[Forged Cobalt Claymore]]
+i(42297);		--[[Savage Gladiator's Greatsword]]
+i(42331);		--[[Hateful Gladiator's Greatsword]]
+i(42332);		--[[Deadly Gladiator's Greatsword]]
+i(42333);		--[[Furious Gladiator's Greatsword]]
+i(42334);		--[[Relentless Gladiator's Greatsword]]
+i(42799);		--[[Snowblind Butcher]]
+i(43832);		--[[The Argent Resolve]]
+i(43883);		--[[Arete's Command]]
+i(44092);		--[[Reforged Truesilver Champion]]
+i(44249);		--[[Runeblade of Demonstrable Power]]
+i(44639);		--[[Dalaran Greatsword]]
+i(45074);		--[[Claymore of the Prophet]]
+i(45205);		--[[Greatsword of the Sin'dorei]]
+i(45233);		--[[Stormrune Edge]]
+i(45516);		--[[Voldrethar, Dark Blade of Oblivion]]
+i(45868);		--[[Aesir's Edge]]
+i(45950);		--[[Furious Gladiator's Claymore]]
+i(46016);		--[[Abaddon]]
+i(47515);		--[[Decimation]]
+i(47516);		--[[Fleshrender]]
+i(47737);		--[[Reckoning]]
+i(47884);		--[[Edge of Agony]]
+i(47951);		--[[Reckoning]]
+i(48023);		--[[Edge of Agony]]
+i(48406);		--[[Relentless Gladiator's Claymore]]
+i(49299);		--[[Keen Obsidian Edged Blade]]
+i(49396);		--[[Rusty Prybar]]
+i(49457);		--[[Fury of the Flame]]
+i(49498);		--[[Sharpened Obsidian Edged Blade]]
+i(49560);		--[[Proof of Death]]
+i(49607);		--[[Battlescarred Claymore]]
+i(49778);		--[[Worn Greatsword]]
+i(49839);		--[[Mourning Malice]]
+i(50048);		--[[Quel'Delar, Might of the Faithful]]
+i(50049);		--[[Quel'Delar, Ferocity of the Scorned]]
+i(50070);		--[[Glorenzelg, High-Blade of the Silver Hand]]
+i(50442);		--[[Ashbringer (Extra Effects)]]
+i(50730);		--[[Glorenzelg, High-Blade of the Silver Hand]]
+i(50761);		--[[Citadel Enforcer's Claymore]]
+i(51392);		--[[Wrathful Gladiator's Greatsword]]
+i(51393);		--[[Wrathful Gladiator's Claymore]]
+i(51936);		--[[Citadel Enforcer's Claymore]]
+i(53259);		--[[Tomusa's Sword]]
+i(53298);		--[[Stonesthrow Sword]]
+i(54989);		--[[Rallying Charge]]
+i(55052);		--[[Obsidium Executioner]]
+i(55461);		--[[Razorwind Greatsword]]
+i(55462);		--[[Steelspark Greatsword]]
+i(55463);		--[[Angerfang Greatsword]]
+i(55464);		--[[Nethergarde Greatsword]]
+i(55465);		--[[Splinterspear Greatsword]]
+i(55466);		--[[Mardenholde Greatsword]]
+i(55467);		--[[Bladefist Greatsword]]
+i(55468);		--[[Irontree Greatsword]]
+i(55469);		--[[Rustmaul Greatsword]]
+i(55811);		--[[Sword of the Bottomless Pit]]
+i(55904);		--[[The Tranquilizer]]
+i(56342);		--[[Sword of the Bottomless Pit]]
+i(56702);		--[[Saw Blade]]
+i(56705);		--[[Skunkworks Sword]]
+i(57155);		--[[Worgen Slaying Sword]]
+i(57248);		--[[Well-Used Greatsword]]
+i(57294);		--[[Poisonfire Greatsword]]
+i(57437);		--[[Barus' Backup Sword]]
+i(58931);		--[[House Wrynn Claymore]]
+i(59039);		--[[Very Light Sabre]]
+i(59647);		--[[Captain Verne's Splitter]]
+i(59650);		--[[Glovaal's Choppink Svord]]
+i(60823);		--[[Battlefront Sword]]
+i(61346);		--[[Vicious Gladiator's Greatsword]]
+i(62064);		--[[Warped Greatsword]]
+i(62454);		--[[Blade of the Fearless]]
+i(62473);		--[[Blade of the Fearless]]
+i(63679);		--[[Reclaimed Ashkandi, Greatsword of the Brotherhood]]
+i(63787);		--[[Oversized Oblique Ogre Obliterator]]
+i(64377);		--[[Zin'rokh, Destroyer of Worlds]]
+i(64604);		--[[Sword of Marshtide Watch]]
+i(64755);		--[[Bloodthirsty Gladiator's Greatsword]]
+i(65003);		--[[Reclaimed Ashkandi, Greatsword of the Brotherhood]]
+i(65474);		--[[Greatsword of the Sunwalker]]
+i(65493);		--[[Greatsword of the Crown]]
+i(65681);		--[[Stagwich Slicer]]
+i(65982);		--[[Sword of Nefarian's Hand]]
+i(66978);		--[[Rage-Possessed Greatsword]]
+i(67198);		--[[Scourgebane's Sword]]
+i(67447);		--[[Vicious Gladiator's Greatsword]]
+i(70164);		--[[Masterwork Elementium Deathblade]]
+i(70178);		--[[Ruthless Gladiator's Greatsword]]
+i(70231);		--[[Ruthless Gladiator's Greatsword]]
+i(71780);		--[[Zoid's Firelit Greatsword]]
+i(71781);		--[[Zoid's Firelit Greatsword]]
+i(72041);		--[[Placeholder 2H Sword]]
+i(72992);		--[[Valiant Greatsword]]
+i(72993);		--[[Zealous Greatsword]]
+i(73210);		--[[Trainee's Sword]]
+i(73235);		--[[Sword of the Burning Spirit]]
+i(73442);		--[[Cataclysmic Gladiator's Greatsword]]
+i(73475);		--[[Cataclysmic Gladiator's Greatsword]]
+i(74589);		--[[Jade Hilted Sword]]
+i(77191);		--[[Gurthalak, Voice of the Deeps]]
+i(77560);		--[[Replica Grand Marshal's Claymore]]
+i(77577);		--[[Replica High Warlord's Greatsword]]
+i(78478);		--[[Gurthalak, Voice of the Deeps]]
+i(78487);		--[[Gurthalak, Voice of the Deeps]]
+i(80791);		--[[Jinyu Greatsword]]
+i(81545);		--[[Marista Blade]]
+i(81552);		--[[Red Crane Sword]]
+i(81577);		--[[Lightbreaker Greatsword]]
+i(81681);		--[[Faded Forest Greatsword]]
+i(81703);		--[[Glorenzelg, High-Blade of the Silver Hand]]
+i(82000);		--[[Polished Greatsword]]
+i(82050);		--[[Bronzed Greatsword]]
+i(82105);		--[[Barbarian Greatsword]]
+i(82160);		--[[Rigid Greatsword]]
+i(82215);		--[[Inlaid Greatsword]]
+i(82270);		--[[Engraved Greatsword]]
+i(82599);		--[[Shomi's Greatsword]]
+i(82716);		--[[Mountainscaler Greatsword]]
+i(82822);		--[[Gravetouch Greatsword]]
+i(83270);		--[[Wasteland Greatsword]]
+i(84254);		--[[Sword of the Lone Victor]]
+i(84530);		--[[Swordmistress' Greatsword]]
+i(84537);		--[[Binan Greatsword]]
+i(84717);		--[[Dreadful Gladiator's Greatsword]]
+i(84790);		--[[Malevolent Gladiator's Greatsword]]
+i(85112);		--[[Malevolent Gladiator's Greatsword]]
+i(86140);		--[[Starshatter]]
+i(86523);		--[[Swarming Cleaver of Ka'roz]]
+i(86799);		--[[Starshatter]]
+i(87061);		--[[Starshatter]]
+i(87423);		--[[Bjam's Door-Breaker]]
+i(87542);		--[[Mogu'Dar, Blade of the Thousand Slaves]]
+i(88297);		--[[Lightbreaker Greatsword]]
+i(88339);		--[[Gravetouch Greatsword]]
+i(89398);		--[[Amber Flammard of Klaxxi'vess]]
+i(90388);		--[[Greatsword of Kofinna Kottr]]
+i(90464);		--[[Satay's Stabbing Sword]]
+i(90813);		--[[Salt-Scored Greatsword]]
+i(91091);		--[[Tyrannical Gladiator's Greatsword]]
+i(91092);		--[[Tyrannical Gladiator's Greatsword]]
+i(91444);		--[[Malevolent Gladiator's Greatsword]]
+i(93127);		--[[Scavenged Pandaren Greatsword]]
+i(93851);		--[[Battle-Forged Truesilver Champion]]
+i(94311);		--[[Tyrannical Gladiator's Greatsword]]
+i(94588);		--[[Lionheart Blade, Reborn]]
+i(94590);		--[[Lionheart Champion, Reborn]]
+i(94592);		--[[Lionheart Executioner, Reborn]]
+i(94758);		--[[Zerat, Malakk's Soulburning Greatsword]]
+i(95505);		--[[Greatsword of Frozen Hells]]
+i(95675);		--[[Zerat, Malakk's Soulburning Greatsword]]
+i(95875);		--[[Greatsword of Frozen Hells]]
+i(96047);		--[[Zerat, Malakk's Soulburning Greatsword]]
+i(96247);		--[[Greatsword of Frozen Hells]]
+i(96419);		--[[Zerat, Malakk's Soulburning Greatsword]]
+i(96619);		--[[Greatsword of Frozen Hells]]
+i(96791);		--[[Zerat, Malakk's Soulburning Greatsword]]
+i(96991);		--[[Greatsword of Frozen Hells]]
+i(98262);		--[[Immaculate Pandaren Greatsword]]
+i(98312);		--[[Immaculate Pandaren Greatsword]]
+i(99768);		--[[Tyrannical Gladiator's Greatsword]]
+i(99972);		--[[Tyrannical Gladiator's Greatsword]]
+i(100187);		--[[Grievous Gladiator's Greatsword]]
+i(100188);		--[[Grievous Gladiator's Greatsword]]
+i(100541);		--[[Grievous Gladiator's Greatsword]]
+i(101146);		--[[Sunsoul Greatsword]]
+i(101278);		--[[Oathsworn Greatsword]]
+i(102599);		--[[Prideful Gladiator's Greatsword]]
+i(102796);		--[[Grievous Gladiator's Greatsword]]
+i(102986);		--[[Prideful Gladiator's Greatsword]]
+i(103141);		--[[Grievous Gladiator's Greatsword]]
+i(103338);		--[[Prideful Gladiator's Greatsword]]
+i(103869);		--[[Greatsword of Pride's Fall]]
+i(104483);		--[[Greatsword of Pride's Fall]]
+i(104732);		--[[Greatsword of Pride's Fall]]
+i(104981);		--[[Greatsword of Pride's Fall]]
+i(105230);		--[[Greatsword of Pride's Fall]]
+i(105479);		--[[Greatsword of Pride's Fall]]
+i(106322);		--[[Brittle Greatsword]]
+i(108806);		--[[7.0 PH Weapon - 2H Sword Str]]
+i(108905);		--[[Jagged Turtleshell Blade]]
+i(108912);		--[[Karabor Greatsword]]
+i(109373);		--[[7.0 QA Combat Test Strength 2h Sword]]
+i(110030);		--[[Chakram-Breaker Greatsword]]
+i(111204);		--[[Primal Gladiator's Greatsword]]
+i(111811);		--[[Foundry Raid - Shaman - Stalker Sword - MRN]]
+i(112949);		--[[Greatsword of Pride's Fall]]
+i(113045);		--[[Restalaan's Greatsword]]
+i(113848);		--[[Gor'gah, High Blade of the Gorians]]
+i(113913);		--[[Ka'graz's Burning Blade]]
+i(114912);		--[[Mighty Gorian Greatsword]]
+i(115138);		--[[Primal Combatant's Greatsword]]
+i(115418);		--[[Blood Gutter Greatsword]]
+i(115731);		--[[Primal Gladiator's Greatsword]]
+i(115819);		--[[Primal Gladiator's Greatsword]]
+i(116116);		--[[Blazegrease Greatsword]]
+i(116366);		--[[Magic-Breaker Greatsword]]
+i(116472);		--[[Frostbitten Greatsword]]
+i(116489);		--[[Lunarglow Greatsword]]
+i(116506);		--[[Vinewrapped Greatsword]]
+i(116523);		--[[Creeperclaw Greatsword]]
+i(116540);		--[[Incised Greatsword]]
+i(116557);		--[[Auchenai Greatsword]]
+i(116574);		--[[Skettis Greatsword]]
+i(116591);		--[[Longclaw Greatsword]]
+i(116608);		--[[Bloodmane Greatsword]]
+i(116625);		--[[Gorian Greatsword]]
+i(116642);		--[[Howling Greatsword]]
+i(117019);		--[[Heart-Lesion Greatsword]]
+i(117049);		--[[Heart-Lesion Runeblade]]
+i(117711);		--[[Tournament Gladiator's Greatsword]]
+i(117912);		--[[Tournament Gladiator's Greatsword]]
+i(118080);		--[[Admiral Taylor's Greatsword]]
+i(118264);		--[[Serrated Void Crystal]]
+i(118412);		--[[Greatsword of the Inferno]]
+i(118740);		--[[Bleakblade of Shahram]]
+i(118806);		--[[Windworn Greatsword]]
+i(118994);		--[[Expeditious Greatsword]]
+i(119411);		--[[Massive Rockworm Fang]]
+i(119469);		--[[Heart-Lesion Greatsword]]
+i(119499);		--[[Heart-Lesion Runeblade]]
+i(120076);		--[[Primal Combatant's Greatsword]]
+i(120978);		--[[Ashbringer]]
+i(121339);		--[[Kvaldir Skinning Knife]]
+i(121381);		--[[Chipped Colossus Blade]]
+i(122067);		--[[Inexorable Greatsword]]
+i(122068);		--[[Inexorable Runeblade]]
+i(122365);		--[[Reforged Truesilver Champion]]
+i(122747);		--[[Ashbringer]]
+i(124388);		--[[Fel-Burning Blade]]
+i(124389);		--[[Calamity's Edge]]
+i(124543);		--[[Jubei's Sword]]
+i(124625);		--[[Baleful Greatsword]]
+i(124843);		--[[Wild Gladiator's Greatsword]]
+i(125021);		--[[Wild Combatant's Greatsword]]
+i(125322);		--[[Wild Gladiator's Greatsword]]
+i(125498);		--[[Wild Combatant's Greatsword]]
+i(125633);		--[[Wild Gladiator's Greatsword]]
+i(125957);		--[[Warmongering Gladiator's Greatsword]]
+i(126135);		--[[Warmongering Combatant's Greatsword]]
+i(126436);		--[[Warmongering Gladiator's Greatsword]]
+i(126612);		--[[Warmongering Combatant's Greatsword]]
+i(126747);		--[[Warmongering Gladiator's Greatsword]]
+i(127220);		--[[Shaarde the Greater]]
+i(127339);		--[[Forgotten Champion's Blade]]
+i(127340);		--[[Felfire Lit Greatsword]]
+i(127456);		--[[Quantum Blade]]
+i(128201);		--[[Greatsword of Chaos]]
+i(128403);		--[[Apocalypse]]
+i(128908);		--[[Warswords of the Valarjar]]
+i(128910);		--[[Strom'kar, the Warbreaker]]
+i(129426);		--[[Heart-Lesion Greatsword]]
+i(129456);		--[[Heart-Lesion Runeblade]]
+i(131738);		--[[Ashbringer]]
+i(131739);		--[[Ashbringer]]
+i(131741);		--[[Ashbringer]]
+i(131742);		--[[Ashbringer]]
+i(133219);		--[[Sword of the Bottomless Pit]]
+i(134553);		--[[Warswords of the Valarjar]]
+i(134606);		--[[Scorching Greatsword]]
+i(134664);		--[[Recruit's Greatsword]]
+i(134746);		--[[Covert Greatsword]]
+i(136665);		--[[Stromkar]]
+i(137581);		--[[Test Artifact 1]]
+i(137582);		--[[Ashbringer]]
+i(139162);		--[[Blood Guard's Tooth]]
+i(139164);		--[[Wrathblade]]
+i(140558);		--[[Greatsword of the Silver Hand]]
+i(140559);		--[[Skyhold Claymore]]
+i(140687);		--[[Unholy Runeblade]]
+i(140714);		--[[Bloodcaked Runeblade]]
+i(141364);		--[[Unholy Ebon Warsword]]
+i(141375);		--[[Bloodied Ebon Warsword]]
+i(141376);		--[[Icy Ebon Warsword]]
+i(142274);		--[[Keleseth's Persuader]]
+i(144187);		--[[Lightbreaker Greatsword]]
+i(144201);		--[[Gravetouch Greatsword]]
+i(144214);		--[[Mogu'Dar, Blade of the Thousand Slaves]]
+i(150421);		--[[Typhoon]]
+i(150582);		--[[Unholy Runeblade]]
+i(150609);		--[[Bloodcaked Runeblade]]
+i(152094);		--[[Taeshalach]]
+i(152340);		--[[Lustrous Daybreak Greatsword]]
+i(152341);		--[[Lustrous Eventide Greatsword]]
+i(152828);		--[[Monel-Hardened Claymore]]
+i(153312);		--[[Praetor's Ornamental Greatsword]]
+i(153313);		--[[Praetor's Ornamental Claymore]]
+i(153315);		--[[Praetor's Ornamental Warblade]]
+i(153316);		--[[Praetor's Ornamental Edge]]
+i(153403);		--[[Scalawag's Claymore]]
+i(153717);		--[[Heart-Lesion Greatsword]]
+i(153747);		--[[Heart-Lesion Runeblade]]
+i(154664);		--[[Lionsight Omensword]]
+i(155079);		--[[Thrashneck Gladius]]
+i(155152);		--[[Witchrend Greatsword]]
+i(155225);		--[[Bramblehulk Greatsword]]
+i(155444);		--[[Sethraliss-Blessed Greatblade]]
+i(155972);		--[[Stormrune Edge]]
+i(156228);		--[[Voldrethar, Dark Blade of Oblivion]]
+i(156290);		--[[Aesir's Edge]]
+i(156341);		--[[Abaddon]]
+i(156955);		--[[Reconditioned Archeus]]
+i(157618);		--[[Unholy Runeblade]]
+i(157646);		--[[Bloodcaked Runeblade]]
+i(158106);		--[[Ironcrest Greatblade]]
+i(158135);		--[[Golden Empire Broadsword]]
+i(158506);		--[[Scalawag's Claymore]]
+i(158650);		--[[Sea-Scourge Greatblade]]
+i(159095);		--[[Bloodhunter Greatblade]]
+i(159103);		--[[Dregada's Greatsword]]
+i(159598);		--[[Golden Fleet Longsword]]
+i(159599);		--[[Zocali Greatsword]]
+i(159600);		--[[Loa-Blessed Broadsword]]
+i(159601);		--[[Zem'lan Longsword]]
+i(159634);		--[[Jeweled Sharksplitter]]
+i(159644);		--[[Geti'ikku, Cut of Death]]
+i(159883);		--[[Monster - Kings' Rest - Boss 4 - Sword]]
+i(160686);		--[[Voror, Gleaming Blade of the Stalwart]]
+i(160928);		--[[Weathered Greatsword]]
+i(160972);		--[[Herculean Golden Sword]]
+i(161195);		--[[Sethrak Warden's Scimitar]]
+i(161293);		--[[Thrashneck Greatblade]]
+i(161692);		--[[Dread Gladiator's Greatsword]]
+i(161914);		--[[Monel-Hardened Claymore]]
+i(162879);		--[[Dread Aspirant's Greatsword]]
+i(163010);		--[[Gravewalker's Runeblade]]
+i(163890);		--[[7th Legionnaire's Claymore]]
+i(163962);		--[[Decapitator of Alireza]]
+i(164279);		--[[Plundered Farakki Hacker]]
+i(164281);		--[[Plundered Jadestar Blade]]
+i(164334);		--[[Plundered Blade of Northern Kings]]
+i(164353);		--[[Plundered Scalebane Claymore]]
+i(165030);		--[[Sinister Gladiator's Greatsword]]
+i(165195);		--[[Sinister Aspirant's Greatsword]]
+i(165274);		--[[Fallback Weapon - 2H Sword]]
+i(165586);		--[[Dawnbreaker]]
+i(165632);		--[[Sentinel's Greatblade]]
+i(166340);		--[[Zuldazar Raid - 2h Sword]]
+i(166478);		--[[Sinister Aspirant's Greatsword]]
+i(166479);		--[[Sinister Gladiator's Greatsword]]
+i(166482);		--[[Deathguard's Greatsword]]
+i(168799);		--[[Steel Greatsword]]
+i(169760);		--[[Notorious Aspirant's Greatsword]]
+i(169761);		--[[Notorious Aspirant's Greatsword]]
+i(169801);		--[[Ogre Claymore]]
+i(170093);		--[[Tyr'mar's Greatsword]]
+i(170124);		--[[Coral-Sharpened Greatsword]]
+i(170590);		--[[Heart-Lesion Greatsword]]
+i(170604);		--[[Heart-Lesion Runeblade]]
+i(171383);		--[[Ceremonious Claymore]]
+i(171490);		--[[Twinblade of the Phoenix]]
+i(171496);		--[[Cataclysm's Edge]]
+i(171566);		--[[Glorenzelg, High-Blade of the Silver Hand]]
+i(171639);		--[[Reclaimed Ashkandi, Greatsword of the Brotherhood]]
+i(172187);		--[[Devastation's Hour]]
+i(172763);		--[[Corrupted Gladiator's Greatsword]]
+i(172767);		--[[Corrupted Gladiator's Greatsword]]
+i(172884);		--[[Corrupted Aspirant's Greatsword]]
+i(172885);		--[[Corrupted Aspirant's Greatsword]]
+i(173272);		--[[Zoid's Firelit Greatsword]]
+i(173539);		--[[Unholy Runeblade]]
+i(173566);		--[[Bloodcaked Runeblade]]
+i(174224);		--[[Greatsword of Cruelty]]
+i(174485);		--[[Burning Greatsword of the Ebon Blade]]
+i(174486);		--[[Crimson Greatsword of the Ebon Blade]]
+i(174487);		--[[Unholy Greatsword of the Ebon Blade]]
+i(174488);		--[[Freezing Greatsword of the Ebon Blade]]
+i(174990);		--[[Monster - Sword_2h_PandaRaid_D_01 - Orange]]
+i(175166);		--[[Expeditionary Greatsword]]
+i(176283);		--[[Ruthless Contender's Claymore]]
+i(176338);		--[[Skytone Greatsword]]
+i(176800);		--[[Modest Greatblade]]
+i(177137);		--[[7th Legionnaire's Claymore]]
+i(178476);		--[[Sinful Aspirant's Greatsword]]
+i(178671);		--[[Sinful Aspirant's Broadsword]]
+i(178780);		--[[Rimebinder's Runeblade]]
+i(178949);		--[[Blackhound Claymore]]
+i(179301);		--[[Large Muck Stained Blade]]
+i(179330);		--[[Zin'khas, Blade of the Fallen God]]
+i(180273);		--[[Sorrowbane]]
+i(180669);		--[[Reanimated Executioner's Greatsword]]
+i(180823);		--[[Bonefused Greatsword]]
+i(181142);		--[[Dark Blade of the Repentant]]
+i(181232);		--[[Cupbearer's Claymore]]
+i(181329);		--[[Marrowfused Claymore]]
+i(181634);		--[[Memoria Greatblade]]
+i(181694);		--[[Gorewrought Greatsword]]
+i(182337);		--[[Unholy Weapon]]
+i(182370);		--[[Crusader's Blade of the Ember Court]]
+i(182389);		--[[Nathrian Crusader's Bastard Sword]]
+i(182402);		--[[Sinful Gladiator's Crusaderblade]]
+i(182415);		--[[Stoneborn Goliath's Cleaver]]
+i(182428);		--[[Gilded Sinfall Bastard Sword]]
+i(182569);		--[[NPE Weapon 2H Sword STR]]
+i(182579);		--[[NPE Weapon 2H Sword STR 2]]
+i(183083);		--[[Battle Tested Greatsword]]
+i(183611);		--[[Humble Ophelia's Greatblade]]
+i(183626);		--[[Troll Gorer]]
+i(183906);		--[[Maw 2H Sword]]
+i(183907);		--[[Maw 2H Sword]]
+i(183908);		--[[Maw 2H Sword]]
+i(183909);		--[[Maw 2H Sword]]
+i(183910);		--[[Maw 2H Sword]]
+i(183911);		--[[Maw 2H Sword]]
+i(183981);		--[[Kyrian Greatblade]]
+i(184178);		--[[Worldrending Claymore]]
+i(184179);		--[[Lichsworn Commander's Boneblade]]
+i(184296);		--[[Purity's Edge Greatblade]]
+i(184297);		--[[Death Warden's Greatblade]]
+i(184368);		--[[Sputtering Hilt]]
+i(184469);		--[[Doubt Tinged Greatsword]]
+i(184530);		--[[Greatsword of the Elysian Guard]]
+i(184804);		--[[Ulfius' Calming Claymore]]

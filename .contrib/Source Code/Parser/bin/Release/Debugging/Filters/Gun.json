@@ -1,0 +1,8176 @@
+{
+	i(2098, { -- Double-Barreled Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 17,
+		["inventoryType"] = 26,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 591,
+			[1] = 591,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(2099, { -- Dwarven Hand Cannon
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 28,
+		["inventoryType"] = 26,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 592,
+			[1] = 592,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(2100, { -- Precisely Calibrated Boomstick
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 25,
+		["inventoryType"] = 26,
+		["lvl"] = 19,
+		["modIDs"] = {
+			[0] = 593,
+			[1] = 593,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(2508, { -- Old Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(2509, { -- Ornate Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 4,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			2
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(2510, { -- Solid Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(2511, { -- Hunter's Boomstick
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 7,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			4
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(2774, { -- Rust-Covered Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 3,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			2
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(2778, { -- Cheap Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 6,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			4
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(2781, { -- Dirty Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			6
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(2783, { -- Shoddy Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 14,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			8
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(2786, { -- Oiled Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 18,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			11
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(2904, { -- Daryl's Hunting Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 9,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 998,
+			[1] = 998,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(3023, { -- Large Bore Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 13,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			8
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(3024, { -- BKP 2700 "Enforcer"
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 16,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			10
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(3025, { -- BKP 42 "Ultra"
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			13
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(3040, { -- Hunter's Muzzle Loader
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 11,
+		["inventoryType"] = 26,
+		["lvl"] = 7,
+		["modIDs"] = {
+			[0] = 1073,
+			[1] = 1073,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(3041, { -- "Mage-Eye" Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 19,
+		["inventoryType"] = 26,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[0] = 1074,
+			[1] = 1074,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(3042, { -- BKP "Sparrow" Smallbore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 19,
+		["inventoryType"] = 26,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[0] = 1075,
+			[1] = 1075,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(3079, { -- Skorn's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 6,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 1097,
+			[1] = 1097,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(3430, { -- Sniper Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 24,
+		["inventoryType"] = 26,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 1257,
+			[1] = 1257,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(3567, { -- Dwarven Fishing Pole
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 11,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 1329,
+			[1] = 1329,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(3780, { -- Long-Barreled Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 19,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			12
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(4026, { -- Sentinel Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 23,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			16
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(4086, { -- Flash Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 1610,
+			[1] = 1610,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(4089, { -- Ricochet Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 25,
+		["inventoryType"] = 26,
+		["lvl"] = 19,
+		["modIDs"] = {
+			[0] = 1613,
+			[1] = 1613,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(4111, { -- Master Hunter's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 24,
+		["inventoryType"] = 26,
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(4127, { -- Shrapnel Blaster
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 22,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 1633,
+			[1] = 1633,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(4362, { -- Rough Boomstick
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 5,
+		["inventoryType"] = 26,
+		["lvl"] = 3,
+		["modIDs"] = {
+			[0] = 1710,
+			[1] = 1710,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(4369, { -- Deadly Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 13,
+		["inventoryType"] = 26,
+		["lvl"] = 8,
+		["modIDs"] = {
+			[0] = 1712,
+			[1] = 1712,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(4372, { -- Lovingly Crafted Boomstick
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 15,
+		["inventoryType"] = 26,
+		["lvl"] = 9,
+		["modIDs"] = {
+			[0] = 1713,
+			[1] = 1713,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(4379, { -- Silver-Plated Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 16,
+		["inventoryType"] = 26,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 1715,
+			[1] = 1715,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(4383, { -- Moonsight Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 18,
+		["inventoryType"] = 26,
+		["lvl"] = 11,
+		["modIDs"] = {
+			[0] = 1716,
+			[1] = 1716,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(4577, { -- Compact Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 6,
+		["inventoryType"] = 26,
+		["lvl"] = 4,
+		["modIDs"] = {
+			[0] = 1768,
+			[1] = 1768,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(5309, { -- Privateer Musket
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 12,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 2058,
+			[1] = 2058,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(5550, { -- Fast Test Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(6798, { -- Blasting Hackbut
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 2622,
+			[1] = 2622,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(7729, { -- Chesterfall Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 19,
+		["inventoryType"] = 26,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[0] = 2937,
+			[1] = 2937,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(8181, { -- Hunting Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 4,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			2
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(8182, { -- Pellet Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 3,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			2
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(8188, { -- Explosive Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["lvl"] = 14,
+		["modIDs"] = {
+			[0] = 3088,
+			[1] = 3088,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(9412, { -- Galgann's Fireblaster
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 22,
+		["inventoryType"] = 26,
+		["lvl"] = 15,
+		["modIDs"] = {
+			[0] = 3263,
+			[1] = 3263,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(9422, { -- Shadowforge Bushmaster
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 22,
+		["inventoryType"] = 26,
+		["lvl"] = 15,
+		["modIDs"] = {
+			[0] = 3271,
+			[1] = 3271,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(9456, { -- Glass Shooter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 18,
+		["inventoryType"] = 26,
+		["lvl"] = 11,
+		["modIDs"] = {
+			[0] = 3295,
+			[1] = 3295,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(9487, { -- Hi-Tech Supergun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 18,
+		["inventoryType"] = 26,
+		["lvl"] = 11,
+		["modIDs"] = {
+			[0] = 3317,
+			[1] = 3317,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(10508, { -- Mithril Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 22,
+		["inventoryType"] = 26,
+		["lvl"] = 15,
+		["modIDs"] = {
+			[0] = 3977,
+			[1] = 3977,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(10510, { -- Mithril Heavy-Bore Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 24,
+		["inventoryType"] = 26,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 3978,
+			[1] = 3978,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(11629, { -- Houndmaster's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 27,
+		["inventoryType"] = 26,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 4206,
+			[1] = 4206,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(12446, { -- Anvilmar Musket
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(12448, { -- Light Hunting Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(13136, { -- Lil Timmy's Peashooter
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 13,
+		["inventoryType"] = 26,
+		["lvl"] = 8,
+		["modIDs"] = {
+			[0] = 4762,
+			[1] = 4762,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(13137, { -- Ironweaver
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 20,
+		["inventoryType"] = 26,
+		["lvl"] = 13,
+		["modIDs"] = {
+			[0] = 4763,
+			[1] = 4763,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(13138, { -- The Silencer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 23,
+		["inventoryType"] = 26,
+		["lvl"] = 16,
+		["modIDs"] = {
+			[0] = 4764,
+			[1] = 4764,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(13139, { -- Guttbuster
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 26,
+		["inventoryType"] = 26,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 4765,
+			[1] = 4765,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(13146, { -- Shell Launcher Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 28,
+		["inventoryType"] = 26,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 4769,
+			[1] = 4769,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(13248, { -- Burstshot Harquebus
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 4809,
+			[1] = 4809,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(13380, { -- Willey's Portable Howitzer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 25,
+		["inventoryType"] = 26,
+		["lvl"] = 18,
+		["modIDs"] = {
+			[0] = 4860,
+			[1] = 4860,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(13474, { -- Farmer Dalson's Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 28,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 4888,
+			[1] = 4888,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(13825, { -- Primed Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 28,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			22
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(15205, { -- Owlsight Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 12,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 5990,
+			[1] = 5990,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(15322, { -- Smoothbore Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 22,
+		["inventoryType"] = 26,
+		["lvl"] = 14,
+		["modIDs"] = {
+			[0] = 6093,
+			[1] = 6093,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(15323, { -- Percussion Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 26,
+		["inventoryType"] = 26,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 6094,
+			[1] = 6094,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(15324, { -- Burnside Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 28,
+		["inventoryType"] = 26,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 6095,
+			[1] = 6095,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(15325, { -- Sharpshooter Harquebus
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 6096,
+			[1] = 6096,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(15691, { -- Sidegunner Shottie
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 6435,
+			[1] = 6435,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(15995, { -- Thorium Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 27,
+		["inventoryType"] = 26,
+		["lvl"] = 20,
+		["modIDs"] = {
+			[0] = 6561,
+			[1] = 6561,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(16004, { -- Dark Iron Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 28,
+		["inventoryType"] = 26,
+		["lvl"] = 21,
+		["modIDs"] = {
+			[0] = 6564,
+			[1] = 6564,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(16007, { -- Flawless Arcanite Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 6565,
+			[1] = 6565,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(16992, { -- Smokey's Explosive Launcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 7047,
+			[1] = 7047,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(17042, { -- Nail Spitter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 24,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 7067,
+			[1] = 7067,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(17072, { -- Blastershot Launcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7081,
+			[1] = 7081,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(17687, { -- Master Hunter's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 18,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 7171,
+			[1] = 7171,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(17717, { -- Megashot Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 20,
+		["inventoryType"] = 26,
+		["lvl"] = 13,
+		["modIDs"] = {
+			[0] = 7180,
+			[1] = 7180,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(18282, { -- Core Marksman Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7247,
+			[1] = 7247,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(18460, { -- Unsophisticated Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 25,
+		["inventoryType"] = 26,
+		["lvl"] = 19,
+		["modIDs"] = {
+			[0] = 7353,
+			[1] = 7353,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(18755, { -- Xorothian Firestick
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 7475,
+			[1] = 7475,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 11,
+	}),
+	i(18855, { -- Grand Marshal's Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7520,
+			[1] = 7520,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(18860, { -- High Warlord's Street Sweeper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7521,
+			[1] = 7521,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(19368, { -- Dragonbreath Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7678,
+			[1] = 7678,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(19853, { -- Gurubashi Dwarf Destroyer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7821,
+			[1] = 7821,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(20722, { -- Crystal Slugthrower
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 8203,
+			[1] = 8203,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(21272, { -- Blessed Qiraji Musket
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			25
+		},
+		["modIDs"] = {
+			[0] = 8349,
+			[1] = 8349,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(21800, { -- Silithid Husked Launcher
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 8614,
+			[1] = 8614,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(22656, { -- The Purifier
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 8905,
+			[1] = 8905,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(22810, { -- Toxin Injector
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 8980,
+			[1] = 8980,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(23557, { -- Larvae of the Great Worm
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 9358,
+			[1] = 9358,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(23742, { -- Fel Iron Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 9379,
+			[1] = 9379,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(23746, { -- Adamantite Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 9381,
+			[1] = 9381,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(23747, { -- Felsteel Boomstick
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 9382,
+			[1] = 9382,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(23748, { -- Ornate Khorium Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 9383,
+			[1] = 9383,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(24389, { -- Legion Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 30,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[1] = 9530,
+			[2] = 9530,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(25268, { -- Lead-Slug Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10265,
+			[1] = 10265,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25269, { -- Longbeard Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 30,
+		["inventoryType"] = 26,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10266,
+			[1] = 10266,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25270, { -- Gnomish Assault Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 30,
+		["inventoryType"] = 26,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10267,
+			[1] = 10267,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25271, { -- Croc-Hunter's Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 30,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10268,
+			[1] = 10268,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25272, { -- PC-54 Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 30,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10269,
+			[1] = 10269,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25273, { -- Sawed-Off Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 30,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10270,
+			[1] = 10270,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25274, { -- Cliffjumper Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10271,
+			[1] = 10271,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25275, { -- Dragonbreath Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10272,
+			[1] = 10272,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25276, { -- Tauren Runed Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10273,
+			[1] = 10273,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25277, { -- Sporting Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10274,
+			[1] = 10274,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25278, { -- Nesingwary Longrifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10275,
+			[1] = 10275,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25279, { -- Sen'jin Longrifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10276,
+			[1] = 10276,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25280, { -- Game Hunter Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10277,
+			[1] = 10277,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25281, { -- Big-Boar Battle Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10278,
+			[1] = 10278,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25405, { -- Rusted Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(25544, { -- Zerid's Vintage Musket
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 10446,
+			[1] = 10446,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(25639, { -- Hemet's Elekk Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 10520,
+			[1] = 10520,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(25972, { -- Deadeye's Piece
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 10681,
+			[1] = 10681,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(27794, { -- Recoilless Rocket Ripper X-54
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12069,
+			[2] = 12069,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(27898, { -- Wrathfire Hand-Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12138,
+			[2] = 12138,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(28286, { -- Telescopic Sharprifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12370,
+			[2] = 12370,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(28581, { -- Wolfslayer Sniper Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12561,
+			[1] = 12561,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(29115, { -- Consortium Blaster
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12981,
+			[1] = 12981,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(29151, { -- Veteran's Musket
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 13006,
+			[1] = 13006,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(29200, { -- Falfindel's Blaster
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 19,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 13024,
+			[1] = 13024,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(29949, { -- Arcanite Steam-Pistol
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 13412,
+			[1] = 13412,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(30279, { -- Mama's Insurance
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 13678,
+			[1] = 13678,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(30724, { -- Barrel-Blade Longrifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 13870,
+			[1] = 13870,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(30758, { -- Aldor Guardian Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(31000, { -- Bloodwarder's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 14071,
+			[1] = 14071,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(31204, { -- The Gunblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 14217,
+			[1] = 14217,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(31323, { -- Don Santos' Famous Hunting Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 14314,
+			[1] = 14314,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(32325, { -- Rifle of the Stoic Guardian
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[3] = 14906,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(32756, { -- Gyro-Balanced Khorium Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15084,
+			[1] = 15084,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(32780, { -- The Boomstick
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[2] = 15090,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(33427, { -- Frost-Encrusted Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(33491, { -- Tuskbreaker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 15467,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(34530, { -- Vengeful Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16020,
+			[1] = 16020,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(35075, { -- Brutal Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16312,
+			[1] = 16312,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(35645, { -- Prison Warden's Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[1] = 16569,
+			[2] = 16569,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(35856, { -- Hair-Trigger Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 16650,
+			[1] = 16650,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36641, { -- Bound Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 17378,
+			[1] = 17378,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36642, { -- Flintlock Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17379,
+			[1] = 17379,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36643, { -- Tracker's Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17380,
+			[1] = 17380,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36644, { -- Inelegant Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17381,
+			[1] = 17381,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36645, { -- Tuskarr Boomstick
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			27
+		},
+		["modIDs"] = {
+			[0] = 17382,
+			[1] = 17382,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(36646, { -- Haggard Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17383,
+			[1] = 17383,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36647, { -- Noisy Blaster
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17384,
+			[1] = 17384,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36648, { -- Trapper's Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17385,
+			[1] = 17385,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36649, { -- Tundra Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 34,
+		["inventoryType"] = 26,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17386,
+			[1] = 17386,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36650, { -- Mammoth Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 34,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17387,
+			[1] = 17387,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36651, { -- Muzzled Musket
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 34,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17388,
+			[1] = 17388,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36652, { -- Stocky Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 34,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17389,
+			[1] = 17389,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36653, { -- Precipice Longrifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17390,
+			[1] = 17390,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36654, { -- Harsh-Winter Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 17391,
+			[1] = 17391,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(36994, { -- Projectile Activator
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[1] = 17522,
+			[2] = 17522,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(37018, { -- G.E.H.T.A.
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 17540,
+			[1] = 17540,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(37049, { -- Lost Marksman's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 17567,
+			[1] = 17567,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(37692, { -- Pierce's Pistol
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 17954,
+			[2] = 17954,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(38177, { -- Siege Captain's Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 18295,
+			[1] = 18295,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(38194, { -- Mageslayer Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 18311,
+			[1] = 18311,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(38241, { -- Fury of the Raging Dragon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 18342,
+			[1] = 18342,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(38457, { -- Sawed-Off Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 34,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 18433,
+			[1] = 18433,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(39119, { -- Bondsniper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 33,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 18665,
+			[1] = 18665,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(39419, { -- Nerubian Conqueror
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 18858,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(39486, { -- Hemet's Trophy Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 34,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 18910,
+			[1] = 18910,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(39688, { -- Mark "S" Boomstick
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 34,
+		["inventoryType"] = 26,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 19034,
+			[1] = 19034,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(40385, { -- Envoy of Mortality
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 19387,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(41168, { -- Armor Plated Combat Shotgun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 19907,
+			[1] = 19907,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(42447, { -- Savage Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20532,
+			[1] = 20532,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(42484, { -- Hateful Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20540,
+			[1] = 20540,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(42485, { -- Deadly Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20541,
+			[1] = 20541,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(42486, { -- Furious Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20542,
+			[1] = 20542,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(42487, { -- Relentless Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20543,
+			[1] = 20543,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(42822, { -- K3 Pachyderm Prevention Device
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 34,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 20748,
+			[1] = 20748,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(44093, { -- Upgraded Dwarven Hand Cannon
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 142,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 21334,
+			[1] = 21334,
+		},
+		["q"] = 7,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(44245, { -- Zombie Sweeper Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 21412,
+			[1] = 21412,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(44504, { -- Nesingwary 4000
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 21517,
+			[1] = 21517,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(44635, { -- Dalaran Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(45130, { -- Blunderbuss of Khaz Modan
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		241,
+		25
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 21661,
+			[1] = 21661,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 3,
+	}),
+	i(45137, { -- Veranus' Bane
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21666,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(45210, { -- Sen'jin Beakblade Longrifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		241,
+		25
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 21710,
+			[1] = 21710,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 3,
+	}),
+	i(45261, { -- Giant's Bane
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21748,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(45309, { -- Rifle of the Platinum Guard
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21781,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(45870, { -- Magnetized Projectile Emitter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 22100,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(45937, { -- Furious Gladiator's Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22124,
+			[1] = 22124,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(46339, { -- Mimiron's Repeater
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 22443,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(47521, { -- BRK-1000
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22822,
+			[1] = 22822,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(47523, { -- Fezzik's Autocannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22824,
+			[1] = 22824,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(47568, { -- True-Aim Long Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 22850,
+			[2] = 22850,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(47740, { -- The Diplomat
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 22956,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 3,
+	}),
+	i(47883, { -- Widebarrel Flintlock
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 23066,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 3,
+	}),
+	i(47950, { -- The Diplomat
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 23120,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 3,
+	}),
+	i(48022, { -- Widebarrel Flintlock
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 23180,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 3,
+	}),
+	i(48424, { -- Relentless Gladiator's Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 23537,
+			[1] = 23537,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(49305, { -- Snub-Nose Blastershot Launcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24067,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(49455, { -- Blunderbuss of Deforestation
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 10,
+		["inventoryType"] = 26,
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(49493, { -- Rifled Blastershot Launcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24199,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(49608, { -- Old Smoothbore
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 6,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(49813, { -- Rimebane Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24389,
+			[2] = 24389,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(50444, { -- Rowan's Rifle of Silver Bullets
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 24725,
+			[1] = 24725,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(51385, { -- Stakethrower
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25243,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(51449, { -- Wrathful Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25302,
+			[1] = 25302,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(51450, { -- Wrathful Gladiator's Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25303,
+			[1] = 25303,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(51561, { -- Dreamhunter's Carbine
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25401,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(51834, { -- Dreamhunter's Carbine
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25562,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(51845, { -- Stakethrower
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25571,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(52909, { -- Mini B.C. Eliminator
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 4,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 25898,
+			[1] = 25898,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(52950, { -- Whamo Kablamo
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 4,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(53243, { -- Loose Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 19,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 26054,
+			[1] = 26054,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(53285, { -- Pistonhammer Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 19,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 26089,
+			[1] = 26089,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(53403, { -- Bedlam Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 10,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 26160,
+			[1] = 26160,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(53449, { -- Stonifying Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 5,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 26203,
+			[1] = 26203,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(53569, { -- Confiscated Poacher's Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 27,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 26235,
+			[1] = 26235,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(54298, { -- Skyrocket Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(55353, { -- Razorwind Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 26974,
+			[1] = 26974,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(55354, { -- Steelspark Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 26975,
+			[1] = 26975,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(55355, { -- Angerfang Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 26976,
+			[1] = 26976,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(55356, { -- Nethergarde Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 26977,
+			[1] = 26977,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(55357, { -- Splinterspear Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 26978,
+			[1] = 26978,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(55358, { -- Mardenholde Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 26979,
+			[1] = 26979,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(55359, { -- Bladefist Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 26980,
+			[1] = 26980,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(55360, { -- Irontree Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 26981,
+			[1] = 26981,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(55361, { -- Rustmaul Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			32
+		},
+		["modIDs"] = {
+			[0] = 26982,
+			[1] = 26982,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(55846, { -- Lightningflash
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 27418,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(55853, { -- Thundercall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 27423,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(56366, { -- Lightningflash
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 27689,
+			[2] = 27689,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(56376, { -- Thundercall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[2] = 27696,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(56862, { -- Failed Liferocket Prototype
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 24,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 27961,
+			[1] = 27961,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(56866, { -- Failed Liferocket Prototype
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 24,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 27965,
+			[1] = 27965,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(57224, { -- Longstalker's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(57240, { -- Hawkeye Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 5,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 28163,
+			[1] = 28163,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(57293, { -- Front-Line Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 28207,
+			[1] = 28207,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(57563, { -- South Gate Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 5,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 28440,
+			[1] = 28440,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(58975, { -- Gnomish All-Purpose Ray Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 5,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 29307,
+			[1] = 29307,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(59003, { -- Daryl's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 7,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 29335,
+			[1] = 29335,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(59183, { -- Silenced Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 18,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 29455,
+			[1] = 29455,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(59367, { -- Kickback 5000
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 29603,
+			[1] = 29603,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(59531, { -- Far Watch Musket
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 6,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 29728,
+			[1] = 29728,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(59577, { -- Sputtervalve Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 11,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 29774,
+			[1] = 29774,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(59599, { -- Volatile Thunderstick
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 29789,
+			[1] = 29789,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(59620, { -- Trench-Stalker Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 29805,
+			[1] = 29805,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(59623, { -- Trench-Stalker Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 29808,
+			[1] = 29808,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(60210, { -- Crossfire Carbine
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 29976,
+			[1] = 29976,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(60714, { -- Massive Firearm of Death
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 11,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 30314,
+			[1] = 30314,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(61109, { -- Bhag'thera's Roar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 18,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 30520,
+			[1] = 30520,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(61354, { -- Vicious Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 30717,
+			[1] = 30717,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(61576, { -- Pirate's Musket
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 19,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 30864,
+			[1] = 30864,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(62069, { -- Plugged Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(62159, { -- Bear Hunter's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31237,
+			[1] = 31237,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(62163, { -- Fox Hunter's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31240,
+			[1] = 31240,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(62181, { -- Zombie Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31255,
+			[1] = 31255,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(62185, { -- Zombie Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 21,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31259,
+			[1] = 31259,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(62843, { -- Bush Chicken Remote Injector
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 6,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31525,
+			[1] = 31525,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(62981, { -- Grubby Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 23,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31626,
+			[1] = 31626,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(63180, { -- Blam Blam Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 24,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31722,
+			[1] = 31722,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(63227, { -- Dark Iron Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 25,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31765,
+			[1] = 31765,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(63586, { -- Cryocannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 22,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31908,
+			[1] = 31908,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(63640, { -- Windsong Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 23,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31957,
+			[1] = 31957,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(63644, { -- Windsong Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 23,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 31960,
+			[1] = 31960,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(63736, { -- Muffled Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 32028,
+			[1] = 32028,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(63739, { -- Silenced Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 32031,
+			[1] = 32031,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(64510, { -- Oreknuckle Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 26,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 32220,
+			[1] = 32220,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(64514, { -- Oreknuckle Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 26,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 32224,
+			[1] = 32224,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(64824, { -- Bloodthirsty Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 32439,
+			[1] = 32439,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(65821, { -- Pearl-Handled Long Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 33212,
+			[1] = 33212,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(65997, { -- Tribute Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 25,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 33360,
+			[1] = 33360,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(66043, { -- Tribute Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 25,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 33399,
+			[1] = 33399,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(66439, { -- Cry of the Wolf
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 4,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 33664,
+			[1] = 33664,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(66953, { -- Snub-Nosed Pistol
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 34110,
+			[1] = 34110,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(67045, { -- Abatement Cannon
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 34148,
+			[1] = 34148,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(67223, { -- Umi's Masterful Shooter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 27,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 34260,
+			[1] = 34260,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(67463, { -- Vicious Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 34298,
+			[1] = 34298,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(68014, { -- Flintlocke's Chuckshooter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 36,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 34652,
+			[1] = 34652,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(69637, { -- Gurubashi Destroyer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[2] = 35545,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(70194, { -- Ruthless Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35741,
+			[1] = 35741,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(70237, { -- Ruthless Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35784,
+			[1] = 35784,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(71077, { -- Extreme-Impact Hole Puncher
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 36441,
+			[1] = 36441,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(72098, { -- Darkmoon Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(72869, { -- Dragonsmaw Blaster
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37346,
+			[1] = 37346,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(72873, { -- Bronze Blaster
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			32
+		},
+		["modIDs"] = {
+			[0] = 37350,
+			[1] = 37350,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(73000, { -- Beastsoul Rifle
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 37458,
+			[1] = 37458,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(73427, { -- Cataclysmic Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37635,
+			[1] = 37635,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(73460, { -- Cataclysmic Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37668,
+			[1] = 37668,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(77192, { -- Ruinblaster Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 38927,
+			[2] = 38927,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(77527, { -- Big Game Hunter
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 39120,
+			[1] = 39120,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(77528, { -- Long-Range Trillium Sniper
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 39121,
+			[1] = 39121,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(77555, { -- Replica Grand Marshal's Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 39136,
+			[1] = 39136,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 3,
+	}),
+	i(77579, { -- Replica High Warlord's Street Sweeper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 29,
+		["inventoryType"] = 26,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 39160,
+			[1] = 39160,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 3,
+	}),
+	i(80872, { -- Firebelcher Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 40711,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(80895, { -- Yan-Zhu's Pressure Valve
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 40734,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(81066, { -- Yan-Zhu's Pressure Valve
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 40874,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(81067, { -- Firebelcher Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 40875,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(82012, { -- Polished Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 41534,
+			[1] = 41534,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(82051, { -- Bronzed Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 41573,
+			[1] = 41573,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(82106, { -- Barbarian Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 41626,
+			[1] = 41626,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(82161, { -- Rigid Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[0] = 41679,
+			[1] = 41679,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(82216, { -- Inlaid Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[0] = 41732,
+			[1] = 41732,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(82271, { -- Engraved Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 34,
+		["modIDs"] = {
+			[0] = 41785,
+			[1] = 41785,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(82594, { -- Fireblaze Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 41950,
+			[1] = 41950,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(84256, { -- Jade Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 42907,
+			[1] = 42907,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(84532, { -- Bodyguard's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 43101,
+			[1] = 43101,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(84706, { -- Dreadful Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43197,
+			[1] = 43197,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(84900, { -- Malevolent Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43358,
+			[1] = 43358,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(85123, { -- Malevolent Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43566,
+			[1] = 43566,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(86331, { -- Taoren, the Soul Burner
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 44381,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(86889, { -- Taoren, the Soul Burner
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 44754,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(87168, { -- Taoren, the Soul Burner
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 44996,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(87476, { -- Wall Guardian's Longrifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 45202,
+			[1] = 45202,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(87477, { -- Penate's Penance-Procuring Pistol
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 45203,
+			[1] = 45203,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(89399, { -- Amber Sprayer of Klaxxi'vess
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 46294,
+			[1] = 46294,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(90029, { -- Marine's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 46739,
+			[1] = 46739,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(90176, { -- Flintlocke's Blasthammer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 46850,
+			[1] = 46850,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 9,
+	}),
+	i(90323, { -- Spare Gunship Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 46905,
+			[1] = 46905,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(90375, { -- Airship Marine's Sharpshooter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 46957,
+			[1] = 46957,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(90808, { -- Bent-Barrel Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(91201, { -- Tyrannical Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47499,
+			[1] = 47499,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(91202, { -- Tyrannical Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47500,
+			[1] = 47500,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(91554, { -- Malevolent Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47777,
+			[1] = 47777,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(93134, { -- Scavenged Pandaren Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 48541,
+			[1] = 48541,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(93841, { -- Smoothbore Dwarven Hand Cannon
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 170,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 48992,
+			[1] = 48992,
+		},
+		["q"] = 7,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(94094, { -- Hexbelcher Rifle
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 38,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 49182,
+			[1] = 49182,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(94309, { -- Tyrannical Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 49289,
+			[1] = 49289,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(94963, { -- Voice of the Quilen
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 49773,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(95392, { -- Sonic Pulse Generator
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 50083,
+			[1] = 50083,
+		},
+		["q"] = 3,
+		["requireSkill"] = 794,
+		["subclass"] = 3,
+	}),
+	i(95781, { -- Voice of the Quilen
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50288,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(96153, { -- Voice of the Quilen
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50600,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(96525, { -- Voice of the Quilen
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 41,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 50912,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(96897, { -- Voice of the Quilen
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 41,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 51224,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(98269, { -- Immaculate Pandaren Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 51991,
+			[1] = 51991,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(99834, { -- Tyrannical Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53013,
+			[1] = 53013,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(99970, { -- Tyrannical Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53138,
+			[1] = 53138,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(100297, { -- Grievous Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53424,
+			[1] = 53424,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(100298, { -- Grievous Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53425,
+			[1] = 53425,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(100539, { -- Grievous Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53655,
+			[1] = 53655,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(101066, { -- Trailseeker Rifle
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53922,
+			[1] = 53922,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(102597, { -- Prideful Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54788,
+			[1] = 54788,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(102794, { -- Grievous Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54959,
+			[1] = 54959,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(103029, { -- Prideful Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55168,
+			[1] = 55168,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(103206, { -- Grievous Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55333,
+			[1] = 55333,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(103403, { -- Prideful Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55504,
+			[1] = 55504,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(103953, { -- Kor'kron Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55914,
+			[1] = 55914,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(104563, { -- Kor'kron Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56170,
+			[1] = 56170,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(104812, { -- Kor'kron Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 41,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56371,
+			[1] = 56371,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(105061, { -- Kor'kron Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56572,
+			[1] = 56572,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(105310, { -- Kor'kron Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56773,
+			[1] = 56773,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(105559, { -- Kor'kron Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56974,
+			[1] = 56974,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(106320, { -- Narrcho's Rifle of Unreadiness
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			35
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(108790, { -- 7.0 PH Weapon - Gun Agi
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 136,
+		["inventoryType"] = 26,
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(109168, { -- Shrediron's Shredder
+		["bonusIDs"] = {
+			[525] = 62916,
+			[558] = 62917,
+			[559] = 62918,
+			[594] = 62918,
+			[619] = 62918,
+			[620] = 62918,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			35
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(109491, { -- 7.0 QA Combat Test Hunter Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 152,
+		["inventoryType"] = 26,
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(109529, { -- 7.0 QA Combat Test Hunter Gun No Variance
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 152,
+		["inventoryType"] = 26,
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(110056, { -- Black Iron Sniper Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[1] = 59660,
+			[2] = 61144,
+			[22] = 59660,
+			[23] = 59660,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(110411, { -- Iron Horde Flame Cannon
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(110591, { -- Flintlocke's Blasthammer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 59967,
+			[1] = 59967,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(111074, { -- Primal Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 60142,
+			[1] = 60142,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(112578, { -- Talador Hunting Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 62102,
+			[1] = 62102,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(112806, { -- Kor'kron Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 41,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[3] = 61729,
+			[4] = 61730,
+			[5] = 61729,
+			[6] = 61731,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(113050, { -- Ketya's Boomstick
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 62029,
+			[1] = 62029,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(113966, { -- Gar'an's Brutal Spearlauncher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 62864,
+			[5] = 62865,
+			[6] = 62866,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(113993, { -- Swapblaster
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(115031, { -- Primal Combatant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 63970,
+			[1] = 63970,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(115601, { -- Primal Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64487,
+			[1] = 64487,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(115862, { -- Primal Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64687,
+			[1] = 64687,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(116388, { -- Crack-Shot Longrifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[4] = 65270,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(116464, { -- Frostbitten Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65326,
+			[1] = 65326,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116481, { -- Lunarglow Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65343,
+			[1] = 65343,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116498, { -- Vinewrapped Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 36,
+		["modIDs"] = {
+			[0] = 65360,
+			[1] = 65360,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116515, { -- Creeperclaw Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 36,
+		["modIDs"] = {
+			[0] = 65377,
+			[1] = 65377,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116532, { -- Incised Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 40,
+		["inventoryType"] = 26,
+		["lvl"] = 37,
+		["modIDs"] = {
+			[0] = 65394,
+			[1] = 65394,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116549, { -- Auchenai Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 41,
+		["inventoryType"] = 26,
+		["lvl"] = 37,
+		["modIDs"] = {
+			[0] = 65411,
+			[1] = 65411,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116566, { -- Skettis Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 38,
+		["modIDs"] = {
+			[0] = 65428,
+			[1] = 65428,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116583, { -- Longclaw Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 38,
+		["modIDs"] = {
+			[0] = 65445,
+			[1] = 65445,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116600, { -- Bloodmane Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 42,
+		["inventoryType"] = 26,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 65462,
+			[1] = 65462,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116617, { -- Gorian Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 43,
+		["inventoryType"] = 26,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 65479,
+			[1] = 65479,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116634, { -- Howling Gun
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 65496,
+			[1] = 65496,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(116809, { -- Ironbeard's Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 98,
+		["modIDs"] = {
+			[0] = 65553,
+			[1] = 65553,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(116907, { -- Betsi's Boomstick
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 43,
+		["inventoryType"] = 26,
+		["lvl"] = 98,
+		["modIDs"] = {
+			[0] = 65592,
+			[1] = 65592,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(116926, { -- Turbo Bolt 3141.5
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(117109, { -- Trailseeker Shotgun
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65785,
+			[1] = 65785,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(117581, { -- Tournament Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66035,
+			[1] = 66035,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(117782, { -- Tournament Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66203,
+			[1] = 66203,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(118411, { -- Crystal-Shot Longrifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = 10000000,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 31,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66559,
+			[1] = 66559,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(118798, { -- Dead Eye Zakk's Boomshooter
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 43,
+		["inventoryType"] = 26,
+		["lvl"] = 38,
+		["modIDs"] = {
+			[0] = 67849,
+			[1] = 67849,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(118986, { -- Expeditious Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66737,
+			[1] = 66737,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(119226, { -- Blammo's Blammer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66866,
+			[1] = 66866,
+			[22] = 66866,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(119559, { -- Trailseeker Shotgun
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67391,
+			[1] = 67391,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(120060, { -- Primal Combatant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67765,
+			[1] = 67765,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(121337, { -- Permanently Jammed Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			40
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(121379, { -- Mechanized Musket
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			40
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(122080, { -- Warscout Shotgun
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 69035,
+			[1] = 69035,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(122366, { -- Upgraded Dwarven Hand Cannon
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 64,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 69195,
+			[1] = 69195,
+		},
+		["q"] = 7,
+		["subclass"] = 3,
+	}),
+	i(124370, { -- Felfire Munitions Launcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 70144,
+			[5] = 70145,
+			[6] = 70146,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(124626, { -- Baleful Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			40
+		},
+		["modIDs"] = {
+			[0] = 70380,
+			[1] = 70380,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(124682, { -- Wild Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70399,
+			[1] = 70399,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(124892, { -- Wild Combatant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70568,
+			[1] = 70568,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(125161, { -- Wild Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70777,
+			[1] = 70777,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(125369, { -- Wild Combatant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70946,
+			[1] = 70946,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(125676, { -- Wild Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71193,
+			[1] = 71193,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(125796, { -- Warmongering Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 46,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71310,
+			[1] = 71310,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(126006, { -- Warmongering Combatant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71479,
+			[1] = 71479,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(126275, { -- Warmongering Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 46,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71688,
+			[1] = 71688,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(126483, { -- Warmongering Combatant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71857,
+			[1] = 71857,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(126790, { -- Warmongering Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 46,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 72104,
+			[1] = 72104,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(127331, { -- Double-Scoped Long Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[0] = 72514,
+			[1] = 72514,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(128098, { -- Snub-Nosed Iron Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[4] = 73139,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(128861, { -- Titanstrike
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 20,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 76525,
+			[1] = 76525,
+		},
+		["q"] = 6,
+		["subclass"] = 3,
+	}),
+	i(129717, { -- Trailseeker Shotgun
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 74253,
+			[1] = 74253,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(133242, { -- Lightningflash
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[22] = 76610,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(133251, { -- Thundercall
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[22] = 76617,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(133417, { -- Bronze Blaster
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[22] = 76726,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(133497, { -- Rimebane Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 76789,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(134123, { -- "Reliable" Boom-O-Tronic
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 2,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 77349,
+			[1] = 77349,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(134638, { -- Recruit's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 23,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 78330,
+			[1] = 78330,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(134720, { -- Cold-Touched Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 78382,
+			[1] = 78382,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(134749, { -- Covert Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 78391,
+			[1] = 78391,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(136629, { -- Felgibber Shotgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 78575,
+			[1] = 78575,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(136630, { -- "Twirling Bottom" Repeater
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 78576,
+			[1] = 78576,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(136631, { -- Surface-to-Infernal Rocket Launcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 78577,
+			[1] = 78577,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(136632, { -- Chaos Blaster
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 45,
+		["inventoryType"] = 26,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 78578,
+			[1] = 78578,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(140544, { -- Huntmaster's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 47,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 81581,
+			[1] = 81581,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(140691, { -- Packmaster's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 81746,
+			[1] = 81746,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(144089, { -- Yan-Zhu's Pressure Valve
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 84395,
+			[2] = 84395,
+			[22] = 84395,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(144090, { -- Firebelcher Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 39,
+		["inventoryType"] = 26,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 84396,
+			[2] = 84396,
+			[22] = 84396,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(150477, { -- Rifle of the Stoic Guardian
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 32,
+		["inventoryType"] = 26,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[22] = 88953,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(150586, { -- Packmaster's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 89045,
+			[1] = 89045,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(151214, { -- Zandalari Blowgun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(153505, { -- Monelite Boomstick
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 50,
+		["inventoryType"] = 26,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 90987,
+			[1] = 90987,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(153506, { -- Finely-Tuned Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 59,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 90988,
+			[1] = 90988,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(153813, { -- Trailseeker Shotgun
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 50,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			45
+		},
+		["modIDs"] = {
+			[0] = 91086,
+			[1] = 91086,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(154411, { -- Vlaros Corps Rifle
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 91480,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(155136, { -- Autumnvale Long Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 50,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 92029,
+			[1] = 92029,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(155209, { -- Thundershot Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 50,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 92096,
+			[1] = 92096,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(155938, { -- Veranus' Bane
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92555,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(155998, { -- Giant's Bane
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92605,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(156037, { -- Rifle of the Platinum Guard
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92636,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(156292, { -- Magnetized Projectile Emitter
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92856,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(156940, { -- Snubnose Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 3,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(157622, { -- Silverscope Longrifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 16,
+		["inventoryType"] = 26,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 93808,
+			[1] = 93808,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(158090, { -- Ironcrest Longrifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94170,
+			[1] = 94170,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(158294, { -- Hollowbeak Hunting Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 50,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 94290,
+			[1] = 94290,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(159130, { -- Captain's Diplomacy
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 94876,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 59,
+		["inventoryType"] = 26,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 95463,
+			[23] = 95464,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(159497, { -- Deepwarden Flintlock
+		["bonusIDs"] = {
+			[4796] = 95298,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95298,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(159639, { -- P.A.C.I.F.I.S.T. Mk7
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 95423,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 59,
+		["inventoryType"] = 26,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 95460,
+			[23] = 95461,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(159657, { -- Korgus' Blackpowder Rifle
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 95444,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 59,
+		["inventoryType"] = 26,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 95465,
+			[23] = 95466,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(159936, { -- Honorable Combatant's Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 59,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 95978,
+			[1] = 95978,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(160450, { -- Leadshot Heavy Rifle
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 96406,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(160694, { -- Re-Origination Pulse Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 96673,
+			[4] = 99070,
+			[5] = 96674,
+			[6] = 96675,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(160935, { -- Backfiring Blunderbuss
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			45
+		},
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(161296, { -- Autumnvale Hunting Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 50,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 97185,
+			[1] = 97185,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(161691, { -- Dread Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 97768,
+			[1] = 97768,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(161701, { -- Dread Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 97778,
+			[1] = 97778,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(161930, { -- Finely-Tuned Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 59,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 98025,
+			[1] = 98025,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(161931, { -- Honorable Combatant's Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 59,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 98026,
+			[1] = 98026,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(162878, { -- Dread Aspirant's Rifle
+		["b"] = 1,
+		["bonusIDs"] = {
+			[5080] = 98717,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98717,
+			[1] = 98717,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(162888, { -- Dread Aspirant's Rifle
+		["b"] = 1,
+		["bonusIDs"] = {
+			[5080] = 98727,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98727,
+			[1] = 98727,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(162987, { -- Wildguard Shotgun
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 50,
+		["inventoryType"] = 26,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98808,
+			[1] = 98808,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(163879, { -- Honorbound Portable Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[3] = 99972,
+			[5] = 99972,
+			[6] = 99972,
+			[23] = 99972,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(163889, { -- 7th Legionnaire's Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[3] = 99982,
+			[5] = 99982,
+			[6] = 99982,
+			[23] = 99982,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(163969, { -- Ameelton's Shot-Thrower
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 99999,
+			[1] = 99999,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(164256, { -- The Negotiator
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(164337, { -- Plundered Amber Slinger
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100378,
+			[1] = 100378,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(164347, { -- Plundered Windblaster
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100388,
+			[1] = 100388,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(164350, { -- Plundered Dragon Roar-Barrel
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100391,
+			[1] = 100391,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(164679, { -- Sinister Combatant's Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100847,
+			[1] = 100847,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(164696, { -- Sinister Combatant's Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100864,
+			[1] = 100864,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(164932, { -- Grapeshotter of Khaz Modan
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		241,
+		25
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 101175,
+			[1] = 101175,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 3,
+	}),
+	i(164933, { -- Sen'jin Beakblade Longrifle
+		["b"] = 1,
+		["class"] = 2,
+		["description"] = "This Horde item will be automatically learned after buying the Alliance version.",
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 35,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			30
+		},
+		["modIDs"] = {
+			[0] = 101176,
+			[1] = 101176,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(165024, { -- Sinister Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 101207,
+			[1] = 101207,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(165189, { -- Sinister Aspirant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 101501,
+			[1] = 101501,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+		["u"] = 2,
+	}),
+	i(165270, { -- Fallback Weapon - Gun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["inventoryType"] = 15,
+		["q"] = 2,
+		["subclass"] = 3,
+		["u"] = 1,
+	}),
+	i(165600, { -- Twin-Pipe Buster Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 102052,
+			[4] = 102055,
+			[5] = 102053,
+			[6] = 102054,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(165621, { -- Deadshot Handcannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 102086,
+			[5] = 102086,
+			[6] = 102086,
+			[23] = 102086,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(167225, { -- Hunting Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 26,
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(167996, { -- Notorious Combatant's Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 104263,
+			[1] = 104263,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(167997, { -- Notorious Combatant's Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 104264,
+			[1] = 104264,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(168644, { -- Converted Carrot Carbine
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 104601,
+			[1] = 104601,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(169077, { -- Light Auto-Stabilizing Energy Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 78,
+		["inventoryType"] = 26,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 104974,
+			[23] = 104975,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(170314, { -- Uncanny Combatant's Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 72,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105464,
+			[1] = 105464,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(170315, { -- Uncanny Combatant's Stormsteel Destroyer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 72,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105465,
+			[1] = 105465,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(170468, { -- Supervolt Zapper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105559,
+			[1] = 105559,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(170638, { -- Trailseeker Shotgun
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 68,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105655,
+			[1] = 105655,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(172229, { -- Dominion, Lurker Beyond Dreams
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 95,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[3] = 106574,
+			[4] = 108380,
+			[5] = 108381,
+			[6] = 108382,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(172923, { -- Precision Lifeforce Inverter
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 100,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107304,
+			[1] = 107304,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(173304, { -- Corrupted Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107420,
+			[1] = 107420,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(173306, { -- Corrupted Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107422,
+			[1] = 107422,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(173543, { -- Packmaster's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 44,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 107557,
+			[1] = 107557,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(174016, { -- Corrupted Aspirant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1792,
+		1750
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107828,
+			[1] = 107828,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(174017, { -- Corrupted Aspirant's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1792,
+		1750
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107829,
+			[1] = 107829,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(174223, { -- Ooze-Imbued Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 60,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 108413,
+			[1] = 108413,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(177044, { -- Monster - Maldraxxus Firearm - Covenant
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(177046, { -- Monster - Maldraxxus Firearm - Covenant
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 26,
+		["q"] = 0,
+		["subclass"] = 3,
+	}),
+	i(177126, { -- Honorbound Portable Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 110557,
+			[1] = 110557,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(177136, { -- 7th Legionnaire's Hand Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 58,
+		["inventoryType"] = 26,
+		["modIDs"] = {
+			[0] = 110567,
+			[1] = 110567,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 3,
+	}),
+	i(177332, { -- Trailseeker Shotgun
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 68,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[0] = 110639,
+			[1] = 110639,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(177637, { -- Sinfall Arquebus
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 85,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 110854,
+			[1] = 110854,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(177802, { -- Hopebreaker Carbine
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 100,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 110982,
+			[1] = 110982,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(178054, { -- Briarbane Carbine
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 85,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 111071,
+			[1] = 111071,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(178735, { -- Blight Belcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 158,
+		["inventoryType"] = 26,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[1] = 111461,
+			[2] = 111461,
+			[23] = 111461,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(180388, { -- Soulstalker Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 85,
+		["inventoryType"] = 26,
+		["lvl"] = 48,
+		["modIDs"] = {
+			[0] = 112973,
+			[1] = 112973,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(180862, { -- Bulletslinger
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 85,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 113257,
+			[1] = 113257,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(180956, { -- Axeblade Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		500
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 140,
+		["inventoryType"] = 26,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113305,
+			[1] = 113305,
+		},
+		["q"] = 2,
+		["subclass"] = 3,
+	}),
+	i(181210, { -- Dredhollow Boomstick
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 148,
+		["inventoryType"] = 26,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113516,
+			[1] = 113516,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	}),
+	i(183445, { -- Sinful Gladiator's Rifle
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1602,
+		1800
+	}
+},
+		["customCollect"] = {
+			"SL_COV_NEC"
+		},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 200,
+		["inventoryType"] = 26,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 114611,
+			[1] = 114611,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(183456, { -- Goreforged Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3500
+	},
+	{
+		"c",
+		1885,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 167,
+		["inventoryType"] = 26,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 114622,
+			[1] = 114622,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(184069, { -- Soulbarb, the Breathless Kill
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3500
+	},
+	{
+		"c",
+		1885,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 167,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 115347,
+			[1] = 115347,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(184084, { -- Rathan's Bonespike Launcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 167,
+		["inventoryType"] = 26,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 115359,
+			[1] = 115359,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(184250, { -- Deadeye Blunderbuss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 174,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 115543,
+			[3] = 115543,
+			[4] = 115543,
+			[5] = 115543,
+			[6] = 115565,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(184262, { -- Deadeye Cannon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 174,
+		["inventoryType"] = 26,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 115555,
+			[3] = 115555,
+			[4] = 115555,
+			[5] = 115555,
+			[6] = 115577,
+		},
+		["q"] = 4,
+		["subclass"] = 3,
+	}),
+	i(184322, { -- Sinfall Blunderbus
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 31,
+		["ilvl"] = 151,
+		["inventoryType"] = 26,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 115632,
+			[1] = 115632,
+		},
+		["q"] = 3,
+		["subclass"] = 3,
+	})
+}
+
+i(2098);		--[[Double-Barreled Shotgun]]
+i(2099);		--[[Dwarven Hand Cannon]]
+i(2100);		--[[Precisely Calibrated Boomstick]]
+i(2508);		--[[Old Blunderbuss]]
+i(2509);		--[[Ornate Blunderbuss]]
+i(2510);		--[[Solid Blunderbuss]]
+i(2511);		--[[Hunter's Boomstick]]
+i(2774);		--[[Rust-Covered Blunderbuss]]
+i(2778);		--[[Cheap Blunderbuss]]
+i(2781);		--[[Dirty Blunderbuss]]
+i(2783);		--[[Shoddy Blunderbuss]]
+i(2786);		--[[Oiled Blunderbuss]]
+i(2904);		--[[Daryl's Hunting Rifle]]
+i(3023);		--[[Large Bore Blunderbuss]]
+i(3024);		--[[BKP 2700 "Enforcer"]]
+i(3025);		--[[BKP 42 "Ultra"]]
+i(3040);		--[[Hunter's Muzzle Loader]]
+i(3041);		--[["Mage-Eye" Blunderbuss]]
+i(3042);		--[[BKP "Sparrow" Smallbore]]
+i(3079);		--[[Skorn's Rifle]]
+i(3430);		--[[Sniper Rifle]]
+i(3567);		--[[Dwarven Fishing Pole]]
+i(3780);		--[[Long-Barreled Musket]]
+i(4026);		--[[Sentinel Musket]]
+i(4086);		--[[Flash Rifle]]
+i(4089);		--[[Ricochet Blunderbuss]]
+i(4111);		--[[Master Hunter's Rifle]]
+i(4127);		--[[Shrapnel Blaster]]
+i(4362);		--[[Rough Boomstick]]
+i(4369);		--[[Deadly Blunderbuss]]
+i(4372);		--[[Lovingly Crafted Boomstick]]
+i(4379);		--[[Silver-Plated Shotgun]]
+i(4383);		--[[Moonsight Rifle]]
+i(4577);		--[[Compact Shotgun]]
+i(5309);		--[[Privateer Musket]]
+i(5550);		--[[Fast Test Gun]]
+i(6798);		--[[Blasting Hackbut]]
+i(7729);		--[[Chesterfall Musket]]
+i(8181);		--[[Hunting Rifle]]
+i(8182);		--[[Pellet Rifle]]
+i(8188);		--[[Explosive Shotgun]]
+i(9412);		--[[Galgann's Fireblaster]]
+i(9422);		--[[Shadowforge Bushmaster]]
+i(9456);		--[[Glass Shooter]]
+i(9487);		--[[Hi-Tech Supergun]]
+i(10508);		--[[Mithril Blunderbuss]]
+i(10510);		--[[Mithril Heavy-Bore Rifle]]
+i(11629);		--[[Houndmaster's Rifle]]
+i(12446);		--[[Anvilmar Musket]]
+i(12448);		--[[Light Hunting Rifle]]
+i(13136);		--[[Lil Timmy's Peashooter]]
+i(13137);		--[[Ironweaver]]
+i(13138);		--[[The Silencer]]
+i(13139);		--[[Guttbuster]]
+i(13146);		--[[Shell Launcher Shotgun]]
+i(13248);		--[[Burstshot Harquebus]]
+i(13380);		--[[Willey's Portable Howitzer]]
+i(13474);		--[[Farmer Dalson's Shotgun]]
+i(13825);		--[[Primed Musket]]
+i(15205);		--[[Owlsight Rifle]]
+i(15322);		--[[Smoothbore Gun]]
+i(15323);		--[[Percussion Shotgun]]
+i(15324);		--[[Burnside Rifle]]
+i(15325);		--[[Sharpshooter Harquebus]]
+i(15691);		--[[Sidegunner Shottie]]
+i(15995);		--[[Thorium Rifle]]
+i(16004);		--[[Dark Iron Rifle]]
+i(16007);		--[[Flawless Arcanite Rifle]]
+i(16992);		--[[Smokey's Explosive Launcher]]
+i(17042);		--[[Nail Spitter]]
+i(17072);		--[[Blastershot Launcher]]
+i(17687);		--[[Master Hunter's Rifle]]
+i(17717);		--[[Megashot Rifle]]
+i(18282);		--[[Core Marksman Rifle]]
+i(18460);		--[[Unsophisticated Hand Cannon]]
+i(18755);		--[[Xorothian Firestick]]
+i(18855);		--[[Grand Marshal's Hand Cannon]]
+i(18860);		--[[High Warlord's Street Sweeper]]
+i(19368);		--[[Dragonbreath Hand Cannon]]
+i(19853);		--[[Gurubashi Dwarf Destroyer]]
+i(20722);		--[[Crystal Slugthrower]]
+i(21272);		--[[Blessed Qiraji Musket]]
+i(21800);		--[[Silithid Husked Launcher]]
+i(22656);		--[[The Purifier]]
+i(22810);		--[[Toxin Injector]]
+i(23557);		--[[Larvae of the Great Worm]]
+i(23742);		--[[Fel Iron Musket]]
+i(23746);		--[[Adamantite Rifle]]
+i(23747);		--[[Felsteel Boomstick]]
+i(23748);		--[[Ornate Khorium Rifle]]
+i(24389);		--[[Legion Blunderbuss]]
+i(25268);		--[[Lead-Slug Shotgun]]
+i(25269);		--[[Longbeard Rifle]]
+i(25270);		--[[Gnomish Assault Rifle]]
+i(25271);		--[[Croc-Hunter's Rifle]]
+i(25272);		--[[PC-54 Shotgun]]
+i(25273);		--[[Sawed-Off Shotgun]]
+i(25274);		--[[Cliffjumper Shotgun]]
+i(25275);		--[[Dragonbreath Musket]]
+i(25276);		--[[Tauren Runed Musket]]
+i(25277);		--[[Sporting Rifle]]
+i(25278);		--[[Nesingwary Longrifle]]
+i(25279);		--[[Sen'jin Longrifle]]
+i(25280);		--[[Game Hunter Musket]]
+i(25281);		--[[Big-Boar Battle Rifle]]
+i(25405);		--[[Rusted Musket]]
+i(25544);		--[[Zerid's Vintage Musket]]
+i(25639);		--[[Hemet's Elekk Gun]]
+i(25972);		--[[Deadeye's Piece]]
+i(27794);		--[[Recoilless Rocket Ripper X-54]]
+i(27898);		--[[Wrathfire Hand-Cannon]]
+i(28286);		--[[Telescopic Sharprifle]]
+i(28581);		--[[Wolfslayer Sniper Rifle]]
+i(29115);		--[[Consortium Blaster]]
+i(29151);		--[[Veteran's Musket]]
+i(29200);		--[[Falfindel's Blaster]]
+i(29949);		--[[Arcanite Steam-Pistol]]
+i(30279);		--[[Mama's Insurance]]
+i(30724);		--[[Barrel-Blade Longrifle]]
+i(30758);		--[[Aldor Guardian Rifle]]
+i(31000);		--[[Bloodwarder's Rifle]]
+i(31204);		--[[The Gunblade]]
+i(31323);		--[[Don Santos' Famous Hunting Rifle]]
+i(32325);		--[[Rifle of the Stoic Guardian]]
+i(32756);		--[[Gyro-Balanced Khorium Destroyer]]
+i(32780);		--[[The Boomstick]]
+i(33427);		--[[Frost-Encrusted Rifle]]
+i(33491);		--[[Tuskbreaker]]
+i(34530);		--[[Vengeful Gladiator's Rifle]]
+i(35075);		--[[Brutal Gladiator's Rifle]]
+i(35645);		--[[Prison Warden's Shotgun]]
+i(35856);		--[[Hair-Trigger Blunderbuss]]
+i(36641);		--[[Bound Musket]]
+i(36642);		--[[Flintlock Gun]]
+i(36643);		--[[Tracker's Musket]]
+i(36644);		--[[Inelegant Musket]]
+i(36645);		--[[Tuskarr Boomstick]]
+i(36646);		--[[Haggard Gun]]
+i(36647);		--[[Noisy Blaster]]
+i(36648);		--[[Trapper's Rifle]]
+i(36649);		--[[Tundra Rifle]]
+i(36650);		--[[Mammoth Gun]]
+i(36651);		--[[Muzzled Musket]]
+i(36652);		--[[Stocky Shotgun]]
+i(36653);		--[[Precipice Longrifle]]
+i(36654);		--[[Harsh-Winter Rifle]]
+i(36994);		--[[Projectile Activator]]
+i(37018);		--[[G.E.H.T.A.]]
+i(37049);		--[[Lost Marksman's Rifle]]
+i(37692);		--[[Pierce's Pistol]]
+i(38177);		--[[Siege Captain's Gun]]
+i(38194);		--[[Mageslayer Rifle]]
+i(38241);		--[[Fury of the Raging Dragon]]
+i(38457);		--[[Sawed-Off Hand Cannon]]
+i(39119);		--[[Bondsniper]]
+i(39419);		--[[Nerubian Conqueror]]
+i(39486);		--[[Hemet's Trophy Gun]]
+i(39688);		--[[Mark "S" Boomstick]]
+i(40385);		--[[Envoy of Mortality]]
+i(41168);		--[[Armor Plated Combat Shotgun]]
+i(42447);		--[[Savage Gladiator's Rifle]]
+i(42484);		--[[Hateful Gladiator's Rifle]]
+i(42485);		--[[Deadly Gladiator's Rifle]]
+i(42486);		--[[Furious Gladiator's Rifle]]
+i(42487);		--[[Relentless Gladiator's Rifle]]
+i(42822);		--[[K3 Pachyderm Prevention Device]]
+i(44093);		--[[Upgraded Dwarven Hand Cannon]]
+i(44245);		--[[Zombie Sweeper Shotgun]]
+i(44504);		--[[Nesingwary 4000]]
+i(44635);		--[[Dalaran Rifle]]
+i(45130);		--[[Blunderbuss of Khaz Modan]]
+i(45137);		--[[Veranus' Bane]]
+i(45210);		--[[Sen'jin Beakblade Longrifle]]
+i(45261);		--[[Giant's Bane]]
+i(45309);		--[[Rifle of the Platinum Guard]]
+i(45870);		--[[Magnetized Projectile Emitter]]
+i(45937);		--[[Furious Gladiator's Shotgun]]
+i(46339);		--[[Mimiron's Repeater]]
+i(47521);		--[[BRK-1000]]
+i(47523);		--[[Fezzik's Autocannon]]
+i(47568);		--[[True-Aim Long Rifle]]
+i(47740);		--[[The Diplomat]]
+i(47883);		--[[Widebarrel Flintlock]]
+i(47950);		--[[The Diplomat]]
+i(48022);		--[[Widebarrel Flintlock]]
+i(48424);		--[[Relentless Gladiator's Shotgun]]
+i(49305);		--[[Snub-Nose Blastershot Launcher]]
+i(49455);		--[[Blunderbuss of Deforestation]]
+i(49493);		--[[Rifled Blastershot Launcher]]
+i(49608);		--[[Old Smoothbore]]
+i(49813);		--[[Rimebane Rifle]]
+i(50444);		--[[Rowan's Rifle of Silver Bullets]]
+i(51385);		--[[Stakethrower]]
+i(51449);		--[[Wrathful Gladiator's Rifle]]
+i(51450);		--[[Wrathful Gladiator's Shotgun]]
+i(51561);		--[[Dreamhunter's Carbine]]
+i(51834);		--[[Dreamhunter's Carbine]]
+i(51845);		--[[Stakethrower]]
+i(52909);		--[[Mini B.C. Eliminator]]
+i(52950);		--[[Whamo Kablamo]]
+i(53243);		--[[Loose Cannon]]
+i(53285);		--[[Pistonhammer Gun]]
+i(53403);		--[[Bedlam Gun]]
+i(53449);		--[[Stonifying Gun]]
+i(53569);		--[[Confiscated Poacher's Gun]]
+i(54298);		--[[Skyrocket Gun]]
+i(55353);		--[[Razorwind Gun]]
+i(55354);		--[[Steelspark Gun]]
+i(55355);		--[[Angerfang Gun]]
+i(55356);		--[[Nethergarde Gun]]
+i(55357);		--[[Splinterspear Gun]]
+i(55358);		--[[Mardenholde Gun]]
+i(55359);		--[[Bladefist Gun]]
+i(55360);		--[[Irontree Gun]]
+i(55361);		--[[Rustmaul Gun]]
+i(55846);		--[[Lightningflash]]
+i(55853);		--[[Thundercall]]
+i(56366);		--[[Lightningflash]]
+i(56376);		--[[Thundercall]]
+i(56862);		--[[Failed Liferocket Prototype]]
+i(56866);		--[[Failed Liferocket Prototype]]
+i(57224);		--[[Longstalker's Rifle]]
+i(57240);		--[[Hawkeye Rifle]]
+i(57293);		--[[Front-Line Blunderbuss]]
+i(57563);		--[[South Gate Blunderbuss]]
+i(58975);		--[[Gnomish All-Purpose Ray Gun]]
+i(59003);		--[[Daryl's Rifle]]
+i(59183);		--[[Silenced Rifle]]
+i(59367);		--[[Kickback 5000]]
+i(59531);		--[[Far Watch Musket]]
+i(59577);		--[[Sputtervalve Gun]]
+i(59599);		--[[Volatile Thunderstick]]
+i(59620);		--[[Trench-Stalker Shotgun]]
+i(59623);		--[[Trench-Stalker Shotgun]]
+i(60210);		--[[Crossfire Carbine]]
+i(60714);		--[[Massive Firearm of Death]]
+i(61109);		--[[Bhag'thera's Roar]]
+i(61354);		--[[Vicious Gladiator's Rifle]]
+i(61576);		--[[Pirate's Musket]]
+i(62069);		--[[Plugged Rifle]]
+i(62159);		--[[Bear Hunter's Rifle]]
+i(62163);		--[[Fox Hunter's Rifle]]
+i(62181);		--[[Zombie Shotgun]]
+i(62185);		--[[Zombie Shotgun]]
+i(62843);		--[[Bush Chicken Remote Injector]]
+i(62981);		--[[Grubby Gun]]
+i(63180);		--[[Blam Blam Gun]]
+i(63227);		--[[Dark Iron Gun]]
+i(63586);		--[[Cryocannon]]
+i(63640);		--[[Windsong Rifle]]
+i(63644);		--[[Windsong Rifle]]
+i(63736);		--[[Muffled Blunderbuss]]
+i(63739);		--[[Silenced Blunderbuss]]
+i(64510);		--[[Oreknuckle Gun]]
+i(64514);		--[[Oreknuckle Gun]]
+i(64824);		--[[Bloodthirsty Gladiator's Rifle]]
+i(65821);		--[[Pearl-Handled Long Gun]]
+i(65997);		--[[Tribute Gun]]
+i(66043);		--[[Tribute Gun]]
+i(66439);		--[[Cry of the Wolf]]
+i(66953);		--[[Snub-Nosed Pistol]]
+i(67045);		--[[Abatement Cannon]]
+i(67223);		--[[Umi's Masterful Shooter]]
+i(67463);		--[[Vicious Gladiator's Rifle]]
+i(68014);		--[[Flintlocke's Chuckshooter]]
+i(69637);		--[[Gurubashi Destroyer]]
+i(70194);		--[[Ruthless Gladiator's Rifle]]
+i(70237);		--[[Ruthless Gladiator's Rifle]]
+i(71077);		--[[Extreme-Impact Hole Puncher]]
+i(72098);		--[[Darkmoon Rifle]]
+i(72869);		--[[Dragonsmaw Blaster]]
+i(72873);		--[[Bronze Blaster]]
+i(73000);		--[[Beastsoul Rifle]]
+i(73427);		--[[Cataclysmic Gladiator's Rifle]]
+i(73460);		--[[Cataclysmic Gladiator's Rifle]]
+i(77192);		--[[Ruinblaster Shotgun]]
+i(77527);		--[[Big Game Hunter]]
+i(77528);		--[[Long-Range Trillium Sniper]]
+i(77555);		--[[Replica Grand Marshal's Hand Cannon]]
+i(77579);		--[[Replica High Warlord's Street Sweeper]]
+i(80872);		--[[Firebelcher Hand Cannon]]
+i(80895);		--[[Yan-Zhu's Pressure Valve]]
+i(81066);		--[[Yan-Zhu's Pressure Valve]]
+i(81067);		--[[Firebelcher Hand Cannon]]
+i(82012);		--[[Polished Gun]]
+i(82051);		--[[Bronzed Gun]]
+i(82106);		--[[Barbarian Gun]]
+i(82161);		--[[Rigid Gun]]
+i(82216);		--[[Inlaid Gun]]
+i(82271);		--[[Engraved Gun]]
+i(82594);		--[[Fireblaze Rifle]]
+i(84256);		--[[Jade Rifle]]
+i(84532);		--[[Bodyguard's Rifle]]
+i(84706);		--[[Dreadful Gladiator's Rifle]]
+i(84900);		--[[Malevolent Gladiator's Rifle]]
+i(85123);		--[[Malevolent Gladiator's Rifle]]
+i(86331);		--[[Taoren, the Soul Burner]]
+i(86889);		--[[Taoren, the Soul Burner]]
+i(87168);		--[[Taoren, the Soul Burner]]
+i(87476);		--[[Wall Guardian's Longrifle]]
+i(87477);		--[[Penate's Penance-Procuring Pistol]]
+i(89399);		--[[Amber Sprayer of Klaxxi'vess]]
+i(90029);		--[[Marine's Rifle]]
+i(90176);		--[[Flintlocke's Blasthammer]]
+i(90323);		--[[Spare Gunship Cannon]]
+i(90375);		--[[Airship Marine's Sharpshooter]]
+i(90808);		--[[Bent-Barrel Rifle]]
+i(91201);		--[[Tyrannical Gladiator's Rifle]]
+i(91202);		--[[Tyrannical Gladiator's Rifle]]
+i(91554);		--[[Malevolent Gladiator's Rifle]]
+i(93134);		--[[Scavenged Pandaren Gun]]
+i(93841);		--[[Smoothbore Dwarven Hand Cannon]]
+i(94094);		--[[Hexbelcher Rifle]]
+i(94309);		--[[Tyrannical Gladiator's Rifle]]
+i(94963);		--[[Voice of the Quilen]]
+i(95392);		--[[Sonic Pulse Generator]]
+i(95781);		--[[Voice of the Quilen]]
+i(96153);		--[[Voice of the Quilen]]
+i(96525);		--[[Voice of the Quilen]]
+i(96897);		--[[Voice of the Quilen]]
+i(98269);		--[[Immaculate Pandaren Gun]]
+i(99834);		--[[Tyrannical Gladiator's Rifle]]
+i(99970);		--[[Tyrannical Gladiator's Rifle]]
+i(100297);		--[[Grievous Gladiator's Rifle]]
+i(100298);		--[[Grievous Gladiator's Rifle]]
+i(100539);		--[[Grievous Gladiator's Rifle]]
+i(101066);		--[[Trailseeker Rifle]]
+i(102597);		--[[Prideful Gladiator's Rifle]]
+i(102794);		--[[Grievous Gladiator's Rifle]]
+i(103029);		--[[Prideful Gladiator's Rifle]]
+i(103206);		--[[Grievous Gladiator's Rifle]]
+i(103403);		--[[Prideful Gladiator's Rifle]]
+i(103953);		--[[Kor'kron Hand Cannon]]
+i(104563);		--[[Kor'kron Hand Cannon]]
+i(104812);		--[[Kor'kron Hand Cannon]]
+i(105061);		--[[Kor'kron Hand Cannon]]
+i(105310);		--[[Kor'kron Hand Cannon]]
+i(105559);		--[[Kor'kron Hand Cannon]]
+i(106320);		--[[Narrcho's Rifle of Unreadiness]]
+i(108790);		--[[7.0 PH Weapon - Gun Agi]]
+i(109168);		--[[Shrediron's Shredder]]
+i(109491);		--[[7.0 QA Combat Test Hunter Gun]]
+i(109529);		--[[7.0 QA Combat Test Hunter Gun No Variance]]
+i(110056);		--[[Black Iron Sniper Rifle]]
+i(110411);		--[[Iron Horde Flame Cannon]]
+i(110591);		--[[Flintlocke's Blasthammer]]
+i(111074);		--[[Primal Gladiator's Rifle]]
+i(112578);		--[[Talador Hunting Rifle]]
+i(112806);		--[[Kor'kron Hand Cannon]]
+i(113050);		--[[Ketya's Boomstick]]
+i(113966);		--[[Gar'an's Brutal Spearlauncher]]
+i(113993);		--[[Swapblaster]]
+i(115031);		--[[Primal Combatant's Rifle]]
+i(115601);		--[[Primal Gladiator's Rifle]]
+i(115862);		--[[Primal Gladiator's Rifle]]
+i(116388);		--[[Crack-Shot Longrifle]]
+i(116464);		--[[Frostbitten Gun]]
+i(116481);		--[[Lunarglow Gun]]
+i(116498);		--[[Vinewrapped Gun]]
+i(116515);		--[[Creeperclaw Gun]]
+i(116532);		--[[Incised Gun]]
+i(116549);		--[[Auchenai Gun]]
+i(116566);		--[[Skettis Gun]]
+i(116583);		--[[Longclaw Gun]]
+i(116600);		--[[Bloodmane Gun]]
+i(116617);		--[[Gorian Gun]]
+i(116634);		--[[Howling Gun]]
+i(116809);		--[[Ironbeard's Blunderbuss]]
+i(116907);		--[[Betsi's Boomstick]]
+i(116926);		--[[Turbo Bolt 3141.5]]
+i(117109);		--[[Trailseeker Shotgun]]
+i(117581);		--[[Tournament Gladiator's Rifle]]
+i(117782);		--[[Tournament Gladiator's Rifle]]
+i(118411);		--[[Crystal-Shot Longrifle]]
+i(118798);		--[[Dead Eye Zakk's Boomshooter]]
+i(118986);		--[[Expeditious Gun]]
+i(119226);		--[[Blammo's Blammer]]
+i(119559);		--[[Trailseeker Shotgun]]
+i(120060);		--[[Primal Combatant's Rifle]]
+i(121337);		--[[Permanently Jammed Blunderbuss]]
+i(121379);		--[[Mechanized Musket]]
+i(122080);		--[[Warscout Shotgun]]
+i(122366);		--[[Upgraded Dwarven Hand Cannon]]
+i(124370);		--[[Felfire Munitions Launcher]]
+i(124626);		--[[Baleful Rifle]]
+i(124682);		--[[Wild Gladiator's Rifle]]
+i(124892);		--[[Wild Combatant's Rifle]]
+i(125161);		--[[Wild Gladiator's Rifle]]
+i(125369);		--[[Wild Combatant's Rifle]]
+i(125676);		--[[Wild Gladiator's Rifle]]
+i(125796);		--[[Warmongering Gladiator's Rifle]]
+i(126006);		--[[Warmongering Combatant's Rifle]]
+i(126275);		--[[Warmongering Gladiator's Rifle]]
+i(126483);		--[[Warmongering Combatant's Rifle]]
+i(126790);		--[[Warmongering Gladiator's Rifle]]
+i(127331);		--[[Double-Scoped Long Rifle]]
+i(128098);		--[[Snub-Nosed Iron Rifle]]
+i(128861);		--[[Titanstrike]]
+i(129717);		--[[Trailseeker Shotgun]]
+i(133242);		--[[Lightningflash]]
+i(133251);		--[[Thundercall]]
+i(133417);		--[[Bronze Blaster]]
+i(133497);		--[[Rimebane Rifle]]
+i(134123);		--[["Reliable" Boom-O-Tronic]]
+i(134638);		--[[Recruit's Rifle]]
+i(134720);		--[[Cold-Touched Rifle]]
+i(134749);		--[[Covert Rifle]]
+i(136629);		--[[Felgibber Shotgun]]
+i(136630);		--[["Twirling Bottom" Repeater]]
+i(136631);		--[[Surface-to-Infernal Rocket Launcher]]
+i(136632);		--[[Chaos Blaster]]
+i(140544);		--[[Huntmaster's Rifle]]
+i(140691);		--[[Packmaster's Rifle]]
+i(144089);		--[[Yan-Zhu's Pressure Valve]]
+i(144090);		--[[Firebelcher Hand Cannon]]
+i(150477);		--[[Rifle of the Stoic Guardian]]
+i(150586);		--[[Packmaster's Rifle]]
+i(151214);		--[[Zandalari Blowgun]]
+i(153505);		--[[Monelite Boomstick]]
+i(153506);		--[[Finely-Tuned Stormsteel Destroyer]]
+i(153813);		--[[Trailseeker Shotgun]]
+i(154411);		--[[Vlaros Corps Rifle]]
+i(155136);		--[[Autumnvale Long Rifle]]
+i(155209);		--[[Thundershot Rifle]]
+i(155938);		--[[Veranus' Bane]]
+i(155998);		--[[Giant's Bane]]
+i(156037);		--[[Rifle of the Platinum Guard]]
+i(156292);		--[[Magnetized Projectile Emitter]]
+i(156940);		--[[Snubnose Blunderbuss]]
+i(157622);		--[[Silverscope Longrifle]]
+i(158090);		--[[Ironcrest Longrifle]]
+i(158294);		--[[Hollowbeak Hunting Rifle]]
+i(159130);		--[[Captain's Diplomacy]]
+i(159497);		--[[Deepwarden Flintlock]]
+i(159639);		--[[P.A.C.I.F.I.S.T. Mk7]]
+i(159657);		--[[Korgus' Blackpowder Rifle]]
+i(159936);		--[[Honorable Combatant's Stormsteel Destroyer]]
+i(160450);		--[[Leadshot Heavy Rifle]]
+i(160694);		--[[Re-Origination Pulse Rifle]]
+i(160935);		--[[Backfiring Blunderbuss]]
+i(161296);		--[[Autumnvale Hunting Rifle]]
+i(161691);		--[[Dread Gladiator's Rifle]]
+i(161701);		--[[Dread Gladiator's Rifle]]
+i(161930);		--[[Finely-Tuned Stormsteel Destroyer]]
+i(161931);		--[[Honorable Combatant's Stormsteel Destroyer]]
+i(162878);		--[[Dread Aspirant's Rifle]]
+i(162888);		--[[Dread Aspirant's Rifle]]
+i(162987);		--[[Wildguard Shotgun]]
+i(163879);		--[[Honorbound Portable Cannon]]
+i(163889);		--[[7th Legionnaire's Hand Cannon]]
+i(163969);		--[[Ameelton's Shot-Thrower]]
+i(164256);		--[[The Negotiator]]
+i(164337);		--[[Plundered Amber Slinger]]
+i(164347);		--[[Plundered Windblaster]]
+i(164350);		--[[Plundered Dragon Roar-Barrel]]
+i(164679);		--[[Sinister Combatant's Stormsteel Destroyer]]
+i(164696);		--[[Sinister Combatant's Stormsteel Destroyer]]
+i(164932);		--[[Grapeshotter of Khaz Modan]]
+i(164933);		--[[Sen'jin Beakblade Longrifle]]
+i(165024);		--[[Sinister Gladiator's Rifle]]
+i(165189);		--[[Sinister Aspirant's Rifle]]
+i(165270);		--[[Fallback Weapon - Gun]]
+i(165600);		--[[Twin-Pipe Buster Cannon]]
+i(165621);		--[[Deadshot Handcannon]]
+i(167225);		--[[Hunting Rifle]]
+i(167996);		--[[Notorious Combatant's Stormsteel Destroyer]]
+i(167997);		--[[Notorious Combatant's Stormsteel Destroyer]]
+i(168644);		--[[Converted Carrot Carbine]]
+i(169077);		--[[Light Auto-Stabilizing Energy Rifle]]
+i(170314);		--[[Uncanny Combatant's Stormsteel Destroyer]]
+i(170315);		--[[Uncanny Combatant's Stormsteel Destroyer]]
+i(170468);		--[[Supervolt Zapper]]
+i(170638);		--[[Trailseeker Shotgun]]
+i(172229);		--[[Dominion, Lurker Beyond Dreams]]
+i(172923);		--[[Precision Lifeforce Inverter]]
+i(173304);		--[[Corrupted Gladiator's Rifle]]
+i(173306);		--[[Corrupted Gladiator's Rifle]]
+i(173543);		--[[Packmaster's Rifle]]
+i(174016);		--[[Corrupted Aspirant's Rifle]]
+i(174017);		--[[Corrupted Aspirant's Rifle]]
+i(174223);		--[[Ooze-Imbued Rifle]]
+i(177044);		--[[Monster - Maldraxxus Firearm - Covenant]]
+i(177046);		--[[Monster - Maldraxxus Firearm - Covenant]]
+i(177126);		--[[Honorbound Portable Cannon]]
+i(177136);		--[[7th Legionnaire's Hand Cannon]]
+i(177332);		--[[Trailseeker Shotgun]]
+i(177637);		--[[Sinfall Arquebus]]
+i(177802);		--[[Hopebreaker Carbine]]
+i(178054);		--[[Briarbane Carbine]]
+i(178735);		--[[Blight Belcher]]
+i(180388);		--[[Soulstalker Blunderbuss]]
+i(180862);		--[[Bulletslinger]]
+i(180956);		--[[Axeblade Blunderbuss]]
+i(181210);		--[[Dredhollow Boomstick]]
+i(183445);		--[[Sinful Gladiator's Rifle]]
+i(183456);		--[[Goreforged Blunderbuss]]
+i(184069);		--[[Soulbarb, the Breathless Kill]]
+i(184084);		--[[Rathan's Bonespike Launcher]]
+i(184250);		--[[Deadeye Blunderbuss]]
+i(184262);		--[[Deadeye Cannon]]
+i(184322);		--[[Sinfall Blunderbus]]

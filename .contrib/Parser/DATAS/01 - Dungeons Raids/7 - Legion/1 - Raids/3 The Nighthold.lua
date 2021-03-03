@@ -2,7 +2,7 @@
 --   D U N G E O N S  &  R A I D S  M O D U L E    --
 -----------------------------------------------------
 
-dofile("./DATAS/06 - Expansion Features/Common/Raid Caches.lua");
+dofile("../../../../../Parser/DATAS/06 - Expansion Features/Common/Raid Caches.lua");
 _.Instances = { tier(7, {	-- Legion
 	inst(786, { 	-- The Nighthold
 		["order"] = "03",

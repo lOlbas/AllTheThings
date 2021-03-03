@@ -1885,6 +1885,7 @@ namespace ATT
                     case "System.Boolean":
                     case "System.Double":
                     case "System.String":
+                    case "System.Int64":
                         {
                             dict[field] = v;
                             break;
@@ -2101,7 +2102,7 @@ namespace ATT
             }
 
             // Setup the output folder (/db)
-            var outputFolder = Directory.CreateDirectory("../../db");
+            var outputFolder = Directory.CreateDirectory("../../../../../../db");
             if (outputFolder.Exists)
             {
                 // Export various debug information to the output folder.

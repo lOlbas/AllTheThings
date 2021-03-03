@@ -1,0 +1,3280 @@
+{
+	i(5976, { -- Guild Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 2228,
+			[1] = 2228,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(15196, { -- Private's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		1
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 5983,
+			[1] = 5983,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(15197, { -- Scout's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		1
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 5984,
+			[1] = 5984,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(15198, { -- Knight's Colors
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		1
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 22,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 5985,
+			[1] = 5985,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(15199, { -- Stone Guard's Herald
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		1
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 22,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 5986,
+			[1] = 5986,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(19031, { -- Frostwolf Battle Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 7548,
+			[1] = 7548,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(19032, { -- Stormpike Battle Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 7549,
+			[1] = 7549,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(19160, { -- Contest Winner's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["description"] = "This tabard was given to the people on each servers with the most honorable kills before the introduction of the original honor system.",
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 7628,
+			[1] = 7628,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(19505, { -- Warsong Battle Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 7718,
+			[1] = 7718,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(19506, { -- Silverwing Battle Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 7719,
+			[1] = 7719,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(20131, { -- Battle Tabard of the Defilers
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 7975,
+			[1] = 7975,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(20132, { -- Arathor Battle Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 7976,
+			[1] = 7976,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(22999, { -- Tabard of the Argent Dawn
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 31,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 9063,
+			[1] = 9063,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(23192, { -- Tabard of the Scarlet Crusade
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 9122,
+			[1] = 9122,
+			[2] = 9122,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(23388, { -- Tranquillien Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 20,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[1] = 9233,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(23705, { -- Tabard of Flame
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 9374,
+			[1] = 9374,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 10,
+	}),
+	i(23709, { -- Tabard of Frost
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 9376,
+			[1] = 9376,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 10,
+	}),
+	i(23999, { -- Honor Hold Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 9408,
+			[1] = 9408,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(24004, { -- Thrallmar Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 9409,
+			[1] = 9409,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(24344, { -- Tabard of the Hand
+		["b"] = 1,
+		["class"] = 4,
+		["description"] = "This is from a Draenei only quest, but can used by any Alliance race.",
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 9505,
+			[1] = 9505,
+		},
+		["q"] = 2,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["sourceQuests"] = {
+			9762
+		},
+		["subclass"] = 0,
+	}),
+	i(25549, { -- Blood Knight Tabard
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 30,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 10450,
+			[1] = 10450,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(28788, { -- Tabard of the Protector
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 30,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 12730,
+			[1] = 12730,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(31279, { -- Enchanted Illidari Tabard
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14278,
+			[1] = 14278,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 15,
+	}),
+	i(31404, { -- Green Trophy Tabard of the Illidari
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14348,
+			[1] = 14348,
+		},
+		["q"] = 2,
+		["sourceQuests"] = {
+			10781
+		},
+		["subclass"] = 0,
+	}),
+	i(31405, { -- Purple Trophy Tabard of the Illidari
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 32,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14349,
+			[1] = 14349,
+		},
+		["q"] = 2,
+		["sourceQuests"] = {
+			10781
+		},
+		["subclass"] = 0,
+	}),
+	i(31773, { -- Mag'har Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14604,
+			[1] = 14604,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31774, { -- Kurenai Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14605,
+			[1] = 14605,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31775, { -- Sporeggar Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		24245,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14606,
+			[1] = 14606,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31776, { -- Consortium Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14607,
+			[1] = 14607,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31777, { -- Keepers of Time Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14608,
+			[1] = 14608,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31778, { -- Lower City Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14609,
+			[1] = 14609,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31779, { -- Aldor Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14610,
+			[1] = 14610,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31780, { -- Scryers Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14611,
+			[1] = 14611,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31781, { -- Sha'tar Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14612,
+			[1] = 14612,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(31804, { -- Cenarion Expedition Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 14630,
+			[1] = 14630,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(32445, { -- Skyguard Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 14975,
+			[1] = 14975,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(32828, { -- Ogri'la Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		32569,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 15131,
+			[1] = 15131,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(35221, { -- Tabard of the Shattered Sun
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 12,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 16402,
+			[1] = 16402,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(35279, { -- Tabard of Summer Skies
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 16406,
+			[1] = 16406,
+		},
+		["q"] = 3,
+		["sourceQuests"] = {
+			11972
+		},
+		["subclass"] = 0,
+		["u"] = 21,
+	}),
+	i(35280, { -- Tabard of Summer Flames
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 16407,
+			[1] = 16407,
+		},
+		["q"] = 3,
+		["sourceQuests"] = {
+			11972
+		},
+		["subclass"] = 0,
+		["u"] = 21,
+	}),
+	i(36941, { -- Competitor's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["description"] = "Participated in a battleground during the Beijing 2008 Summer Olympics event.",
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 17489,
+			[1] = 17489,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(38309, { -- Tabard of Nature
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 18367,
+			[1] = 18367,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 10,
+	}),
+	i(38310, { -- Tabard of the Arcane
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 18368,
+			[1] = 18368,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 10,
+	}),
+	i(38311, { -- Tabard of the Void
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 18369,
+			[1] = 18369,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 10,
+	}),
+	i(38312, { -- Tabard of Brilliance
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 18370,
+			[1] = 18370,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 10,
+	}),
+	i(38313, { -- Tabard of Fury
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 18371,
+			[1] = 18371,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 10,
+	}),
+	i(38314, { -- Tabard of the Defender
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 18372,
+			[1] = 18372,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 10,
+	}),
+	i(40643, { -- Tabard of the Achiever
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 19567,
+			[1] = 19567,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(43154, { -- Tabard of the Argent Crusade
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 31,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 20871,
+			[1] = 20871,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(43155, { -- Tabard of the Ebon Blade
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 31,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 20872,
+			[1] = 20872,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(43156, { -- Tabard of the Wyrmrest Accord
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 31,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 20873,
+			[1] = 20873,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(43157, { -- Tabard of the Kirin Tor
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 31,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 20874,
+			[1] = 20874,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(43300, { -- Loremaster's Colors
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 20953,
+			[1] = 20953,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(43348, { -- Tabard of the Explorer
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 20961,
+			[1] = 20961,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(43349, { -- Tabard of Brute Force
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 20962,
+			[1] = 20962,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(45574, { -- Stormwind Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 21996,
+			[1] = 21996,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45577, { -- Ironforge Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 21998,
+			[1] = 21998,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45578, { -- Gnomeregan Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 21999,
+			[1] = 21999,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45579, { -- Darnassus Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22000,
+			[1] = 22000,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45580, { -- Exodar Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22001,
+			[1] = 22001,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45581, { -- Orgrimmar Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22002,
+			[1] = 22002,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45582, { -- Darkspear Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22003,
+			[1] = 22003,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45583, { -- Undercity Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22004,
+			[1] = 22004,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45584, { -- Thunder Bluff Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22005,
+			[1] = 22005,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45585, { -- Silvermoon City Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22006,
+			[1] = 22006,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(45983, { -- Furious Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 32,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22161,
+			[1] = 22161,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(46817, { -- Silver Covenant Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"c",
+		241,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22465,
+			[1] = 22465,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(46818, { -- Sunreaver Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"c",
+		241,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22466,
+			[1] = 22466,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(46874, { -- Argent Crusader's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"c",
+		241,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 22473,
+			[1] = 22473,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(49052, { -- Tabard of Conquest
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 31,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 23986,
+			[1] = 23986,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 0,
+	}),
+	i(49054, { -- Tabard of Conquest
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 32,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 23987,
+			[1] = 23987,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 0,
+	}),
+	i(49086, { -- Relentless Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 32,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 23990,
+			[1] = 23990,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(51534, { -- Wrathful Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 32,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 25382,
+			[1] = 25382,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(52252, { -- Tabard of the Lightbringer
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 32,
+		["inventoryType"] = 19,
+		["lvl"] = {
+			30
+		},
+		["modIDs"] = {
+			[0] = 25723,
+			[1] = 25723,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(56246, { -- Krom'gar Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 19,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(63378, { -- Hellscream's Reach Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"c",
+		391,
+		40
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 31795,
+			[1] = 31795,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(63379, { -- Baradin's Wardens Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"c",
+		391,
+		40
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 31796,
+			[1] = 31796,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(64310, { -- No Tabard
+		["class"] = 12,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 19,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(64882, { -- Gilneas Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 32491,
+			[1] = 32491,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(64884, { -- Bilgewater Cartel Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 32492,
+			[1] = 32492,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(65904, { -- Tabard of Ramkahen
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 33276,
+			[1] = 33276,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(65905, { -- Tabard of the Earthen Ring
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 33277,
+			[1] = 33277,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(65906, { -- Tabard of the Guardians of Hyjal
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 33278,
+			[1] = 33278,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(65907, { -- Tabard of Therazane
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 33279,
+			[1] = 33279,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(65908, { -- Tabard of the Wildhammer Clan
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 33280,
+			[1] = 33280,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(65909, { -- Tabard of the Dragonmaw Clan
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 33281,
+			[1] = 33281,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(69209, { -- Illustrious Guild Tabard
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 35447,
+			[1] = 35447,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(69210, { -- Renowned Guild Tabard
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 35448,
+			[1] = 35448,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(83079, { -- Tushui Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 42326,
+			[1] = 42326,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(83080, { -- Huojin Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 42327,
+			[1] = 42327,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(86468, { -- Apron
+		["class"] = 4,
+		["cost"] = {
+	{
+		"c",
+		402,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 44454,
+			[1] = 44454,
+		},
+		["q"] = 3,
+		["requireSkill"] = 185,
+		["subclass"] = 0,
+	}),
+	i(89196, { -- Theramore Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46212,
+			[1] = 46212,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(89401, { -- Anglers Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46296,
+			[1] = 46296,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(89784, { -- Tillers Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 85000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46577,
+			[1] = 46577,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(89795, { -- Lorewalkers Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46586,
+			[1] = 46586,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(89796, { -- Order of the Cloud Serpent Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46587,
+			[1] = 46587,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(89797, { -- Golden Lotus Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46588,
+			[1] = 46588,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(89798, { -- Klaxxi Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46589,
+			[1] = 46589,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(89799, { -- August Celestials Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46590,
+			[1] = 46590,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(89800, { -- Shado-Pan Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 46591,
+			[1] = 46591,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(95591, { -- Kirin Tor Offensive Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 50146,
+			[1] = 50146,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(95592, { -- Sunreaver Onslaught Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 50147,
+			[1] = 50147,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(97131, { -- Shado-Pan Assault Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 51417,
+			[1] = 51417,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(98162, { -- Tyrannical Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 51899,
+			[1] = 51899,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(101697, { -- Grievous Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 54290,
+			[1] = 54290,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(103636, { -- Prideful Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 33,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 55684,
+			[1] = 55684,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(107897, { -- Slave Tabard
+		["class"] = 12,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 19,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(115517, { -- Wrynn's Vanguard Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 64423,
+			[1] = 64423,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(115518, { -- Vol'jin's Spear Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 64424,
+			[1] = 64424,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(115972, { -- Primal Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 64797,
+			[1] = 64797,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(118365, { -- Stormwind Tabard
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66538,
+			[1] = 66538,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+	}),
+	i(118372, { -- Orgrimmar Tabard
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66537,
+			[1] = 66537,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+	}),
+	i(119133, { -- Frostwolf Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66827,
+			[1] = 66827,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+	}),
+	i(119135, { -- Council of Exarchs Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66828,
+			[1] = 66828,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+	}),
+	i(119136, { -- Arakkoa Outcasts Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66829,
+			[1] = 66829,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(119137, { -- Steamwheedle "Preservation" Society Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66830,
+			[1] = 66830,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(119138, { -- Laughing Skull Orcs Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66831,
+			[1] = 66831,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(119140, { -- Sha'tari Defense Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 66832,
+			[1] = 66832,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(127365, { -- Wild Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 72532,
+			[1] = 72532,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(127366, { -- Wild Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 72533,
+			[1] = 72533,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(127369, { -- Warmongering Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 72534,
+			[1] = 72534,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(127371, { -- Warmongering Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 72535,
+			[1] = 72535,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(128449, { -- Saberstalkers Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 73485,
+			[1] = 73485,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(128450, { -- Order of the Awakened Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 35,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 73486,
+			[1] = 73486,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(133670, { -- Slayer's Tabard
+		["b"] = 1,
+		["c"] = {
+			12
+		},
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 76894,
+			[1] = 76894,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(138429, { -- Cropped Tabard of the Scarlet Crusade
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		23192,
+		1
+	},
+	{
+		"g",
+		250000000
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 80214,
+			[1] = 80214,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(140575, { -- Nightfallen Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 81604,
+			[1] = 81604,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(140576, { -- Tabard of the Highmountain Tribe
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 81605,
+			[1] = 81605,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(140577, { -- Court of Farondis Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 81606,
+			[1] = 81606,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(140578, { -- Dreamweaver Initiate's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 3000000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 81607,
+			[1] = 81607,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(140579, { -- Valarjar Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 81608,
+			[1] = 81608,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(140580, { -- Warden's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 81609,
+			[1] = 81609,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(140667, { -- Tabard of the Dreamweavers
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6000000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 81708,
+			[1] = 81708,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(142504, { -- Hidden Tabard
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 83203,
+			[1] = 83203,
+		},
+		["q"] = 2,
+		["subclass"] = 5,
+		["u"] = 1,
+	}),
+	i(147204, { -- Black Apron - TEST
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 86059,
+			[1] = 86059,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(147205, { -- Legionfall Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"c",
+		1226,
+		10000
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 86060,
+			[1] = 86060,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(147336, { -- Cruel Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 86391,
+			[1] = 86391,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(147337, { -- Cruel Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 86392,
+			[1] = 86392,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(147338, { -- Ferocious Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 86393,
+			[1] = 86393,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(147339, { -- Ferocious Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 86394,
+			[1] = 86394,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(149442, { -- Fierce Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 88208,
+			[1] = 88208,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(149443, { -- Fierce Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 88209,
+			[1] = 88209,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(149446, { -- Dominating Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 88212,
+			[1] = 88212,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(149447, { -- Dominant Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 88213,
+			[1] = 88213,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(149450, { -- Demonic Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 88216,
+			[1] = 88216,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(149451, { -- Demonic Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 88217,
+			[1] = 88217,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 14,
+	}),
+	i(152399, { -- Army of the Light Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 90494,
+			[1] = 90494,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(152669, { -- Argussian Reach Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 37,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 90559,
+			[1] = 90559,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(156666, { -- Master Trainer's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 93068,
+			[1] = 93068,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(157756, { -- Lightforged Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 93937,
+			[1] = 93937,
+		},
+		["q"] = 3,
+		["races"] = {
+			30
+		},
+		["subclass"] = 0,
+	}),
+	i(157757, { -- Highmountain Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 93938,
+			[1] = 93938,
+		},
+		["q"] = 3,
+		["races"] = {
+			28
+		},
+		["subclass"] = 0,
+	}),
+	i(157758, { -- Ren'dorei Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 93939,
+			[1] = 93939,
+		},
+		["q"] = 3,
+		["races"] = {
+			29
+		},
+		["subclass"] = 0,
+	}),
+	i(157759, { -- Shal'dorei Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 93940,
+			[1] = 93940,
+		},
+		["q"] = 3,
+		["races"] = {
+			27
+		},
+		["subclass"] = 0,
+	}),
+	i(160539, { -- Tabard of the 7th Legion
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96510,
+			[1] = 96510,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160540, { -- Proudmoore Admiralty Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 5000000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96511,
+			[1] = 96511,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160541, { -- Order of Embers Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96512,
+			[1] = 96512,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160542, { -- Storm's Wake Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 5000000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96513,
+			[1] = 96513,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160543, { -- Tabard of the Tortollan Seekers
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96514,
+			[1] = 96514,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160544, { -- Champions of Azeroth Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96515,
+			[1] = 96515,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160545, { -- Tabard of the Honorbound
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96516,
+			[1] = 96516,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160546, { -- Tabard of the Zandalari Empire
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96517,
+			[1] = 96517,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160547, { -- Talanji's Expedition Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96518,
+			[1] = 96518,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(160548, { -- Tabard of the Voldunai
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 96519,
+			[1] = 96519,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(161328, { -- Tabard of the Mag'har Clans
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 97208,
+			[1] = 97208,
+		},
+		["q"] = 3,
+		["races"] = {
+			36
+		},
+		["subclass"] = 0,
+	}),
+	i(161329, { -- Tabard of the Dark Iron
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 97209,
+			[1] = 97209,
+		},
+		["q"] = 3,
+		["races"] = {
+			34
+		},
+		["subclass"] = 0,
+	}),
+	i(163055, { -- Dueler's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 98839,
+			[1] = 98839,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(164572, { -- Dread Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 100599,
+			[1] = 100599,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(164573, { -- Dread Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 100600,
+			[1] = 100600,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(164909, { -- Sinister Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 101167,
+			[1] = 101167,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(164910, { -- Sinister Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 101168,
+			[1] = 101168,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(165001, { -- Tabard of the Zandalari
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 101197,
+			[1] = 101197,
+		},
+		["q"] = 3,
+		["races"] = {
+			31
+		},
+		["subclass"] = 0,
+	}),
+	i(165010, { -- Tabard of Kul Tiras
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 101206,
+			[1] = 101206,
+		},
+		["q"] = 3,
+		["races"] = {
+			32
+		},
+		["subclass"] = 0,
+	}),
+	i(167362, { -- Notorious Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 103604,
+			[1] = 103604,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(167363, { -- Notorious Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 103605,
+			[1] = 103605,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(167811, { -- Brawler's Guild Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 104135,
+			[1] = 104135,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(167812, { -- Brawler's Guild Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 104136,
+			[1] = 104136,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(168100, { -- Alliance Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 19,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(168610, { -- Tabard of the Waveblade Ankoan
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 104598,
+			[1] = 104598,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+	}),
+	i(168619, { -- Rustbolt Resistance Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 104599,
+			[1] = 104599,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(168915, { -- Tabard of Brew
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = {
+	{
+		"i",
+		37829,
+		200
+	}
+},
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 104799,
+			[1] = 104799,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+		["u"] = 24,
+	}),
+	i(169274, { -- Tabard of the Unshackled
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 6250000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 105084,
+			[1] = 105084,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+	}),
+	i(171361, { -- Renowned Explorer's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 105959,
+			[1] = 105959,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 35,
+	}),
+	i(172651, { -- Corrupted Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 106996,
+			[1] = 106996,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(172652, { -- Corrupted Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 106997,
+			[1] = 106997,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(174068, { -- Mechagonian Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 108028,
+			[1] = 108028,
+		},
+		["q"] = 3,
+		["races"] = {
+			37
+		},
+		["subclass"] = 0,
+	}),
+	i(174069, { -- Tabard of the Vulpera
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 108029,
+			[1] = 108029,
+		},
+		["q"] = 3,
+		["races"] = {
+			35
+		},
+		["subclass"] = 0,
+	}),
+	i(174647, { -- Rajani Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 2400000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 110,
+		["modIDs"] = {
+			[0] = 108660,
+			[1] = 108660,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(174648, { -- Uldum Accord Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 2280000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 110,
+		["modIDs"] = {
+			[0] = 108661,
+			[1] = 108661,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(178120, { -- Horde Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 19,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(178336, { -- Tabard of the Wild Hunt
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 2500000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 40,
+		["inventoryType"] = 19,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 111250,
+			[1] = 111250,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(178991, { -- Tabard of the Ascended
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 111637,
+			[1] = 111637,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(179282, { -- Court of Harvesters Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 2500000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["ilvl"] = 30,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 111640,
+			[1] = 111640,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(180431, { -- Sinful Gladiator's Tabard
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 112994,
+			[1] = 112994,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(180432, { -- 9.0 PvP - PvP Reward - Tabard - 2
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 112995,
+			[1] = 112995,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(180433, { -- 9.0 PvP - PvP Reward - Tabard - 3
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 112996,
+			[1] = 112996,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(180434, { -- 9.0 PvP - PvP Reward - Tabard - 4
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 112997,
+			[1] = 112997,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(180435, { -- 9.0 PvP - PvP Reward - Tabard - 5
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 112998,
+			[1] = 112998,
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(180456, { -- Colors of the Undying Army
+		["b"] = 1,
+		["class"] = 4,
+		["cost"] = 2500000,
+		["equippable"] = 1,
+		["f"] = 9,
+		["inventoryType"] = 19,
+		["modIDs"] = {
+			[0] = 113000,
+			[1] = 113000,
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	})
+}
+
+i(5976);		--[[Guild Tabard]]
+i(15196);		--[[Private's Tabard]]
+i(15197);		--[[Scout's Tabard]]
+i(15198);		--[[Knight's Colors]]
+i(15199);		--[[Stone Guard's Herald]]
+i(19031);		--[[Frostwolf Battle Tabard]]
+i(19032);		--[[Stormpike Battle Tabard]]
+i(19160);		--[[Contest Winner's Tabard]]
+i(19505);		--[[Warsong Battle Tabard]]
+i(19506);		--[[Silverwing Battle Tabard]]
+i(20131);		--[[Battle Tabard of the Defilers]]
+i(20132);		--[[Arathor Battle Tabard]]
+i(22999);		--[[Tabard of the Argent Dawn]]
+i(23192);		--[[Tabard of the Scarlet Crusade]]
+i(23388);		--[[Tranquillien Tabard]]
+i(23705);		--[[Tabard of Flame]]
+i(23709);		--[[Tabard of Frost]]
+i(23999);		--[[Honor Hold Tabard]]
+i(24004);		--[[Thrallmar Tabard]]
+i(24344);		--[[Tabard of the Hand]]
+i(25549);		--[[Blood Knight Tabard]]
+i(28788);		--[[Tabard of the Protector]]
+i(31279);		--[[Enchanted Illidari Tabard]]
+i(31404);		--[[Green Trophy Tabard of the Illidari]]
+i(31405);		--[[Purple Trophy Tabard of the Illidari]]
+i(31773);		--[[Mag'har Tabard]]
+i(31774);		--[[Kurenai Tabard]]
+i(31775);		--[[Sporeggar Tabard]]
+i(31776);		--[[Consortium Tabard]]
+i(31777);		--[[Keepers of Time Tabard]]
+i(31778);		--[[Lower City Tabard]]
+i(31779);		--[[Aldor Tabard]]
+i(31780);		--[[Scryers Tabard]]
+i(31781);		--[[Sha'tar Tabard]]
+i(31804);		--[[Cenarion Expedition Tabard]]
+i(32445);		--[[Skyguard Tabard]]
+i(32828);		--[[Ogri'la Tabard]]
+i(35221);		--[[Tabard of the Shattered Sun]]
+i(35279);		--[[Tabard of Summer Skies]]
+i(35280);		--[[Tabard of Summer Flames]]
+i(36941);		--[[Competitor's Tabard]]
+i(38309);		--[[Tabard of Nature]]
+i(38310);		--[[Tabard of the Arcane]]
+i(38311);		--[[Tabard of the Void]]
+i(38312);		--[[Tabard of Brilliance]]
+i(38313);		--[[Tabard of Fury]]
+i(38314);		--[[Tabard of the Defender]]
+i(40643);		--[[Tabard of the Achiever]]
+i(43154);		--[[Tabard of the Argent Crusade]]
+i(43155);		--[[Tabard of the Ebon Blade]]
+i(43156);		--[[Tabard of the Wyrmrest Accord]]
+i(43157);		--[[Tabard of the Kirin Tor]]
+i(43300);		--[[Loremaster's Colors]]
+i(43348);		--[[Tabard of the Explorer]]
+i(43349);		--[[Tabard of Brute Force]]
+i(45574);		--[[Stormwind Tabard]]
+i(45577);		--[[Ironforge Tabard]]
+i(45578);		--[[Gnomeregan Tabard]]
+i(45579);		--[[Darnassus Tabard]]
+i(45580);		--[[Exodar Tabard]]
+i(45581);		--[[Orgrimmar Tabard]]
+i(45582);		--[[Darkspear Tabard]]
+i(45583);		--[[Undercity Tabard]]
+i(45584);		--[[Thunder Bluff Tabard]]
+i(45585);		--[[Silvermoon City Tabard]]
+i(45983);		--[[Furious Gladiator's Tabard]]
+i(46817);		--[[Silver Covenant Tabard]]
+i(46818);		--[[Sunreaver Tabard]]
+i(46874);		--[[Argent Crusader's Tabard]]
+i(49052);		--[[Tabard of Conquest]]
+i(49054);		--[[Tabard of Conquest]]
+i(49086);		--[[Relentless Gladiator's Tabard]]
+i(51534);		--[[Wrathful Gladiator's Tabard]]
+i(52252);		--[[Tabard of the Lightbringer]]
+i(56246);		--[[Krom'gar Tabard]]
+i(63378);		--[[Hellscream's Reach Tabard]]
+i(63379);		--[[Baradin's Wardens Tabard]]
+i(64310);		--[[No Tabard]]
+i(64882);		--[[Gilneas Tabard]]
+i(64884);		--[[Bilgewater Cartel Tabard]]
+i(65904);		--[[Tabard of Ramkahen]]
+i(65905);		--[[Tabard of the Earthen Ring]]
+i(65906);		--[[Tabard of the Guardians of Hyjal]]
+i(65907);		--[[Tabard of Therazane]]
+i(65908);		--[[Tabard of the Wildhammer Clan]]
+i(65909);		--[[Tabard of the Dragonmaw Clan]]
+i(69209);		--[[Illustrious Guild Tabard]]
+i(69210);		--[[Renowned Guild Tabard]]
+i(83079);		--[[Tushui Tabard]]
+i(83080);		--[[Huojin Tabard]]
+i(86468);		--[[Apron]]
+i(89196);		--[[Theramore Tabard]]
+i(89401);		--[[Anglers Tabard]]
+i(89784);		--[[Tillers Tabard]]
+i(89795);		--[[Lorewalkers Tabard]]
+i(89796);		--[[Order of the Cloud Serpent Tabard]]
+i(89797);		--[[Golden Lotus Tabard]]
+i(89798);		--[[Klaxxi Tabard]]
+i(89799);		--[[August Celestials Tabard]]
+i(89800);		--[[Shado-Pan Tabard]]
+i(95591);		--[[Kirin Tor Offensive Tabard]]
+i(95592);		--[[Sunreaver Onslaught Tabard]]
+i(97131);		--[[Shado-Pan Assault Tabard]]
+i(98162);		--[[Tyrannical Gladiator's Tabard]]
+i(101697);		--[[Grievous Gladiator's Tabard]]
+i(103636);		--[[Prideful Gladiator's Tabard]]
+i(107897);		--[[Slave Tabard]]
+i(115517);		--[[Wrynn's Vanguard Tabard]]
+i(115518);		--[[Vol'jin's Spear Tabard]]
+i(115972);		--[[Primal Gladiator's Tabard]]
+i(118365);		--[[Stormwind Tabard]]
+i(118372);		--[[Orgrimmar Tabard]]
+i(119133);		--[[Frostwolf Tabard]]
+i(119135);		--[[Council of Exarchs Tabard]]
+i(119136);		--[[Arakkoa Outcasts Tabard]]
+i(119137);		--[[Steamwheedle "Preservation" Society Tabard]]
+i(119138);		--[[Laughing Skull Orcs Tabard]]
+i(119140);		--[[Sha'tari Defense Tabard]]
+i(127365);		--[[Wild Gladiator's Tabard]]
+i(127366);		--[[Wild Gladiator's Tabard]]
+i(127369);		--[[Warmongering Gladiator's Tabard]]
+i(127371);		--[[Warmongering Gladiator's Tabard]]
+i(128449);		--[[Saberstalkers Tabard]]
+i(128450);		--[[Order of the Awakened Tabard]]
+i(133670);		--[[Slayer's Tabard]]
+i(138429);		--[[Cropped Tabard of the Scarlet Crusade]]
+i(140575);		--[[Nightfallen Tabard]]
+i(140576);		--[[Tabard of the Highmountain Tribe]]
+i(140577);		--[[Court of Farondis Tabard]]
+i(140578);		--[[Dreamweaver Initiate's Tabard]]
+i(140579);		--[[Valarjar Tabard]]
+i(140580);		--[[Warden's Tabard]]
+i(140667);		--[[Tabard of the Dreamweavers]]
+i(142504);		--[[Hidden Tabard]]
+i(147204);		--[[Black Apron - TEST]]
+i(147205);		--[[Legionfall Tabard]]
+i(147336);		--[[Cruel Gladiator's Tabard]]
+i(147337);		--[[Cruel Gladiator's Tabard]]
+i(147338);		--[[Ferocious Gladiator's Tabard]]
+i(147339);		--[[Ferocious Gladiator's Tabard]]
+i(149442);		--[[Fierce Gladiator's Tabard]]
+i(149443);		--[[Fierce Gladiator's Tabard]]
+i(149446);		--[[Dominating Gladiator's Tabard]]
+i(149447);		--[[Dominant Gladiator's Tabard]]
+i(149450);		--[[Demonic Gladiator's Tabard]]
+i(149451);		--[[Demonic Gladiator's Tabard]]
+i(152399);		--[[Army of the Light Tabard]]
+i(152669);		--[[Argussian Reach Tabard]]
+i(156666);		--[[Master Trainer's Tabard]]
+i(157756);		--[[Lightforged Tabard]]
+i(157757);		--[[Highmountain Tabard]]
+i(157758);		--[[Ren'dorei Tabard]]
+i(157759);		--[[Shal'dorei Tabard]]
+i(160539);		--[[Tabard of the 7th Legion]]
+i(160540);		--[[Proudmoore Admiralty Tabard]]
+i(160541);		--[[Order of Embers Tabard]]
+i(160542);		--[[Storm's Wake Tabard]]
+i(160543);		--[[Tabard of the Tortollan Seekers]]
+i(160544);		--[[Champions of Azeroth Tabard]]
+i(160545);		--[[Tabard of the Honorbound]]
+i(160546);		--[[Tabard of the Zandalari Empire]]
+i(160547);		--[[Talanji's Expedition Tabard]]
+i(160548);		--[[Tabard of the Voldunai]]
+i(161328);		--[[Tabard of the Mag'har Clans]]
+i(161329);		--[[Tabard of the Dark Iron]]
+i(163055);		--[[Dueler's Tabard]]
+i(164572);		--[[Dread Gladiator's Tabard]]
+i(164573);		--[[Dread Gladiator's Tabard]]
+i(164909);		--[[Sinister Gladiator's Tabard]]
+i(164910);		--[[Sinister Gladiator's Tabard]]
+i(165001);		--[[Tabard of the Zandalari]]
+i(165010);		--[[Tabard of Kul Tiras]]
+i(167362);		--[[Notorious Gladiator's Tabard]]
+i(167363);		--[[Notorious Gladiator's Tabard]]
+i(167811);		--[[Brawler's Guild Tabard]]
+i(167812);		--[[Brawler's Guild Tabard]]
+i(168100);		--[[Alliance Tabard]]
+i(168610);		--[[Tabard of the Waveblade Ankoan]]
+i(168619);		--[[Rustbolt Resistance Tabard]]
+i(168915);		--[[Tabard of Brew]]
+i(169274);		--[[Tabard of the Unshackled]]
+i(171361);		--[[Renowned Explorer's Tabard]]
+i(172651);		--[[Corrupted Gladiator's Tabard]]
+i(172652);		--[[Corrupted Gladiator's Tabard]]
+i(174068);		--[[Mechagonian Tabard]]
+i(174069);		--[[Tabard of the Vulpera]]
+i(174647);		--[[Rajani Tabard]]
+i(174648);		--[[Uldum Accord Tabard]]
+i(178120);		--[[Horde Tabard]]
+i(178336);		--[[Tabard of the Wild Hunt]]
+i(178991);		--[[Tabard of the Ascended]]
+i(179282);		--[[Court of Harvesters Tabard]]
+i(180431);		--[[Sinful Gladiator's Tabard]]
+i(180432);		--[[9.0 PvP - PvP Reward - Tabard - 2]]
+i(180433);		--[[9.0 PvP - PvP Reward - Tabard - 3]]
+i(180434);		--[[9.0 PvP - PvP Reward - Tabard - 4]]
+i(180435);		--[[9.0 PvP - PvP Reward - Tabard - 5]]
+i(180456);		--[[Colors of the Undying Army]]

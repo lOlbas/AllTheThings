@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Parser V2/1.0.0": {
+        "dependencies": {
+          "ATT": "1.0.0",
+          "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": "0.2.212405",
+          "NLua": "1.5.7"
+        },
+        "runtime": {
+          "Parser V2.dll": {}
+        }
+      },
+      "KeraLua/1.2.12": {
+        "runtime": {
+          "lib/net5.0/KeraLua.dll": {
+            "assemblyVersion": "1.2.12.0",
+            "fileVersion": "1.2.12.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/liblua54.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/liblua54.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/lua54.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "5.4.0.0"
+          },
+          "runtimes/win-x86/native/lua54.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "5.4.0.0"
+          }
+        }
+      },
+      "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers/0.2.212405": {},
+      "NLua/1.5.7": {
+        "dependencies": {
+          "KeraLua": "1.2.12"
+        },
+        "runtime": {
+          "lib/net5.0/NLua.dll": {
+            "assemblyVersion": "1.5.7.0",
+            "fileVersion": "1.5.7.0"
+          }
+        }
+      },
+      "ATT/1.0.0": {
+        "dependencies": {
+          "NLua": "1.5.7"
+        },
+        "runtime": {
+          "ATT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parser V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KeraLua/1.2.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+6EgHkYPTsSvAxEMWKmJIedTOiWEUo17xDlKPcAuEJnAgGnjyH7V0zM6pkhNiefBAH/6tcRLBT09XpOgSfVP0A==",
+      "path": "keralua/1.2.12",
+      "hashPath": "keralua.1.2.12.nupkg.sha512"
+    },
+    "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers/0.2.212405": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wYpxAI5mhvtcpWUc7EJuiBjcPllh5zU/tlFq/Gz/NAGaEYBgl+sJ2khxzkFZYEnWpxdS3Hb92iXzzlAA0QHncw==",
+      "path": "microsoft.dotnet.upgradeassistant.extensions.default.analyzers/0.2.212405",
+      "hashPath": "microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.2.212405.nupkg.sha512"
+    },
+    "NLua/1.5.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IVmoC5qi5eJjQRl0TMKoq43A5n4oMWWJO3G4oHAOVygERd/bKYiU4988gxIkOlGcWMngs1M3SI+how+R5xZ93Q==",
+      "path": "nlua/1.5.7",
+      "hashPath": "nlua.1.5.7.nupkg.sha512"
+    },
+    "ATT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

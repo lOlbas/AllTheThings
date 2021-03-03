@@ -1,0 +1,1907 @@
+{
+	i(41100, { -- Glyph of the Luminous Charger
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 2,
+	}),
+	i(42459, { -- Glyph of Felguard
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(42751, { -- Glyph of Crittermorph
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(43334, { -- Glyph of the Ursol Chameleon
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(43350, { -- Glyph of Lesser Proportion
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(43366, { -- Glyph of Winged Vengeance
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 2,
+	}),
+	i(43369, { -- Glyph of Fire From the Heavens
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 2,
+	}),
+	i(43373, { -- Glyph of Shackle Undead
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(43386, { -- Glyph of the Spectral Wolf
+		["c"] = {
+			7
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 7,
+	}),
+	i(43394, { -- Glyph of Soulwell
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(43398, { -- Glyph of Gushing Wound
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(43400, { -- Glyph of Mighty Victory
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(43535, { -- Glyph of the Geist
+		["c"] = {
+			6
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 6,
+	}),
+	i(43551, { -- Glyph of Foul Menagerie
+		["c"] = {
+			6
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 6,
+	}),
+	i(44922, { -- Glyph of Stars
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(45768, { -- Glyph of Disguise
+		["c"] = {
+			4
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 4,
+	}),
+	i(45789, { -- Glyph of Crimson Banish
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(49084, { -- Glyph of Thunder Strike
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(77101, { -- Glyph of Shadow
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(79538, { -- Glyph of the Heavens
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(80587, { -- Glyph of Hawk Feast
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(80588, { -- Glyph of Burning Anger
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(85221, { -- Glyph of the Blazing Trail
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(87277, { -- Glyph of the Val'kyr
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(87392, { -- Glyph of Shadowy Friends
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(87881, { -- Glyph of Crackling Tiger Lightning
+		["c"] = {
+			10
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 10,
+	}),
+	i(87883, { -- Glyph of Honor
+		["c"] = {
+			10
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 10,
+	}),
+	i(87885, { -- Glyph of Rising Tiger Kick
+		["c"] = {
+			10
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 10,
+	}),
+	i(87888, { -- Glyph of Fighting Pose
+		["c"] = {
+			10
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 10,
+	}),
+	i(104099, { -- Glyph of the Skeleton
+		["c"] = {
+			6
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 6,
+	}),
+	i(104104, { -- Glyph of the Unbound Elemental
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(104105, { -- Glyph of Evaporation
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(104108, { -- Glyph of Pillar of Light
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 2,
+	}),
+	i(104120, { -- Glyph of the Sha
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(104122, { -- Glyph of Inspired Hymns
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(104126, { -- Glyph of Spirit Raptors
+		["c"] = {
+			7
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 7,
+	}),
+	i(104127, { -- Glyph of Lingering Ancestors
+		["c"] = {
+			7
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 7,
+	}),
+	i(104138, { -- Glyph of the Weaponmaster
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(118061, { -- Glyph of the Sun
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(129017, { -- Glyph of Ghostly Fade
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(129018, { -- Glyph of Fel Imp
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(129019, { -- Glyph of Sparkles
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(129020, { -- Glyph of Flash Bang
+		["c"] = {
+			4
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 4,
+	}),
+	i(129022, { -- Glyph of Crackling Ox Lightning
+		["c"] = {
+			10
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 10,
+	}),
+	i(129028, { -- Glyph of Fel Touched Souls
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(129029, { -- Glyph of Crackling Flames
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(133796, { -- Glyph of Fearsome Metamorphosis
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 39,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			39
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(136825, { -- Glyph of the Feral Chameleon
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(136826, { -- Glyph of Autumnal Bloom
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(137188, { -- Glyph of the Blazing Savior
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(137191, { -- Glyph of the Inquisitor's Eye
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(137238, { -- Glyph of the Trident
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(137239, { -- Glyph of the Hook
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(137249, { -- Glyph of Arachnophobia
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(137250, { -- Glyph of Nesingwary's Nemeses
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(137267, { -- Glyph of the Goblin Anti-Grav Flare
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(137269, { -- Glyph of Stellar Flare
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(137274, { -- Glyph of Cracked Ice
+		["c"] = {
+			6
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 6,
+	}),
+	i(137287, { -- Glyph of the Spectral Raptor
+		["c"] = {
+			7
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 7,
+	}),
+	i(137288, { -- Glyph of Pebbles
+		["c"] = {
+			7
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 7,
+	}),
+	i(137289, { -- Glyph of Flickering
+		["c"] = {
+			7
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 7,
+	}),
+	i(137293, { -- Glyph of the Queen
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 2,
+	}),
+	i(139270, { -- Glyph of the Crimson Shell
+		["c"] = {
+			6
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 6,
+	}),
+	i(139271, { -- Glyph of the Chilled Shell
+		["c"] = {
+			6
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 6,
+	}),
+	i(139278, { -- Glyph of the Forest Path
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(139288, { -- Glyph of the Dire Stable
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(139289, { -- Glyph of Critterhex
+		["c"] = {
+			7
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 7,
+	}),
+	i(139310, { -- Glyph of the Shivarra
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(139311, { -- Glyph of the Voidlord
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(139312, { -- Glyph of the Observer
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(139313, { -- Glyph of the Terrorguard
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(139315, { -- Glyph of Wrathguard
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(139338, { -- Glyph of Crackling Crane Lightning
+		["c"] = {
+			10
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 10,
+	}),
+	i(139339, { -- Glyph of Yu'lon's Grace
+		["c"] = {
+			10
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 10,
+	}),
+	i(139348, { -- Glyph of Smolder
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(139352, { -- Glyph of Polymorphic Proportions
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(139358, { -- Glyph of Blackout
+		["c"] = {
+			4
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 4,
+	}),
+	i(139362, { -- Glyph of Mana Touched Souls
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(139417, { -- Glyph of Fallow Wings
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(139435, { -- Glyph of Fel Wings
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(139436, { -- Glyph of Tattered Wings
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(139437, { -- Glyph of Fel-Enemies
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(139438, { -- Glyph of Shadow-Enemies
+		["c"] = {
+			12
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 12,
+	}),
+	i(139442, { -- Glyph of Burnout
+		["c"] = {
+			4
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 4,
+	}),
+	i(141898, { -- Glyph of Falling Thunder
+		["c"] = {
+			1
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 1,
+	}),
+	i(143588, { -- Glyph of the Trusted Steed
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 2,
+	}),
+	i(143750, { -- Glyph of Twilight Bloom
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	sp(240268, { -- Orb of the Fel Temptress
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 147117,
+		["lvl"] = 45,
+		["q"] = 3,
+		["subclass"] = 9,
+	}),
+	i(147119, { -- Glyph of the Shadow Succubus
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(149755, { -- Glyph of Angels
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(151538, { -- Glyph of Ember Shards
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(151540, { -- Glyph of Floating Shards
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(151542, { -- Glyph of Fel-Touched Shards
+		["c"] = {
+			9
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 9,
+	}),
+	i(153031, { -- Glyph of the Lightspawn
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(153033, { -- Glyph of the Voidling
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	i(153036, { -- Glyph of Dark Absolution
+		["c"] = {
+			5
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 5,
+	}),
+	sp(254466, { -- Valorous Charger's Bridle
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["cost"] = {
+	{
+		"c",
+		1220,
+		500
+	}
+},
+		["equippable"] = false,
+		["f"] = 111,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 153174,
+		["lvl"] = 45,
+		["q"] = 3,
+		["subclass"] = 2,
+	}),
+	sp(254468, { -- Vengeful Charger's Bridle
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["cost"] = {
+	{
+		"c",
+		1220,
+		500
+	}
+},
+		["equippable"] = false,
+		["f"] = 111,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 153175,
+		["lvl"] = 45,
+		["q"] = 3,
+		["subclass"] = 2,
+	}),
+	sp(254470, { -- Vigilant Charger's Bridle
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["cost"] = {
+	{
+		"c",
+		1220,
+		500
+	}
+},
+		["equippable"] = false,
+		["f"] = 111,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 153176,
+		["lvl"] = 45,
+		["q"] = 3,
+		["subclass"] = 2,
+	}),
+	sp(254476, { -- Golden Charger's Bridle
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 16,
+		["cost"] = {
+	{
+		"c",
+		1220,
+		500
+	}
+},
+		["equippable"] = false,
+		["f"] = 111,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 153177,
+		["lvl"] = 45,
+		["q"] = 3,
+		["subclass"] = 2,
+	}),
+	i(166583, { -- Glyph of the Tides
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(166664, { -- Glyph of Storm's Wake
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(167539, { -- Glyph of Dalaran Brilliance
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(170164, { -- Glyph of the Dark Depths
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(170165, { -- Glyph of Steaming Fury
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(170168, { -- Glyph of the Cold Waves
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(170173, { -- Glyph of Dire Bees
+		["c"] = {
+			3
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 3,
+	}),
+	i(172449, { -- Glyph of Lavish Servings
+		["c"] = {
+			8
+		},
+		["class"] = 16,
+		["equippable"] = false,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 8,
+	}),
+	i(184096, { -- Glyph of the Swift Chameleon
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(184097, { -- Glyph of the Aquatic Chameleon
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(184100, { -- Glyph of the Aerial Chameleon
+		["c"] = {
+			11
+		},
+		["class"] = 16,
+		["f"] = 111,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 11,
+	})
+}
+
+i(41100);		--[[Glyph of the Luminous Charger]]
+i(42459);		--[[Glyph of Felguard]]
+i(42751);		--[[Glyph of Crittermorph]]
+i(43334);		--[[Glyph of the Ursol Chameleon]]
+i(43350);		--[[Glyph of Lesser Proportion]]
+i(43366);		--[[Glyph of Winged Vengeance]]
+i(43369);		--[[Glyph of Fire From the Heavens]]
+i(43373);		--[[Glyph of Shackle Undead]]
+i(43386);		--[[Glyph of the Spectral Wolf]]
+i(43394);		--[[Glyph of Soulwell]]
+i(43398);		--[[Glyph of Gushing Wound]]
+i(43400);		--[[Glyph of Mighty Victory]]
+i(43535);		--[[Glyph of the Geist]]
+i(43551);		--[[Glyph of Foul Menagerie]]
+i(44922);		--[[Glyph of Stars]]
+i(45768);		--[[Glyph of Disguise]]
+i(45789);		--[[Glyph of Crimson Banish]]
+i(49084);		--[[Glyph of Thunder Strike]]
+i(77101);		--[[Glyph of Shadow]]
+i(79538);		--[[Glyph of the Heavens]]
+i(80587);		--[[Glyph of Hawk Feast]]
+i(80588);		--[[Glyph of Burning Anger]]
+i(85221);		--[[Glyph of the Blazing Trail]]
+i(87277);		--[[Glyph of the Val'kyr]]
+i(87392);		--[[Glyph of Shadowy Friends]]
+i(87881);		--[[Glyph of Crackling Tiger Lightning]]
+i(87883);		--[[Glyph of Honor]]
+i(87885);		--[[Glyph of Rising Tiger Kick]]
+i(87888);		--[[Glyph of Fighting Pose]]
+i(104099);		--[[Glyph of the Skeleton]]
+i(104104);		--[[Glyph of the Unbound Elemental]]
+i(104105);		--[[Glyph of Evaporation]]
+i(104108);		--[[Glyph of Pillar of Light]]
+i(104120);		--[[Glyph of the Sha]]
+i(104122);		--[[Glyph of Inspired Hymns]]
+i(104126);		--[[Glyph of Spirit Raptors]]
+i(104127);		--[[Glyph of Lingering Ancestors]]
+i(104138);		--[[Glyph of the Weaponmaster]]
+i(118061);		--[[Glyph of the Sun]]
+i(129017);		--[[Glyph of Ghostly Fade]]
+i(129018);		--[[Glyph of Fel Imp]]
+i(129019);		--[[Glyph of Sparkles]]
+i(129020);		--[[Glyph of Flash Bang]]
+i(129022);		--[[Glyph of Crackling Ox Lightning]]
+i(129028);		--[[Glyph of Fel Touched Souls]]
+i(129029);		--[[Glyph of Crackling Flames]]
+i(133796);		--[[Glyph of Fearsome Metamorphosis]]
+i(136825);		--[[Glyph of the Feral Chameleon]]
+i(136826);		--[[Glyph of Autumnal Bloom]]
+i(137188);		--[[Glyph of the Blazing Savior]]
+i(137191);		--[[Glyph of the Inquisitor's Eye]]
+i(137238);		--[[Glyph of the Trident]]
+i(137239);		--[[Glyph of the Hook]]
+i(137249);		--[[Glyph of Arachnophobia]]
+i(137250);		--[[Glyph of Nesingwary's Nemeses]]
+i(137267);		--[[Glyph of the Goblin Anti-Grav Flare]]
+i(137269);		--[[Glyph of Stellar Flare]]
+i(137274);		--[[Glyph of Cracked Ice]]
+i(137287);		--[[Glyph of the Spectral Raptor]]
+i(137288);		--[[Glyph of Pebbles]]
+i(137289);		--[[Glyph of Flickering]]
+i(137293);		--[[Glyph of the Queen]]
+i(139270);		--[[Glyph of the Crimson Shell]]
+i(139271);		--[[Glyph of the Chilled Shell]]
+i(139278);		--[[Glyph of the Forest Path]]
+i(139288);		--[[Glyph of the Dire Stable]]
+i(139289);		--[[Glyph of Critterhex]]
+i(139310);		--[[Glyph of the Shivarra]]
+i(139311);		--[[Glyph of the Voidlord]]
+i(139312);		--[[Glyph of the Observer]]
+i(139313);		--[[Glyph of the Terrorguard]]
+i(139315);		--[[Glyph of Wrathguard]]
+i(139338);		--[[Glyph of Crackling Crane Lightning]]
+i(139339);		--[[Glyph of Yu'lon's Grace]]
+i(139348);		--[[Glyph of Smolder]]
+i(139352);		--[[Glyph of Polymorphic Proportions]]
+i(139358);		--[[Glyph of Blackout]]
+i(139362);		--[[Glyph of Mana Touched Souls]]
+i(139417);		--[[Glyph of Fallow Wings]]
+i(139435);		--[[Glyph of Fel Wings]]
+i(139436);		--[[Glyph of Tattered Wings]]
+i(139437);		--[[Glyph of Fel-Enemies]]
+i(139438);		--[[Glyph of Shadow-Enemies]]
+i(139442);		--[[Glyph of Burnout]]
+i(141898);		--[[Glyph of Falling Thunder]]
+i(143588);		--[[Glyph of the Trusted Steed]]
+i(143750);		--[[Glyph of Twilight Bloom]]
+i(147117);		--[[Orb of the Fel Temptress]]
+i(147119);		--[[Glyph of the Shadow Succubus]]
+i(149755);		--[[Glyph of Angels]]
+i(151538);		--[[Glyph of Ember Shards]]
+i(151540);		--[[Glyph of Floating Shards]]
+i(151542);		--[[Glyph of Fel-Touched Shards]]
+i(153031);		--[[Glyph of the Lightspawn]]
+i(153033);		--[[Glyph of the Voidling]]
+i(153036);		--[[Glyph of Dark Absolution]]
+i(153174);		--[[Valorous Charger's Bridle]]
+i(153175);		--[[Vengeful Charger's Bridle]]
+i(153176);		--[[Vigilant Charger's Bridle]]
+i(153177);		--[[Golden Charger's Bridle]]
+i(166583);		--[[Glyph of the Tides]]
+i(166664);		--[[Glyph of Storm's Wake]]
+i(167539);		--[[Glyph of Dalaran Brilliance]]
+i(170164);		--[[Glyph of the Dark Depths]]
+i(170165);		--[[Glyph of Steaming Fury]]
+i(170168);		--[[Glyph of the Cold Waves]]
+i(170173);		--[[Glyph of Dire Bees]]
+i(172449);		--[[Glyph of Lavish Servings]]
+i(184096);		--[[Glyph of the Swift Chameleon]]
+i(184097);		--[[Glyph of the Aquatic Chameleon]]
+i(184100);		--[[Glyph of the Aerial Chameleon]]

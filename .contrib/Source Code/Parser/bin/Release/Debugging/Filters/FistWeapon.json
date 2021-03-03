@@ -1,0 +1,10026 @@
+{
+	i(2942, { -- Iron Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 16,
+		["inventoryType"] = 13,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 1010,
+			[1] = 1010,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(7683, { -- Bloody Brass Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 19,
+		["inventoryType"] = 13,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[1] = 2910,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(11603, { -- Vilerend Slicer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 28,
+		["inventoryType"] = 13,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 4194,
+			[1] = 4194,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(11743, { -- Rockfist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 28,
+		["inventoryType"] = 13,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 4231,
+			[1] = 4231,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(11744, { -- Bloodfist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 28,
+		["inventoryType"] = 13,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 4232,
+			[1] = 4232,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(11863, { -- White Bone Shredder
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 27,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 4286,
+			[1] = 4286,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(12795, { -- Blood Talon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 4548,
+			[1] = 4548,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(13198, { -- Hurd Smasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 23,
+		["modIDs"] = {
+			[0] = 4790,
+			[1] = 4790,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(13399, { -- Gargoyle Shredder Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 27,
+		["inventoryType"] = 13,
+		["lvl"] = 21,
+		["modIDs"] = {
+			[0] = 4877,
+			[1] = 4877,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(15903, { -- Slicing Claw
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 16,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			10
+		},
+		["q"] = 1,
+		["subclass"] = 13,
+	}),
+	i(15904, { -- Deadly Fist Blades
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 20,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			13
+		},
+		["q"] = 1,
+		["subclass"] = 13,
+	}),
+	i(15905, { -- Brass Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 8,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			5
+		},
+		["q"] = 1,
+		["subclass"] = 13,
+	}),
+	i(15906, { -- Left-Handed Brass Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 8,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			5
+		},
+		["q"] = 1,
+		["subclass"] = 13,
+	}),
+	i(15907, { -- Left-Handed Claw
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 16,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			10
+		},
+		["q"] = 1,
+		["subclass"] = 13,
+	}),
+	i(15909, { -- Left-Handed Blades
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 20,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			13
+		},
+		["q"] = 1,
+		["subclass"] = 13,
+	}),
+	i(17738, { -- Claw of Celebras
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 21,
+		["inventoryType"] = 13,
+		["lvl"] = 14,
+		["modIDs"] = {
+			[0] = 7191,
+			[1] = 7191,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(18202, { -- Eskhandar's Left Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7240,
+			[1] = 7240,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(18203, { -- Eskhandar's Right Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7241,
+			[1] = 7241,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(18462, { -- Jagged Bone Fist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 25,
+		["inventoryType"] = 13,
+		["lvl"] = 19,
+		["modIDs"] = {
+			[0] = 7355,
+			[1] = 7355,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(18843, { -- Grand Marshal's Right Hand Blade
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7516,
+			[1] = 7516,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(18844, { -- High Warlord's Right Claw
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7517,
+			[1] = 7517,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(18847, { -- Grand Marshal's Razor Hand Blade
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7518,
+			[1] = 7518,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(18848, { -- High Warlord's Razor Claw
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7519,
+			[1] = 7519,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(19365, { -- Claw of the Black Drake
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7675,
+			[1] = 7675,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(19896, { -- Thekal's Grasp
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7849,
+			[1] = 7849,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(19910, { -- Arlokk's Grasp
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 7860,
+			[1] = 7860,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(20954, { -- Heavy Iron Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 19,
+		["inventoryType"] = 13,
+		["lvl"] = 12,
+		["modIDs"] = {
+			[0] = 8270,
+			[1] = 8270,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(21673, { -- Silithid Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 8581,
+			[1] = 8581,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(22317, { -- Lefty's Brass Knuckle
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 28,
+		["inventoryType"] = 13,
+		["lvl"] = 22,
+		["modIDs"] = {
+			[0] = 8785,
+			[1] = 8785,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 11,
+	}),
+	i(22404, { -- Willey's Back Scratcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 25,
+		["inventoryType"] = 13,
+		["lvl"] = 18,
+		["modIDs"] = {
+			[0] = 8813,
+			[1] = 8813,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(23242, { -- Claw of the Frost Wyrm
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 30,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 9136,
+			[1] = 9136,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(25184, { -- Ravager Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10181,
+			[1] = 10181,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25185, { -- Thrasher Blades
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 30,
+		["inventoryType"] = 13,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10182,
+			[1] = 10182,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25186, { -- Vampiric Handscythes
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 30,
+		["inventoryType"] = 13,
+		["lvl"] = 24,
+		["modIDs"] = {
+			[0] = 10183,
+			[1] = 10183,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25187, { -- Shekketh Talons
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 30,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10184,
+			[1] = 10184,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25188, { -- Spleenripper Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 30,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10185,
+			[1] = 10185,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25189, { -- Ironspine Point
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 30,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10186,
+			[1] = 10186,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25190, { -- Wight's Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 10187,
+			[1] = 10187,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25191, { -- Dread Fangs
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10188,
+			[1] = 10188,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25192, { -- Gutrippers
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10189,
+			[1] = 10189,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25193, { -- Deathclaw Talons
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10190,
+			[1] = 10190,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25194, { -- Serpent's Fangs
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 10191,
+			[1] = 10191,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25195, { -- Diamond Tipped Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10192,
+			[1] = 10192,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25196, { -- Boneshredder Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10193,
+			[1] = 10193,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25197, { -- Razor Scythes
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 10194,
+			[1] = 10194,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(25538, { -- Sporeling Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 30,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 10443,
+			[1] = 10443,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(25764, { -- Mag'hari Fury Brand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 10573,
+			[1] = 10573,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(25943, { -- Creepjacker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[1] = 10655,
+			[2] = 10655,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(27533, { -- Demonblood Eviscerator
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 11961,
+			[2] = 11961,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(27747, { -- Boggspine Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12036,
+			[2] = 12036,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(27846, { -- Claw of the Watcher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12104,
+			[2] = 12104,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(28313, { -- Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12389,
+			[1] = 12389,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(28314, { -- Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12390,
+			[1] = 12390,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(28315, { -- Stormreaver Warblades
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12391,
+			[2] = 12391,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(28392, { -- Reflex Blades
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 12440,
+			[2] = 12440,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(28584, { -- Big Bad Wolf's Paw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12564,
+			[1] = 12564,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(28922, { -- High Warlord's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12816,
+			[1] = 12816,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(28928, { -- High Warlord's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12821,
+			[1] = 12821,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(28947, { -- Grand Marshal's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12837,
+			[1] = 12837,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(28953, { -- Grand Marshal's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 12843,
+			[1] = 12843,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(29348, { -- The Bladefist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 13094,
+			[2] = 13094,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(29371, { -- Nexus-Claw
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["isLimited"] = 1,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 13106,
+			[1] = 13106,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(29372, { -- Void-Talon
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["isLimited"] = 1,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 13107,
+			[1] = 13107,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(29948, { -- Claw of the Phoenix
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 13411,
+			[1] = 13411,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(30277, { -- Ripfang Paw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 13676,
+			[1] = 13676,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(30755, { -- Mag'hari Fighting Claw
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["isLimited"] = 1,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 13891,
+			[1] = 13891,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(32003, { -- Merciless Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 14689,
+			[1] = 14689,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(32028, { -- Merciless Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 14714,
+			[1] = 14714,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(32188, { -- Chancellor's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 14860,
+			[1] = 14860,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(32189, { -- Chancellor's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 14861,
+			[1] = 14861,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(32944, { -- Talon of the Phoenix
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15194,
+			[1] = 15194,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(32945, { -- Fist of Molten Fury
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15195,
+			[1] = 15195,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(32946, { -- Claw of Molten Fury
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15196,
+			[1] = 15196,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(33495, { -- Rage
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 15471,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(33640, { -- Fury
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 15533,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(33705, { -- Vengeful Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15578,
+			[1] = 15578,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(33737, { -- Vengeful Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15610,
+			[1] = 15610,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(34016, { -- Vengeful Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15737,
+			[1] = 15737,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(34203, { -- Grip of Mannoroth
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15791,
+			[1] = 15791,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(34331, { -- Hand of the Deceiver
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15883,
+			[1] = 15883,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(34346, { -- Mounting Vengeance
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 15897,
+			[1] = 15897,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(34893, { -- Vanir's Fist of Brutality
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16174,
+			[1] = 16174,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(34950, { -- Vanir's Fist of Savagery
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16223,
+			[1] = 16223,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(34951, { -- Vanir's Fist of Carnage
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16224,
+			[1] = 16224,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(35037, { -- Brutal Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16277,
+			[1] = 16277,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(35038, { -- Brutal Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16278,
+			[1] = 16278,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(35076, { -- Brutal Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 16313,
+			[1] = 16313,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(35573, { -- Arm Blade of Augelmir
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 16512,
+			[2] = 16512,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(35601, { -- Drakonid Arm Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[1] = 16536,
+			[2] = 16536,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(35830, { -- Worn Vrykul Smasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 16635,
+			[1] = 16635,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(35851, { -- Acid-Etched Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 16648,
+			[1] = 16648,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36557, { -- Meat Ripper
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 26,
+		["modIDs"] = {
+			[0] = 17294,
+			[1] = 17294,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36558, { -- Curved Scratcher
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17295,
+			[1] = 17295,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36559, { -- Prized Handscythes
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17296,
+			[1] = 17296,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36560, { -- Fighter's Grip
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17297,
+			[1] = 17297,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36561, { -- Mummified Paw
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17298,
+			[1] = 17298,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36562, { -- Blue-Nailed Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17299,
+			[1] = 17299,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36563, { -- Gloved Talons
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17300,
+			[1] = 17300,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36564, { -- Spider Claw
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17301,
+			[1] = 17301,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36565, { -- Hero's Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["lvl"] = 28,
+		["modIDs"] = {
+			[0] = 17302,
+			[1] = 17302,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36566, { -- Gilded Fangs
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17303,
+			[1] = 17303,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36567, { -- Six-Fingered Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17304,
+			[1] = 17304,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36568, { -- Hollowed Bone Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17305,
+			[1] = 17305,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36569, { -- Savage Talons
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 17306,
+			[1] = 17306,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(36570, { -- Corrupted Scythes
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 17307,
+			[1] = 17307,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(37021, { -- Claw of the Tuskarr
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 17542,
+			[1] = 17542,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(37072, { -- Jagged Icefist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 17585,
+			[1] = 17585,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(37077, { -- Smoldering Talon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 17590,
+			[1] = 17590,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(37631, { -- Fist of the Deity
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 17910,
+			[2] = 17910,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(37693, { -- Greed
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 17955,
+			[2] = 17955,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(37749, { -- Shocking Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 17985,
+			[1] = 17985,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(38153, { -- Mana Infused Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 18273,
+			[1] = 18273,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(38188, { -- Claw of the Undead Ravager
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 18305,
+			[1] = 18305,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(38238, { -- Borean Smasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 18339,
+			[1] = 18339,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(39112, { -- Talon of Freedom
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 18658,
+			[1] = 18658,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(39113, { -- Jagged Troll Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 18659,
+			[1] = 18659,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(39416, { -- Kel'Thuzad's Reach
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 18856,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(39468, { -- The Stray
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 18905,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(39763, { -- Wraith Strike
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 19086,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(39830, { -- Fist of Subtlety
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 19144,
+			[1] = 19144,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(39865, { -- Knuckle of Victory
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 19176,
+			[1] = 19176,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(40239, { -- The Hand of Nerub
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 19271,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(40383, { -- Calamity's Grasp
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 19385,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(40429, { -- Crimson Steel
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 19416,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(40704, { -- Pride
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 19610,
+			[1] = 19610,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42218, { -- Savage Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20403,
+			[1] = 20403,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(42219, { -- Savage Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20404,
+			[1] = 20404,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(42220, { -- Savage Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20405,
+			[1] = 20405,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(42259, { -- Hateful Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20435,
+			[1] = 20435,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42260, { -- Deadly Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20436,
+			[1] = 20436,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42261, { -- Furious Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20437,
+			[1] = 20437,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42262, { -- Relentless Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20438,
+			[1] = 20438,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42264, { -- Hateful Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20439,
+			[1] = 20439,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42265, { -- Deadly Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20440,
+			[1] = 20440,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42266, { -- Furious Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20441,
+			[1] = 20441,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42267, { -- Relentless Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20442,
+			[1] = 20442,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42269, { -- Hateful Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20443,
+			[1] = 20443,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42270, { -- Deadly Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20444,
+			[1] = 20444,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42271, { -- Furious Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20445,
+			[1] = 20445,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42272, { -- Relentless Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 20446,
+			[1] = 20446,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(42862, { -- Hyldnir Painbringer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 20777,
+			[1] = 20777,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(43890, { -- Interrogator's Flaming Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 21202,
+			[1] = 21202,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(44241, { -- Unholy Persuader
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 21408,
+			[1] = 21408,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(44641, { -- Dalaran Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 13,
+	}),
+	i(45132, { -- Golden Saronite Dragon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21662,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(45284, { -- Kinetic Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21763,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(45449, { -- The Masticator
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21910,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(45489, { -- Insanity's Grip
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21938,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(45494, { -- Delirium's Touch
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[3] = 21942,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(45963, { -- Furious Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22146,
+			[1] = 22146,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(45968, { -- Furious Gladiator's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22151,
+			[1] = 22151,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(45969, { -- Furious Gladiator's Grasp
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 22152,
+			[1] = 22152,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(48432, { -- Relentless Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 23542,
+			[1] = 23542,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(48444, { -- Relentless Gladiator's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 23549,
+			[1] = 23549,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(48515, { -- Relentless Gladiator's Grasp
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 23610,
+			[1] = 23610,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(48703, { -- The Facebreaker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 23757,
+			[1] = 23757,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(48712, { -- The Spinebreaker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 23763,
+			[1] = 23763,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(50035, { -- Black Bruise
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24506,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(50184, { -- Keleseth's Seducer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24603,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(50315, { -- Seven-Fingered Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[2] = 24688,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(50692, { -- Black Bruise
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24802,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(50710, { -- Keleseth's Seducer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24817,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51003, { -- Abomination Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 24982,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51443, { -- Wrathful Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25296,
+			[1] = 25296,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51444, { -- Wrathful Gladiator's Razor
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25297,
+			[1] = 25297,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(51523, { -- Wrathful Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25371,
+			[1] = 25371,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51524, { -- Wrathful Gladiator's Grasp
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25372,
+			[1] = 25372,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(51529, { -- Wrathful Gladiator's Talon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25377,
+			[1] = 25377,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(51530, { -- Wrathful Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25378,
+			[1] = 25378,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51784, { -- Splintershard
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25522,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51801, { -- Pugius, Fist of Defiance
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25537,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51819, { -- Splintershard
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25548,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51876, { -- Abomination Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25597,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(51941, { -- Pugius, Fist of Defiance
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 25655,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(52492, { -- Carnelian Spikes
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 36,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 25734,
+			[1] = 25734,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(52493, { -- The Perforator
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 25735,
+			[1] = 25735,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(53557, { -- White Bone Pummeler
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 26,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 26224,
+			[1] = 26224,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55344, { -- Razorwind Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 26965,
+			[1] = 26965,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55345, { -- Steelspark Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 26966,
+			[1] = 26966,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55346, { -- Angerfang Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 29,
+		["modIDs"] = {
+			[0] = 26967,
+			[1] = 26967,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55347, { -- Nethergarde Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 26968,
+			[1] = 26968,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55348, { -- Splinterspear Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 36,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 26969,
+			[1] = 26969,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55349, { -- Mardenholde Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 36,
+		["inventoryType"] = 13,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 26970,
+			[1] = 26970,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55350, { -- Bladefist Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 36,
+		["inventoryType"] = 13,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 26971,
+			[1] = 26971,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55351, { -- Irontree Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 36,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 26972,
+			[1] = 26972,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(55352, { -- Rustmaul Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 36,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			32
+		},
+		["modIDs"] = {
+			[0] = 26973,
+			[1] = 26973,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(55796, { -- Fist of Pained Senses
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 36,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 27392,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(56329, { -- Fist of Pained Senses
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 27664,
+			[2] = 27664,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(56883, { -- Meatface Pummeler
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 25,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 27982,
+			[1] = 27982,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(56887, { -- Knuckle Down
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 25,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 27985,
+			[1] = 27985,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(58978, { -- Filthy Paw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 5,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 29310,
+			[1] = 29310,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(60952, { -- Creature - Black Bruise Offhand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 13,
+		["q"] = 0,
+		["subclass"] = 13,
+	}),
+	i(61330, { -- Vicious Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 30696,
+			[1] = 30696,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(61331, { -- Vicious Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 30697,
+			[1] = 30697,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(61332, { -- Vicious Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 30698,
+			[1] = 30698,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(61333, { -- Vicious Gladiator's Right Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 30699,
+			[1] = 30699,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(63193, { -- Theldurin's Fist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 25,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 31734,
+			[1] = 31734,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(63537, { -- Claws of Torment
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 31866,
+			[1] = 31866,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(63538, { -- Claws of Agony
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 31867,
+			[1] = 31867,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(64774, { -- Bloodthirsty Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 32406,
+			[1] = 32406,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(64775, { -- Bloodthirsty Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 32407,
+			[1] = 32407,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(64825, { -- Bloodthirsty Gladiator's Right Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 32440,
+			[1] = 32440,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(64826, { -- Bloodthirsty Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 32441,
+			[1] = 32441,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(66972, { -- Crystalline Geoknife
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 34126,
+			[1] = 34126,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(67455, { -- Vicious Gladiator's Right Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 34290,
+			[1] = 34290,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(67456, { -- Vicious Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 34291,
+			[1] = 34291,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(67458, { -- Vicious Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 34293,
+			[1] = 34293,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(67459, { -- Vicious Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 34294,
+			[1] = 34294,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(69636, { -- Thekal's Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[2] = 35544,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(69638, { -- Arlokk's Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[2] = 35546,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(70186, { -- Ruthless Gladiator's Right Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35733,
+			[1] = 35733,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(70187, { -- Ruthless Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35734,
+			[1] = 35734,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(70189, { -- Ruthless Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35736,
+			[1] = 35736,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(70190, { -- Ruthless Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35737,
+			[1] = 35737,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(70217, { -- Ruthless Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35764,
+			[1] = 35764,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(70218, { -- Ruthless Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35765,
+			[1] = 35765,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(70219, { -- Ruthless Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35766,
+			[1] = 35766,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(70220, { -- Ruthless Gladiator's Right Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 35767,
+			[1] = 35767,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(72867, { -- Clattering Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37344,
+			[1] = 37344,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(73418, { -- Cataclysmic Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37626,
+			[1] = 37626,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(73419, { -- Cataclysmic Gladiator's Right Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37627,
+			[1] = 37627,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(73420, { -- Cataclysmic Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37628,
+			[1] = 37628,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(73421, { -- Cataclysmic Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37629,
+			[1] = 37629,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(73451, { -- Cataclysmic Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37659,
+			[1] = 37659,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(73452, { -- Cataclysmic Gladiator's Right Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37660,
+			[1] = 37660,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(73453, { -- Cataclysmic Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37661,
+			[1] = 37661,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(73454, { -- Cataclysmic Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 37662,
+			[1] = 37662,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(77279, { -- Trainee's Handwrap
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 13,
+		["q"] = 1,
+		["subclass"] = 13,
+	}),
+	i(77557, { -- Replica Grand Marshal's Hand Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 39138,
+			[1] = 39138,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["races"] = {
+			1,
+			3,
+			4,
+			7,
+			11,
+			22,
+			25,
+			29,
+			30,
+			32,
+			34,
+			37
+		},
+		["subclass"] = 13,
+	}),
+	i(77559, { -- Replica Grand Marshal's Left Hand Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 39140,
+			[1] = 39140,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(77575, { -- Replica High Warlord's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 39156,
+			[1] = 39156,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["subclass"] = 13,
+	}),
+	i(77583, { -- Replica High Warlord's Left Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 39164,
+			[1] = 39164,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(81245, { -- Claws of Gekkan
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 40978,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(81286, { -- Ner'onok's Razor Katar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 41003,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(81320, { -- Right-Handed Invis Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["inventoryType"] = 13,
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(81557, { -- Maw of Despair
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 41183,
+			[1] = 41183,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(81859, { -- 'Nessy's Trophy Pincers
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 41431,
+			[1] = 41431,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(82013, { -- Polished Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 31,
+		["modIDs"] = {
+			[0] = 41535,
+			[1] = 41535,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(82054, { -- Bronzed Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 41576,
+			[1] = 41576,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(82109, { -- Barbarian Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 41629,
+			[1] = 41629,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(82164, { -- Rigid Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[0] = 41682,
+			[1] = 41682,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(82219, { -- Inlaid Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[0] = 41735,
+			[1] = 41735,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(82274, { -- Engraved Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["lvl"] = 34,
+		["modIDs"] = {
+			[0] = 41788,
+			[1] = 41788,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(83761, { -- Mist-Shaman's Barbs
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 42799,
+			[1] = 42799,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(84094, { -- Thorns of the Rikkitun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 42887,
+			[1] = 42887,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(84100, { -- Jaws of the Wakener
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 42893,
+			[1] = 42893,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(84536, { -- Hidden Pass Barbs
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 43105,
+			[1] = 43105,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(84696, { -- Dreadful Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43187,
+			[1] = 43187,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(84697, { -- Dreadful Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43188,
+			[1] = 43188,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(84698, { -- Dreadful Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43189,
+			[1] = 43189,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(84699, { -- Dreadful Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43190,
+			[1] = 43190,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(84893, { -- Malevolent Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43351,
+			[1] = 43351,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(84894, { -- Malevolent Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43352,
+			[1] = 43352,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(84962, { -- Malevolent Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43405,
+			[1] = 43405,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(84963, { -- Malevolent Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43406,
+			[1] = 43406,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(85116, { -- Malevolent Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43559,
+			[1] = 43559,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(85117, { -- Malevolent Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43560,
+			[1] = 43560,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(85128, { -- Malevolent Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43571,
+			[1] = 43571,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(85129, { -- Malevolent Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 43572,
+			[1] = 43572,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(85183, { -- Claws of Gekkan
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 34,
+		["modIDs"] = {
+			[1] = 43610,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(85994, { -- Gara'kal, Fist of the Spiritbinder
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 44186,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(86226, { -- Claws of Shek'zeer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 44358,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(86762, { -- Gara'kal, Fist of the Spiritbinder
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 44657,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(86864, { -- Claws of Shek'zeer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 44736,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(86988, { -- Claws of Shek'zeer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 44841,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(87032, { -- Gara'kal, Fist of the Spiritbinder
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 44883,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(87509, { -- Fist of Fate
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[0] = 45224,
+			[1] = 45224,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(87543, { -- Ka'eng, Breath of the Shadow
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 45243,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(89566, { -- Novice's Handwraps
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 16,
+		["inventoryType"] = 13,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 46436,
+			[1] = 46436,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(89570, { -- Initiate's Handwraps
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 20,
+		["inventoryType"] = 13,
+		["lvl"] = 13,
+		["modIDs"] = {
+			[0] = 46440,
+			[1] = 46440,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(89571, { -- Grappling Handwraps
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 24,
+		["inventoryType"] = 13,
+		["lvl"] = 17,
+		["modIDs"] = {
+			[0] = 46441,
+			[1] = 46441,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(89572, { -- Handwraps of Pilgrimage
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 28,
+		["inventoryType"] = 13,
+		["lvl"] = 21,
+		["modIDs"] = {
+			[0] = 46442,
+			[1] = 46442,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(89573, { -- Handwraps of Meditation
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 30,
+		["inventoryType"] = 13,
+		["lvl"] = 25,
+		["modIDs"] = {
+			[0] = 46443,
+			[1] = 46443,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(89574, { -- Handwraps of Fallen Blossoms
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[0] = 46444,
+			[1] = 46444,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(89575, { -- Handwraps of Serenity
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 46445,
+			[1] = 46445,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(89578, { -- Tiger Lord's Razor Claws
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 46448,
+			[1] = 46448,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(89579, { -- Tiger Lord's Bladed Claws
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 46449,
+			[1] = 46449,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(90087, { -- Lobstmourne
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 34,
+		["modIDs"] = {
+			[0] = 46784,
+			[1] = 46784,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(91392, { -- Tyrannical Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 47681,
+			[1] = 47681,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(91393, { -- Tyrannical Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47682,
+			[1] = 47682,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(91394, { -- Tyrannical Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 47683,
+			[1] = 47683,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(91395, { -- Tyrannical Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 47684,
+			[1] = 47684,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(91396, { -- Tyrannical Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 47685,
+			[1] = 47685,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(91397, { -- Tyrannical Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47686,
+			[1] = 47686,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(91745, { -- Malevolent Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47873,
+			[1] = 47873,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(91747, { -- Malevolent Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 47874,
+			[1] = 47874,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(91749, { -- Malevolent Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 47875,
+			[1] = 47875,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(91751, { -- Malevolent Gladiator's Slasher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 47876,
+			[1] = 47876,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(92948, { -- Brawler's Razor Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 142,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 48432,
+			[1] = 48432,
+		},
+		["q"] = 7,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(93139, { -- Scavenged Pandaren Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 48546,
+			[1] = 48546,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(93143, { -- Scavenged Pandaren Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 48550,
+			[1] = 48550,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(93597, { -- Crafted Dreadful Gladiator's Fleshslicer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 48829,
+			[1] = 48829,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(93599, { -- Crafted Dreadful Gladiator's Slasher
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 48831,
+			[1] = 48831,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(93858, { -- Brawler's Bladed Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 170,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 49008,
+			[1] = 49008,
+		},
+		["q"] = 7,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(94098, { -- Dull Hawktalons
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 38,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 49186,
+			[1] = 49186,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(94314, { -- Tyrannical Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 49294,
+			[1] = 49294,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(94316, { -- Tyrannical Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 49296,
+			[1] = 49296,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(94321, { -- Tyrannical Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 49301,
+			[1] = 49301,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(94760, { -- Amun-Thoth, Sul's Spiritrending Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 49614,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(94973, { -- Wu-Lai, Bladed Fan of the Consorts
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 49783,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(95670, { -- Amun-Thoth, Sul's Spiritrending Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50197,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(95791, { -- Wu-Lai, Bladed Fan of the Consorts
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50297,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(96042, { -- Amun-Thoth, Sul's Spiritrending Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50509,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(96163, { -- Wu-Lai, Bladed Fan of the Consorts
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 50609,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(96414, { -- Amun-Thoth, Sul's Spiritrending Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 50821,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(96535, { -- Wu-Lai, Bladed Fan of the Consorts
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 50921,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(96786, { -- Amun-Thoth, Sul's Spiritrending Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 51133,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(96907, { -- Wu-Lai, Bladed Fan of the Consorts
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 51233,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(97126, { -- Tia-Tia, the Scything Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 51412,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(97127, { -- Tia-Tia, the Scything Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 51413,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(97128, { -- Tia-Tia, the Scything Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 51414,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(97129, { -- Tia-Tia, the Scything Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 51415,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(97130, { -- Tia-Tia, the Scything Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[2] = 51416,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(98277, { -- Immaculate Pandaren Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 51999,
+			[1] = 51999,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(98280, { -- Immaculate Pandaren Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 52002,
+			[1] = 52002,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(98317, { -- Immaculate Pandaren Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 52008,
+			[1] = 52008,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(99933, { -- Tyrannical Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53109,
+			[1] = 53109,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(99934, { -- Tyrannical Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 53110,
+			[1] = 53110,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(99935, { -- Tyrannical Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53111,
+			[1] = 53111,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(99975, { -- Tyrannical Gladiator's Fleshslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			35
+		},
+		["modIDs"] = {
+			[0] = 53143,
+			[1] = 53143,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(99977, { -- Tyrannical Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53145,
+			[1] = 53145,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(99982, { -- Tyrannical Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53150,
+			[1] = 53150,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(100482, { -- Grievous Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53606,
+			[1] = 53606,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(100483, { -- Grievous Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53607,
+			[1] = 53607,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(100486, { -- Grievous Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53610,
+			[1] = 53610,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(100487, { -- Grievous Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53611,
+			[1] = 53611,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(100546, { -- Grievous Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53662,
+			[1] = 53662,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(100551, { -- Grievous Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 53667,
+			[1] = 53667,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(100965, { -- Ner'onok's Razor Katar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 34,
+		["modIDs"] = {
+			[1] = 53851,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(102603, { -- Prideful Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54794,
+			[1] = 54794,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(102608, { -- Prideful Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54799,
+			[1] = 54799,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(102800, { -- Grievous Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54965,
+			[1] = 54965,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(102805, { -- Grievous Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 54970,
+			[1] = 54970,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(103115, { -- Prideful Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55254,
+			[1] = 55254,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(103116, { -- Prideful Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55255,
+			[1] = 55255,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(103305, { -- Grievous Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55429,
+			[1] = 55429,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(103306, { -- Grievous Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55430,
+			[1] = 55430,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(103502, { -- Prideful Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55600,
+			[1] = 55600,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(103503, { -- Prideful Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55601,
+			[1] = 55601,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(103775, { -- Softfoot's Last Resort
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 55765,
+			[1] = 55765,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(104434, { -- Softfoot's Last Resort
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56065,
+			[1] = 56065,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(104683, { -- Softfoot's Last Resort
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56266,
+			[1] = 56266,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(104932, { -- Softfoot's Last Resort
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56467,
+			[1] = 56467,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(105181, { -- Softfoot's Last Resort
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56668,
+			[1] = 56668,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(105430, { -- Softfoot's Last Resort
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 56869,
+			[1] = 56869,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(105924, { -- Hozen Can Opener
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		777,
+		10000
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 57188,
+			[1] = 57188,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(105955, { -- Wrathful Gladiator's Razor
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 57202,
+			[1] = 57202,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(105956, { -- Wrathful Gladiator's Razor
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 21,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[0] = 57203,
+			[1] = 57203,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(107849, { -- No Main Hand Weapon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["inventoryType"] = 13,
+		["q"] = 0,
+		["subclass"] = 13,
+	}),
+	i(108787, { -- 7.0 PH Weapon - 1H Fist Int
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 136,
+		["inventoryType"] = 13,
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(108788, { -- 7.0 PH Weapon - 1H Fist Str
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 136,
+		["inventoryType"] = 13,
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(108789, { -- 7.0 PH Weapon - 1H Fist Agi
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 136,
+		["inventoryType"] = 13,
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(108913, { -- Rangari Initiate Armblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 58953,
+			[1] = 58953,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(109075, { -- Abberant's Paw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 90,
+		["modIDs"] = {
+			[0] = 59032,
+			[1] = 59032,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(109361, { -- 7.0 QA Combat Test Agility Fist Weapon 1
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 152,
+		["inventoryType"] = 13,
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(109534, { -- 7.0 QA Combat Test Agility Fist Weapon 2
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 152,
+		["inventoryType"] = 13,
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(109535, { -- 7.0 QA Combat Test Agility Fist Weapon 3
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 152,
+		["inventoryType"] = 13,
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(110033, { -- Arcanic of the High Sage
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[1] = 59637,
+			[2] = 61108,
+			[22] = 59637,
+			[23] = 59637,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(110058, { -- Bloodied Hand of Woe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[1] = 59662,
+			[2] = 61148,
+			[22] = 59662,
+			[23] = 59662,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(111069, { -- Primal Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 60137,
+			[1] = 60137,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(111199, { -- Primal Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 60254,
+			[1] = 60254,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(111545, { -- Smoldering Fist of Gorg'ak
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 60445,
+			[1] = 60445,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(111915, { -- Thunderlord Skull Crusher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 60635,
+			[1] = 60635,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(112477, { -- Softfoot's Last Resort
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[3] = 60981,
+			[4] = 60982,
+			[5] = 60981,
+			[6] = 60983,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(112577, { -- Teroclaw Talon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 62100,
+			[1] = 62100,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(113372, { -- Darktide Pincer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 62258,
+			[1] = 62258,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(113591, { -- The Bladefist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 62355,
+			[5] = 62356,
+			[6] = 62357,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(113965, { -- Sorka's Chainfist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 62861,
+			[5] = 62862,
+			[6] = 62863,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(115026, { -- Primal Combatant's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 63965,
+			[1] = 63965,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(115133, { -- Primal Combatant's Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64059,
+			[1] = 64059,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(115596, { -- Primal Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64482,
+			[1] = 64482,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(115726, { -- Primal Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64593,
+			[1] = 64593,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(115797, { -- test fist weapon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 34,
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(115948, { -- Primal Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64773,
+			[1] = 64773,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(115949, { -- Primal Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 64774,
+			[1] = 64774,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(116112, { -- Ra'kahn's Bite
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 94,
+		["modIDs"] = {
+			[0] = 64963,
+			[1] = 64963,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(116360, { -- Blade Dancer's Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[4] = 65211,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(116463, { -- Frostbitten Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65325,
+			[1] = 65325,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116480, { -- Lunarglow Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65342,
+			[1] = 65342,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116497, { -- Vinewrapped Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 36,
+		["modIDs"] = {
+			[0] = 65359,
+			[1] = 65359,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116514, { -- Creeperclaw Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 36,
+		["modIDs"] = {
+			[0] = 65376,
+			[1] = 65376,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116531, { -- Incised Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 40,
+		["inventoryType"] = 13,
+		["lvl"] = 37,
+		["modIDs"] = {
+			[0] = 65393,
+			[1] = 65393,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116548, { -- Auchenai Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 37,
+		["modIDs"] = {
+			[0] = 65410,
+			[1] = 65410,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116565, { -- Skettis Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 38,
+		["modIDs"] = {
+			[0] = 65427,
+			[1] = 65427,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116582, { -- Longclaw Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 38,
+		["modIDs"] = {
+			[0] = 65444,
+			[1] = 65444,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116599, { -- Bloodmane Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 65461,
+			[1] = 65461,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116616, { -- Gorian Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 43,
+		["inventoryType"] = 13,
+		["lvl"] = 39,
+		["modIDs"] = {
+			[0] = 65478,
+			[1] = 65478,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(116633, { -- Howling Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 65495,
+			[1] = 65495,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(117269, { -- Streamtalker Claws
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65885,
+			[1] = 65885,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(117279, { -- Streamtalker Talons
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65895,
+			[1] = 65895,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(117295, { -- Streamtalker Slicers
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 65906,
+			[1] = 65906,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(117576, { -- Tournament Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66030,
+			[1] = 66030,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(117706, { -- Tournament Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66147,
+			[1] = 66147,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(117777, { -- Tournament Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66198,
+			[1] = 66198,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(117907, { -- Tournament Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 5,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66309,
+			[1] = 66309,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(118135, { -- Plainshunter Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 43,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 66458,
+			[1] = 66458,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(118223, { -- Sunclaw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 41,
+		["inventoryType"] = 13,
+		["lvl"] = 92,
+		["modIDs"] = {
+			[0] = 66503,
+			[1] = 66503,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(118243, { -- Redclaw's Gutripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 98,
+		["modIDs"] = {
+			[0] = 66514,
+			[1] = 66514,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(118395, { -- Claws of Creation
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = 10000000,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66543,
+			[1] = 66543,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(118786, { -- Chade's Kidneythumper
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 42,
+		["inventoryType"] = 13,
+		["lvl"] = 36,
+		["modIDs"] = {
+			[0] = 67860,
+			[1] = 67860,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(118985, { -- Expeditious Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66736,
+			[1] = 66736,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(119018, { -- Expeditious Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 66754,
+			[1] = 66754,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(119397, { -- Gnarled Goren Jaw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[0] = 67064,
+			[1] = 67064,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(119719, { -- Streamtalker Claws
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67491,
+			[1] = 67491,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(119729, { -- Streamtalker Talons
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67501,
+			[1] = 67501,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(119745, { -- Streamtalker Slicers
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67512,
+			[1] = 67512,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(120055, { -- Primal Combatant's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67760,
+			[1] = 67760,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(120071, { -- Primal Combatant's Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 67776,
+			[1] = 67776,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(120340, { -- Son of the Beast's Bloody Paw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[1] = 67971,
+			[2] = 67973,
+			[23] = 67971,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(122090, { -- Stormseeker Claws
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			40
+		},
+		["modIDs"] = {
+			[0] = 69045,
+			[1] = 69045,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(122091, { -- Stormseeker Talons
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			40
+		},
+		["modIDs"] = {
+			[0] = 69046,
+			[1] = 69046,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(122092, { -- Stormseeker Slicers
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			40
+		},
+		["modIDs"] = {
+			[0] = 69047,
+			[1] = 69047,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(122396, { -- Brawler's Razor Claws
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 64,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 69220,
+			[1] = 69220,
+		},
+		["q"] = 7,
+		["subclass"] = 13,
+	}),
+	i(123994, { -- Demonblood Eviscerator
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[22] = 69451,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(124030, { -- The Bladefist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[22] = 69468,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(124368, { -- Demonblade Eviscerator
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 70138,
+			[5] = 70139,
+			[6] = 70140,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(124369, { -- Mindscythe of the Legion
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[3] = 70141,
+			[5] = 70142,
+			[6] = 70143,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(124677, { -- Wild Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70394,
+			[1] = 70394,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(124838, { -- Wild Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70541,
+			[1] = 70541,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(124887, { -- Wild Combatant's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70563,
+			[1] = 70563,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(125016, { -- Wild Combatant's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 72473,
+			[1] = 72473,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(125156, { -- Wild Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70772,
+			[1] = 70772,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(125317, { -- Wild Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70919,
+			[1] = 70919,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(125364, { -- Wild Combatant's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 70941,
+			[1] = 70941,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(125493, { -- Wild Combatant's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71056,
+			[1] = 71056,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(125762, { -- Wild Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71279,
+			[1] = 71279,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(125763, { -- Wild Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71280,
+			[1] = 71280,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(125791, { -- Warmongering Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 46,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71305,
+			[1] = 71305,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(125952, { -- Warmongering Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 46,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71452,
+			[1] = 71452,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(126001, { -- Warmongering Combatant's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71474,
+			[1] = 71474,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(126130, { -- Warmongering Combatant's Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71589,
+			[1] = 71589,
+		},
+		["q"] = 3,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(126270, { -- Warmongering Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 46,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71683,
+			[1] = 71683,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(126431, { -- Warmongering Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 46,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71830,
+			[1] = 71830,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(126478, { -- Warmongering Combatant's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71852,
+			[1] = 71852,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(126607, { -- Warmongering Combatant's Render
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		137642,
+		5
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 45,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 71967,
+			[1] = 71967,
+		},
+		["q"] = 3,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(126876, { -- Warmongering Gladiator's Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 46,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 72190,
+			[1] = 72190,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(126877, { -- Warmongering Gladiator's Render
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 46,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 72191,
+			[1] = 72191,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(127159, { -- Reflex Blades
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 32,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[22] = 72386,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(127219, { -- Creepjacker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[22] = 72436,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(127329, { -- Element-Infused Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 72512,
+			[1] = 72512,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(127330, { -- The Black Fang
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 100,
+		["modIDs"] = {
+			[0] = 72513,
+			[1] = 72513,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(127543, { -- Fist of the Deity
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[22] = 72658,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(127574, { -- Drakonid Arm Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 34,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[22] = 72683,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(128202, { -- Ironblade Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[4] = 73333,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(128821, { -- Claws of Ursoc
+		["b"] = 1,
+		["c"] = {
+			11
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 20,
+		["inventoryType"] = 21,
+		["modIDs"] = {
+			[0] = 76335,
+			[1] = 76335,
+		},
+		["q"] = 6,
+		["subclass"] = 13,
+	}),
+	i(128935, { -- The Fist of Ra-den
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 20,
+		["inventoryType"] = 21,
+		["modIDs"] = {
+			[0] = 76534,
+			[1] = 76534,
+		},
+		["q"] = 6,
+		["subclass"] = 13,
+	}),
+	i(128940, { -- Fists of the Heavens
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 20,
+		["inventoryType"] = 21,
+		["modIDs"] = {
+			[0] = 73770,
+			[1] = 73770,
+		},
+		["q"] = 6,
+		["subclass"] = 13,
+	}),
+	i(129620, { -- Streamtalker Claws
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 74181,
+			[1] = 74181,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(129630, { -- Streamtalker Talons
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 74191,
+			[1] = 74191,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(129646, { -- Streamtalker Slicers
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["lvl"] = 40,
+		["modIDs"] = {
+			[0] = 74202,
+			[1] = 74202,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(129856, { -- Vanir's Fist of Brutality
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1166,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 33,
+		["inventoryType"] = 13,
+		["lvl"] = 27,
+		["modIDs"] = {
+			[22] = 74345,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(133207, { -- Fist of Pained Senses
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[22] = 76585,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(134719, { -- Cold-Touched Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 78378,
+			[1] = 78378,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(134780, { -- Seasoned Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 78404,
+			[1] = 78404,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(140543, { -- Fist of the Broken Temple
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 47,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 81580,
+			[1] = 81580,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(140706, { -- Stormshaper's Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 81761,
+			[1] = 81761,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(140707, { -- Talons of Totemic Might
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 81762,
+			[1] = 81762,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(140708, { -- Earthmender's Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 81763,
+			[1] = 81763,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(142343, { -- Kinetic Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			45
+		},
+		["q"] = 0,
+		["subclass"] = 13,
+	}),
+	i(144148, { -- Claws of Gekkan
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 84434,
+			[2] = 84434,
+			[22] = 84434,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(144171, { -- Ner'onok's Razor Katar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 35,
+		["modIDs"] = {
+			[1] = 84448,
+			[2] = 84448,
+			[22] = 84448,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(144215, { -- Ka'eng, Breath of the Shadow
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 39,
+		["inventoryType"] = 13,
+		["lvl"] = 33,
+		["modIDs"] = {
+			[1] = 84483,
+			[2] = 84483,
+			[22] = 84483,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(150428, { -- Eskhandar's Left Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 29,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 88914,
+			[1] = 88914,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 31,
+	}),
+	i(150601, { -- Stormshaper's Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 89060,
+			[1] = 89060,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(150602, { -- Talons of Totemic Might
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 89061,
+			[1] = 89061,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(150603, { -- Earthmender's Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 89062,
+			[1] = 89062,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(153404, { -- Scalawag's Spikefist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 90965,
+			[1] = 90965,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(153973, { -- Streamtalker Claws
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			45
+		},
+		["modIDs"] = {
+			[0] = 91186,
+			[1] = 91186,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(153983, { -- Streamtalker Talons
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			45
+		},
+		["modIDs"] = {
+			[0] = 91196,
+			[1] = 91196,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(153999, { -- Streamtalker Slicers
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			45
+		},
+		["modIDs"] = {
+			[0] = 91207,
+			[1] = 91207,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(154160, { -- Shimmerscale Striker
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 52,
+		["inventoryType"] = 13,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98223,
+			[1] = 98223,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(154161, { -- Coarse Leather Cestus
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 52,
+		["inventoryType"] = 13,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98224,
+			[1] = 98224,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(154162, { -- Mistscale Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 98497,
+			[1] = 98497,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(154163, { -- Hardened Tempest Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 98498,
+			[1] = 98498,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(154315, { -- Rusty Steelclaw
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 91396,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(154975, { -- Scalebeast Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 91905,
+			[1] = 91905,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(155062, { -- Stoat-Trapper's Spikefist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 91961,
+			[1] = 91961,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(155208, { -- Stormfused Striker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 92095,
+			[1] = 92095,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(155425, { -- Barbthorn Queen's Stinger
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 92294,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(155427, { -- Soulwrenching Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 92296,
+			[1] = 92296,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(155677, { -- JKL - SQL TEST
+		["class"] = 2,
+		["equippable"] = false,
+		["f"] = 34,
+		["inventoryType"] = 0,
+		["q"] = 1,
+		["subclass"] = 11,
+	}),
+	i(155933, { -- Golden Saronite Dragon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92551,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(156014, { -- Kinetic Ripper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92619,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(156171, { -- The Masticator
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92764,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(156206, { -- Insanity's Grip
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92791,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(156211, { -- Delirium's Touch
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 13,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[22] = 92795,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(157005, { -- Stout Fist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 13,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 93232,
+			[1] = 93232,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(157549, { -- Vibro Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 31,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 93748,
+			[1] = 93748,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(157613, { -- Geomancy Slicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = 32,
+		["modIDs"] = {
+			[1] = 93799,
+			[2] = 93799,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(157638, { -- Lightning-Binder's Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 16,
+		["inventoryType"] = 13,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 93824,
+			[1] = 93824,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(157639, { -- Spiritbreaker Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 16,
+		["inventoryType"] = 13,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 93825,
+			[1] = 93825,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(157640, { -- Raincaller's Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 16,
+		["inventoryType"] = 13,
+		["lvl"] = 10,
+		["modIDs"] = {
+			[0] = 93826,
+			[1] = 93826,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(158087, { -- Gol Osigr Handblade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94167,
+			[1] = 94167,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(158088, { -- Wintersail Striker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94168,
+			[1] = 94168,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(158089, { -- Deepwarden Fangs
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94169,
+			[1] = 94169,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(158116, { -- Bonehex Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94196,
+			[1] = 94196,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(158117, { -- Salt Coast Knuckles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94197,
+			[1] = 94197,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(158118, { -- Razorbone Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 94198,
+			[1] = 94198,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(158507, { -- Scalawag's Spikefist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 94501,
+			[1] = 94501,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(158566, { -- Scalebeast Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 94544,
+			[1] = 94544,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159084, { -- Handscythe of the First City
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 94834,
+			[1] = 94834,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159099, { -- Pa'ku Adherent's Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 94849,
+			[1] = 94849,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159509, { -- Gnarlwood Spikes
+		["bonusIDs"] = {
+			[4796] = 95310,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95310,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159511, { -- Wavecaller Fists
+		["bonusIDs"] = {
+			[4796] = 95312,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95312,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159514, { -- Rivermarsh Claws
+		["bonusIDs"] = {
+			[4796] = 95315,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95315,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159515, { -- Warport Knuckles
+		["bonusIDs"] = {
+			[4796] = 95316,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95316,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159516, { -- Golden Fleet Fists
+		["bonusIDs"] = {
+			[4796] = 95317,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95317,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159517, { -- Zocali Claws
+		["bonusIDs"] = {
+			[4796] = 95318,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 95318,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(159653, { -- Bile-Stained Crawg Tusks
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 96087,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 96490,
+			[23] = 96491,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(159659, { -- Sinister Wicker Talons
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 96086,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 96492,
+			[23] = 96493,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(159894, { -- Honorable Combatant's Striker
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(159895, { -- Honorable Combatant's Cestus
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(160269, { -- Soulrending Claw
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 96264,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[2] = 96265,
+			[23] = 96266,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(160693, { -- Lancet of the Deft Hand
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 96670,
+			[4] = 99197,
+			[5] = 96671,
+			[6] = 96672,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(160938, { -- Bent Punching Blade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			45
+		},
+		["q"] = 0,
+		["subclass"] = 13,
+	}),
+	i(160956, { -- Hazaak's Windshorn Claws
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 96906,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(161193, { -- Sethrak Ravager's Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 97109,
+			[1] = 97109,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(161299, { -- Stoat-Trapper's Bladefist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 97188,
+			[1] = 97188,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(161300, { -- Stoat-Trapper's Striker
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 97189,
+			[1] = 97189,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(161599, { -- Mechano-Cat Claw
+		["b"] = 1,
+		["bonusIDs"] = {
+			[4776] = 97686,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(161969, { -- Shimmerscale Striker
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 52,
+		["inventoryType"] = 13,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98221,
+			[1] = 98221,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(161970, { -- Coarse Leather Cestus
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 52,
+		["inventoryType"] = 13,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98222,
+			[1] = 98222,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(161971, { -- Mistscale Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 98499,
+			[1] = 98499,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(161972, { -- Hardened Tempest Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 98500,
+			[1] = 98500,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(161973, { -- Honorable Combatant's Striker
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(161974, { -- Honorable Combatant's Cestus
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 59,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(163002, { -- Earthpyre Talons
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98823,
+			[1] = 98823,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(163003, { -- Earthpyre Fangs
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98824,
+			[1] = 98824,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(163004, { -- Earthpyre Claws
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 50,
+		["inventoryType"] = 13,
+		["lvl"] = 45,
+		["modIDs"] = {
+			[0] = 98825,
+			[1] = 98825,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(163925, { -- Old Jon's Left Hand
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 99991,
+			[1] = 99991,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(163926, { -- Rusty Captain's Hook
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 99992,
+			[1] = 99992,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(163927, { -- Brinebeard's Shanker
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 99993,
+			[1] = 99993,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(164320, { -- Plundered Bear-Carved Fists
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100361,
+			[1] = 100361,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(164331, { -- Plundered Coral-Scale Claw
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100372,
+			[1] = 100372,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(164332, { -- Plundered Drillbore Fists
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100373,
+			[1] = 100373,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(164356, { -- Plundered Twinscale Handblade
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 100397,
+			[1] = 100397,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(165269, { -- Fallback Weapon - Fist
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["inventoryType"] = 13,
+		["q"] = 2,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(165588, { -- Bonelash Paw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 102004,
+			[4] = 102007,
+			[5] = 102005,
+			[6] = 102006,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(168276, { -- Claw of the Myrmidon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 72,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 104337,
+			[4] = 104336,
+			[5] = 105039,
+			[6] = 105040,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(168893, { -- Hatchery Scraper
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 72,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 104763,
+			[4] = 105043,
+			[5] = 105041,
+			[6] = 105042,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(170090, { -- Merciless Pincher
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 72,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[3] = 105335,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(170115, { -- Massive Viridian Claw
+		["bonusIDs"] = {
+			[4796] = 105371,
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 58,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 105371,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(170125, { -- Behemoth Claw of the Abyss
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[0] = 105381,
+			[1] = 105381,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(170724, { -- Streamtalker Claws
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 68,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105681,
+			[1] = 105681,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(170726, { -- Streamtalker Talons
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 68,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105683,
+			[1] = 105683,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(170734, { -- Streamtalker Slicers
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 68,
+		["inventoryType"] = 13,
+		["lvl"] = 120,
+		["modIDs"] = {
+			[0] = 105686,
+			[1] = 105686,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(171160, { -- Notorious Gladiator's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105913,
+			[1] = 105913,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(171161, { -- Notorious Gladiator's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 105914,
+			[1] = 105914,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(171191, { -- Owen Test
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 35,
+		["inventoryType"] = 21,
+		["lvl"] = 30,
+		["modIDs"] = {
+			[1] = 105925,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 1,
+	}),
+	i(171578, { -- Pugius, Fist of Defiance
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			30
+		},
+		["modIDs"] = {
+			[1] = 106126,
+			[22] = 106126,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 36,
+	}),
+	i(172197, { -- Unguent Caress
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 85,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[3] = 106554,
+			[4] = 108359,
+			[5] = 108360,
+			[6] = 108361,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(172348, { -- Desolate Leather Cestus
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 100,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 106717,
+			[1] = 106717,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(172349, { -- Bone Bound Knuckles
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 100,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 106718,
+			[1] = 106718,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(172778, { -- Corrupted Gladiator's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107194,
+			[1] = 107194,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(172779, { -- Corrupted Gladiator's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107195,
+			[1] = 107195,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(173558, { -- Stormshaper's Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 107572,
+			[1] = 107572,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(173559, { -- Talons of Totemic Might
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 107573,
+			[1] = 107573,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(173560, { -- Earthmender's Talons
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 44,
+		["inventoryType"] = 13,
+		["modIDs"] = {
+			[0] = 107574,
+			[1] = 107574,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(173932, { -- Ardenweald Covenant Fist Weapon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 155,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[1] = 107784,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(174012, { -- Corrupted Aspirant's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1792,
+		875
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107824,
+			[1] = 107824,
+		},
+		["q"] = 4,
+,		["races"] = HORDE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(174013, { -- Corrupted Aspirant's Claw
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1792,
+		875
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 60,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 107825,
+			[1] = 107825,
+		},
+		["q"] = 4,
+,		["races"] = ALLIANCE_ONLY,
+		["subclass"] = 13,
+	}),
+	i(176336, { -- Guidenote Grip
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 85,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 109794,
+			[1] = 109794,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(176798, { -- Larion Claw
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 100,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 110305,
+			[1] = 110305,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(177416, { -- Streamtalker Claws
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 68,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[0] = 110663,
+			[1] = 110663,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(177418, { -- Streamtalker Talons
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 68,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[0] = 110665,
+			[1] = 110665,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(179488, { -- Cloudtail's Paw
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 125,
+		["inventoryType"] = 13,
+		["lvl"] = 48,
+		["modIDs"] = {
+			[0] = 112274,
+			[1] = 112274,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(179572, { -- Ardenweald Covenant Fist Weapon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 155,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[1] = 112356,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(179573, { -- Ardenweald Covenant Fist Weapon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 155,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[1] = 112357,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(179574, { -- Ardenweald Covenant Fist Weapon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 155,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[1] = 112358,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(179575, { -- Ardenweald Covenant Fist Weapon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 155,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[1] = 112359,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(179576, { -- Ardenweald Covenant Fist Weapon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 155,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			50
+		},
+		["modIDs"] = {
+			[1] = 112360,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(179577, { -- Stonesnap Mandibles
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 174,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 112361,
+			[3] = 112361,
+			[4] = 112361,
+			[5] = 112361,
+			[6] = 115006,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(179578, { -- Sinful Gladiator's Jaws
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1602,
+		900
+	}
+},
+		["customCollect"] = {
+			"SL_COV_NFA"
+		},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 200,
+		["inventoryType"] = 13,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 112362,
+			[1] = 112362,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(179579, { -- Jaws of the Hungerer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 174,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 112363,
+			[3] = 112363,
+			[4] = 112363,
+			[5] = 112363,
+			[6] = 115488,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(179580, { -- Jaws of the Wild Hunt
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3500
+	},
+	{
+		"c",
+		1885,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 164,
+		["inventoryType"] = 13,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 112364,
+			[1] = 112364,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(179581, { -- Night Courtier's Jaws
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3500
+	},
+	{
+		"c",
+		1885,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 155,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 112365,
+			[1] = 112365,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(179582, { -- Winterborn Jaws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 155,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 112366,
+			[1] = 112366,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(181143, { -- Claw of the Stoneborn Executioner
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3500
+	},
+	{
+		"c",
+		1885,
+		10
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 157,
+		["inventoryType"] = 13,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113469,
+			[1] = 113469,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(181230, { -- Pugilist's Chakram
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 140,
+		["inventoryType"] = 13,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113534,
+			[1] = 113534,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(181632, { -- Requiem Handscythes
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 148,
+		["inventoryType"] = 13,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 113653,
+			[1] = 113653,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(182371, { -- Claws of the Court's Sentinels
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			60
+		},
+		["modIDs"] = {
+			[0] = 114093,
+			[1] = 114093,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(182390, { -- Talons of the Legion Generals
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 174,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 114106,
+			[3] = 114106,
+			[4] = 114106,
+			[5] = 114106,
+			[6] = 115050,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(182403, { -- Sinful Gladiator's Gargoyle Claw
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1602,
+		900
+	}
+},
+		["customCollect"] = {
+			"SL_COV_VEN"
+		},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 200,
+		["inventoryType"] = 13,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 114119,
+			[1] = 114119,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(182416, { -- Claws of the Stone Generals
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"i",
+		183891.04,
+		1
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 174,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[1] = 114132,
+			[3] = 114132,
+			[4] = 114132,
+			[5] = 114132,
+			[6] = 114865,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(182429, { -- Claw of the Gilded Stoneborn
+		["b"] = 1,
+		["class"] = 2,
+		["cost"] = {
+	{
+		"c",
+		1813,
+		3500
+	},
+	{
+		"c",
+		1885,
+		50
+	}
+},
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 174,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 114145,
+			[1] = 114145,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	}),
+	i(183609, { -- Re-Powered Golliath Fists
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 144,
+		["inventoryType"] = 13,
+		["lvl"] = 48,
+		["modIDs"] = {
+			[0] = 114851,
+			[1] = 114851,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(183678, { -- Keleseth's Influencer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 100,
+		["inventoryType"] = 13,
+		["lvl"] = 50,
+		["modIDs"] = {
+			[0] = 114917,
+			[1] = 114917,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+		["u"] = 2,
+	}),
+	i(184467, { -- Doubt Tinged Grip
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 115665,
+			[1] = 115665,
+		},
+		["q"] = 2,
+		["subclass"] = 13,
+	}),
+	i(184528, { -- Elysian Guillotine Claws
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 151,
+		["inventoryType"] = 13,
+		["lvl"] = {
+			48
+		},
+		["modIDs"] = {
+			[0] = 115684,
+			[1] = 115684,
+		},
+		["q"] = 3,
+		["subclass"] = 13,
+	}),
+	i(184799, { -- Wolf-Fanged Fist
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 34,
+		["ilvl"] = 190,
+		["inventoryType"] = 13,
+		["lvl"] = 60,
+		["modIDs"] = {
+			[0] = 115869,
+			[1] = 115869,
+		},
+		["q"] = 4,
+		["subclass"] = 13,
+	})
+}
+
+i(2942);		--[[Iron Knuckles]]
+i(7683);		--[[Bloody Brass Knuckles]]
+i(11603);		--[[Vilerend Slicer]]
+i(11743);		--[[Rockfist]]
+i(11744);		--[[Bloodfist]]
+i(11863);		--[[White Bone Shredder]]
+i(12795);		--[[Blood Talon]]
+i(13198);		--[[Hurd Smasher]]
+i(13399);		--[[Gargoyle Shredder Talons]]
+i(15903);		--[[Slicing Claw]]
+i(15904);		--[[Deadly Fist Blades]]
+i(15905);		--[[Brass Knuckles]]
+i(15906);		--[[Left-Handed Brass Knuckles]]
+i(15907);		--[[Left-Handed Claw]]
+i(15909);		--[[Left-Handed Blades]]
+i(17738);		--[[Claw of Celebras]]
+i(18202);		--[[Eskhandar's Left Claw]]
+i(18203);		--[[Eskhandar's Right Claw]]
+i(18462);		--[[Jagged Bone Fist]]
+i(18843);		--[[Grand Marshal's Right Hand Blade]]
+i(18844);		--[[High Warlord's Right Claw]]
+i(18847);		--[[Grand Marshal's Razor Hand Blade]]
+i(18848);		--[[High Warlord's Razor Claw]]
+i(19365);		--[[Claw of the Black Drake]]
+i(19896);		--[[Thekal's Grasp]]
+i(19910);		--[[Arlokk's Grasp]]
+i(20954);		--[[Heavy Iron Knuckles]]
+i(21673);		--[[Silithid Claw]]
+i(22317);		--[[Lefty's Brass Knuckle]]
+i(22404);		--[[Willey's Back Scratcher]]
+i(23242);		--[[Claw of the Frost Wyrm]]
+i(25184);		--[[Ravager Claws]]
+i(25185);		--[[Thrasher Blades]]
+i(25186);		--[[Vampiric Handscythes]]
+i(25187);		--[[Shekketh Talons]]
+i(25188);		--[[Spleenripper Claws]]
+i(25189);		--[[Ironspine Point]]
+i(25190);		--[[Wight's Claws]]
+i(25191);		--[[Dread Fangs]]
+i(25192);		--[[Gutrippers]]
+i(25193);		--[[Deathclaw Talons]]
+i(25194);		--[[Serpent's Fangs]]
+i(25195);		--[[Diamond Tipped Claws]]
+i(25196);		--[[Boneshredder Claws]]
+i(25197);		--[[Razor Scythes]]
+i(25538);		--[[Sporeling Claw]]
+i(25764);		--[[Mag'hari Fury Brand]]
+i(25943);		--[[Creepjacker]]
+i(27533);		--[[Demonblood Eviscerator]]
+i(27747);		--[[Boggspine Knuckles]]
+i(27846);		--[[Claw of the Watcher]]
+i(28313);		--[[Gladiator's Ripper]]
+i(28314);		--[[Gladiator's Fleshslicer]]
+i(28315);		--[[Stormreaver Warblades]]
+i(28392);		--[[Reflex Blades]]
+i(28584);		--[[Big Bad Wolf's Paw]]
+i(28922);		--[[High Warlord's Fleshslicer]]
+i(28928);		--[[High Warlord's Ripper]]
+i(28947);		--[[Grand Marshal's Fleshslicer]]
+i(28953);		--[[Grand Marshal's Ripper]]
+i(29348);		--[[The Bladefist]]
+i(29371);		--[[Nexus-Claw]]
+i(29372);		--[[Void-Talon]]
+i(29948);		--[[Claw of the Phoenix]]
+i(30277);		--[[Ripfang Paw]]
+i(30755);		--[[Mag'hari Fighting Claw]]
+i(32003);		--[[Merciless Gladiator's Fleshslicer]]
+i(32028);		--[[Merciless Gladiator's Ripper]]
+i(32188);		--[[Chancellor's Fleshslicer]]
+i(32189);		--[[Chancellor's Ripper]]
+i(32944);		--[[Talon of the Phoenix]]
+i(32945);		--[[Fist of Molten Fury]]
+i(32946);		--[[Claw of Molten Fury]]
+i(33495);		--[[Rage]]
+i(33640);		--[[Fury]]
+i(33705);		--[[Vengeful Gladiator's Fleshslicer]]
+i(33737);		--[[Vengeful Gladiator's Ripper]]
+i(34016);		--[[Vengeful Gladiator's Slasher]]
+i(34203);		--[[Grip of Mannoroth]]
+i(34331);		--[[Hand of the Deceiver]]
+i(34346);		--[[Mounting Vengeance]]
+i(34893);		--[[Vanir's Fist of Brutality]]
+i(34950);		--[[Vanir's Fist of Savagery]]
+i(34951);		--[[Vanir's Fist of Carnage]]
+i(35037);		--[[Brutal Gladiator's Slasher]]
+i(35038);		--[[Brutal Gladiator's Fleshslicer]]
+i(35076);		--[[Brutal Gladiator's Ripper]]
+i(35573);		--[[Arm Blade of Augelmir]]
+i(35601);		--[[Drakonid Arm Blade]]
+i(35830);		--[[Worn Vrykul Smasher]]
+i(35851);		--[[Acid-Etched Knuckles]]
+i(36557);		--[[Meat Ripper]]
+i(36558);		--[[Curved Scratcher]]
+i(36559);		--[[Prized Handscythes]]
+i(36560);		--[[Fighter's Grip]]
+i(36561);		--[[Mummified Paw]]
+i(36562);		--[[Blue-Nailed Claws]]
+i(36563);		--[[Gloved Talons]]
+i(36564);		--[[Spider Claw]]
+i(36565);		--[[Hero's Knuckles]]
+i(36566);		--[[Gilded Fangs]]
+i(36567);		--[[Six-Fingered Claws]]
+i(36568);		--[[Hollowed Bone Knuckles]]
+i(36569);		--[[Savage Talons]]
+i(36570);		--[[Corrupted Scythes]]
+i(37021);		--[[Claw of the Tuskarr]]
+i(37072);		--[[Jagged Icefist]]
+i(37077);		--[[Smoldering Talon]]
+i(37631);		--[[Fist of the Deity]]
+i(37693);		--[[Greed]]
+i(37749);		--[[Shocking Claws]]
+i(38153);		--[[Mana Infused Claw]]
+i(38188);		--[[Claw of the Undead Ravager]]
+i(38238);		--[[Borean Smasher]]
+i(39112);		--[[Talon of Freedom]]
+i(39113);		--[[Jagged Troll Render]]
+i(39416);		--[[Kel'Thuzad's Reach]]
+i(39468);		--[[The Stray]]
+i(39763);		--[[Wraith Strike]]
+i(39830);		--[[Fist of Subtlety]]
+i(39865);		--[[Knuckle of Victory]]
+i(40239);		--[[The Hand of Nerub]]
+i(40383);		--[[Calamity's Grasp]]
+i(40429);		--[[Crimson Steel]]
+i(40704);		--[[Pride]]
+i(42218);		--[[Savage Gladiator's Ripper]]
+i(42219);		--[[Savage Gladiator's Slasher]]
+i(42220);		--[[Savage Gladiator's Fleshslicer]]
+i(42259);		--[[Hateful Gladiator's Ripper]]
+i(42260);		--[[Deadly Gladiator's Ripper]]
+i(42261);		--[[Furious Gladiator's Ripper]]
+i(42262);		--[[Relentless Gladiator's Ripper]]
+i(42264);		--[[Hateful Gladiator's Slasher]]
+i(42265);		--[[Deadly Gladiator's Slasher]]
+i(42266);		--[[Furious Gladiator's Slasher]]
+i(42267);		--[[Relentless Gladiator's Slasher]]
+i(42269);		--[[Hateful Gladiator's Fleshslicer]]
+i(42270);		--[[Deadly Gladiator's Fleshslicer]]
+i(42271);		--[[Furious Gladiator's Fleshslicer]]
+i(42272);		--[[Relentless Gladiator's Fleshslicer]]
+i(42862);		--[[Hyldnir Painbringer]]
+i(43890);		--[[Interrogator's Flaming Knuckles]]
+i(44241);		--[[Unholy Persuader]]
+i(44641);		--[[Dalaran Knuckles]]
+i(45132);		--[[Golden Saronite Dragon]]
+i(45284);		--[[Kinetic Ripper]]
+i(45449);		--[[The Masticator]]
+i(45489);		--[[Insanity's Grip]]
+i(45494);		--[[Delirium's Touch]]
+i(45963);		--[[Furious Gladiator's Fleshslicer]]
+i(45968);		--[[Furious Gladiator's Claw]]
+i(45969);		--[[Furious Gladiator's Grasp]]
+i(48432);		--[[Relentless Gladiator's Fleshslicer]]
+i(48444);		--[[Relentless Gladiator's Claw]]
+i(48515);		--[[Relentless Gladiator's Grasp]]
+i(48703);		--[[The Facebreaker]]
+i(48712);		--[[The Spinebreaker]]
+i(50035);		--[[Black Bruise]]
+i(50184);		--[[Keleseth's Seducer]]
+i(50315);		--[[Seven-Fingered Claws]]
+i(50692);		--[[Black Bruise]]
+i(50710);		--[[Keleseth's Seducer]]
+i(51003);		--[[Abomination Knuckles]]
+i(51443);		--[[Wrathful Gladiator's Fleshslicer]]
+i(51444);		--[[Wrathful Gladiator's Razor]]
+i(51523);		--[[Wrathful Gladiator's Ripper]]
+i(51524);		--[[Wrathful Gladiator's Grasp]]
+i(51529);		--[[Wrathful Gladiator's Talon]]
+i(51530);		--[[Wrathful Gladiator's Slasher]]
+i(51784);		--[[Splintershard]]
+i(51801);		--[[Pugius, Fist of Defiance]]
+i(51819);		--[[Splintershard]]
+i(51876);		--[[Abomination Knuckles]]
+i(51941);		--[[Pugius, Fist of Defiance]]
+i(52492);		--[[Carnelian Spikes]]
+i(52493);		--[[The Perforator]]
+i(53557);		--[[White Bone Pummeler]]
+i(55344);		--[[Razorwind Knuckles]]
+i(55345);		--[[Steelspark Knuckles]]
+i(55346);		--[[Angerfang Knuckles]]
+i(55347);		--[[Nethergarde Knuckles]]
+i(55348);		--[[Splinterspear Knuckles]]
+i(55349);		--[[Mardenholde Knuckles]]
+i(55350);		--[[Bladefist Knuckles]]
+i(55351);		--[[Irontree Knuckles]]
+i(55352);		--[[Rustmaul Knuckles]]
+i(55796);		--[[Fist of Pained Senses]]
+i(56329);		--[[Fist of Pained Senses]]
+i(56883);		--[[Meatface Pummeler]]
+i(56887);		--[[Knuckle Down]]
+i(58978);		--[[Filthy Paw]]
+i(60952);		--[[Creature - Black Bruise Offhand]]
+i(61330);		--[[Vicious Gladiator's Ripper]]
+i(61331);		--[[Vicious Gladiator's Fleshslicer]]
+i(61332);		--[[Vicious Gladiator's Slasher]]
+i(61333);		--[[Vicious Gladiator's Right Render]]
+i(63193);		--[[Theldurin's Fist]]
+i(63537);		--[[Claws of Torment]]
+i(63538);		--[[Claws of Agony]]
+i(64774);		--[[Bloodthirsty Gladiator's Slasher]]
+i(64775);		--[[Bloodthirsty Gladiator's Fleshslicer]]
+i(64825);		--[[Bloodthirsty Gladiator's Right Render]]
+i(64826);		--[[Bloodthirsty Gladiator's Ripper]]
+i(66972);		--[[Crystalline Geoknife]]
+i(67455);		--[[Vicious Gladiator's Right Render]]
+i(67456);		--[[Vicious Gladiator's Ripper]]
+i(67458);		--[[Vicious Gladiator's Slasher]]
+i(67459);		--[[Vicious Gladiator's Fleshslicer]]
+i(69636);		--[[Thekal's Claws]]
+i(69638);		--[[Arlokk's Claws]]
+i(70186);		--[[Ruthless Gladiator's Right Render]]
+i(70187);		--[[Ruthless Gladiator's Ripper]]
+i(70189);		--[[Ruthless Gladiator's Slasher]]
+i(70190);		--[[Ruthless Gladiator's Fleshslicer]]
+i(70217);		--[[Ruthless Gladiator's Ripper]]
+i(70218);		--[[Ruthless Gladiator's Fleshslicer]]
+i(70219);		--[[Ruthless Gladiator's Slasher]]
+i(70220);		--[[Ruthless Gladiator's Right Render]]
+i(72867);		--[[Clattering Claw]]
+i(73418);		--[[Cataclysmic Gladiator's Slasher]]
+i(73419);		--[[Cataclysmic Gladiator's Right Render]]
+i(73420);		--[[Cataclysmic Gladiator's Fleshslicer]]
+i(73421);		--[[Cataclysmic Gladiator's Ripper]]
+i(73451);		--[[Cataclysmic Gladiator's Slasher]]
+i(73452);		--[[Cataclysmic Gladiator's Right Render]]
+i(73453);		--[[Cataclysmic Gladiator's Fleshslicer]]
+i(73454);		--[[Cataclysmic Gladiator's Ripper]]
+i(77279);		--[[Trainee's Handwrap]]
+i(77557);		--[[Replica Grand Marshal's Hand Blade]]
+i(77559);		--[[Replica Grand Marshal's Left Hand Blade]]
+i(77575);		--[[Replica High Warlord's Claw]]
+i(77583);		--[[Replica High Warlord's Left Claw]]
+i(81245);		--[[Claws of Gekkan]]
+i(81286);		--[[Ner'onok's Razor Katar]]
+i(81320);		--[[Right-Handed Invis Knuckles]]
+i(81557);		--[[Maw of Despair]]
+i(81859);		--[['Nessy's Trophy Pincers]]
+i(82013);		--[[Polished Knuckles]]
+i(82054);		--[[Bronzed Knuckles]]
+i(82109);		--[[Barbarian Knuckles]]
+i(82164);		--[[Rigid Knuckles]]
+i(82219);		--[[Inlaid Knuckles]]
+i(82274);		--[[Engraved Knuckles]]
+i(83761);		--[[Mist-Shaman's Barbs]]
+i(84094);		--[[Thorns of the Rikkitun]]
+i(84100);		--[[Jaws of the Wakener]]
+i(84536);		--[[Hidden Pass Barbs]]
+i(84696);		--[[Dreadful Gladiator's Ripper]]
+i(84697);		--[[Dreadful Gladiator's Fleshslicer]]
+i(84698);		--[[Dreadful Gladiator's Slasher]]
+i(84699);		--[[Dreadful Gladiator's Render]]
+i(84893);		--[[Malevolent Gladiator's Fleshslicer]]
+i(84894);		--[[Malevolent Gladiator's Slasher]]
+i(84962);		--[[Malevolent Gladiator's Ripper]]
+i(84963);		--[[Malevolent Gladiator's Render]]
+i(85116);		--[[Malevolent Gladiator's Fleshslicer]]
+i(85117);		--[[Malevolent Gladiator's Slasher]]
+i(85128);		--[[Malevolent Gladiator's Ripper]]
+i(85129);		--[[Malevolent Gladiator's Render]]
+i(85183);		--[[Claws of Gekkan]]
+i(85994);		--[[Gara'kal, Fist of the Spiritbinder]]
+i(86226);		--[[Claws of Shek'zeer]]
+i(86762);		--[[Gara'kal, Fist of the Spiritbinder]]
+i(86864);		--[[Claws of Shek'zeer]]
+i(86988);		--[[Claws of Shek'zeer]]
+i(87032);		--[[Gara'kal, Fist of the Spiritbinder]]
+i(87509);		--[[Fist of Fate]]
+i(87543);		--[[Ka'eng, Breath of the Shadow]]
+i(89566);		--[[Novice's Handwraps]]
+i(89570);		--[[Initiate's Handwraps]]
+i(89571);		--[[Grappling Handwraps]]
+i(89572);		--[[Handwraps of Pilgrimage]]
+i(89573);		--[[Handwraps of Meditation]]
+i(89574);		--[[Handwraps of Fallen Blossoms]]
+i(89575);		--[[Handwraps of Serenity]]
+i(89578);		--[[Tiger Lord's Razor Claws]]
+i(89579);		--[[Tiger Lord's Bladed Claws]]
+i(90087);		--[[Lobstmourne]]
+i(91392);		--[[Tyrannical Gladiator's Ripper]]
+i(91393);		--[[Tyrannical Gladiator's Ripper]]
+i(91394);		--[[Tyrannical Gladiator's Fleshslicer]]
+i(91395);		--[[Tyrannical Gladiator's Fleshslicer]]
+i(91396);		--[[Tyrannical Gladiator's Render]]
+i(91397);		--[[Tyrannical Gladiator's Render]]
+i(91745);		--[[Malevolent Gladiator's Ripper]]
+i(91747);		--[[Malevolent Gladiator's Fleshslicer]]
+i(91749);		--[[Malevolent Gladiator's Render]]
+i(91751);		--[[Malevolent Gladiator's Slasher]]
+i(92948);		--[[Brawler's Razor Claws]]
+i(93139);		--[[Scavenged Pandaren Knuckles]]
+i(93143);		--[[Scavenged Pandaren Knuckles]]
+i(93597);		--[[Crafted Dreadful Gladiator's Fleshslicer]]
+i(93599);		--[[Crafted Dreadful Gladiator's Slasher]]
+i(93858);		--[[Brawler's Bladed Claws]]
+i(94098);		--[[Dull Hawktalons]]
+i(94314);		--[[Tyrannical Gladiator's Fleshslicer]]
+i(94316);		--[[Tyrannical Gladiator's Ripper]]
+i(94321);		--[[Tyrannical Gladiator's Render]]
+i(94760);		--[[Amun-Thoth, Sul's Spiritrending Talons]]
+i(94973);		--[[Wu-Lai, Bladed Fan of the Consorts]]
+i(95670);		--[[Amun-Thoth, Sul's Spiritrending Talons]]
+i(95791);		--[[Wu-Lai, Bladed Fan of the Consorts]]
+i(96042);		--[[Amun-Thoth, Sul's Spiritrending Talons]]
+i(96163);		--[[Wu-Lai, Bladed Fan of the Consorts]]
+i(96414);		--[[Amun-Thoth, Sul's Spiritrending Talons]]
+i(96535);		--[[Wu-Lai, Bladed Fan of the Consorts]]
+i(96786);		--[[Amun-Thoth, Sul's Spiritrending Talons]]
+i(96907);		--[[Wu-Lai, Bladed Fan of the Consorts]]
+i(97126);		--[[Tia-Tia, the Scything Star]]
+i(97127);		--[[Tia-Tia, the Scything Star]]
+i(97128);		--[[Tia-Tia, the Scything Star]]
+i(97129);		--[[Tia-Tia, the Scything Star]]
+i(97130);		--[[Tia-Tia, the Scything Star]]
+i(98277);		--[[Immaculate Pandaren Knuckles]]
+i(98280);		--[[Immaculate Pandaren Knuckles]]
+i(98317);		--[[Immaculate Pandaren Knuckles]]
+i(99933);		--[[Tyrannical Gladiator's Ripper]]
+i(99934);		--[[Tyrannical Gladiator's Fleshslicer]]
+i(99935);		--[[Tyrannical Gladiator's Render]]
+i(99975);		--[[Tyrannical Gladiator's Fleshslicer]]
+i(99977);		--[[Tyrannical Gladiator's Ripper]]
+i(99982);		--[[Tyrannical Gladiator's Render]]
+i(100482);		--[[Grievous Gladiator's Ripper]]
+i(100483);		--[[Grievous Gladiator's Ripper]]
+i(100486);		--[[Grievous Gladiator's Render]]
+i(100487);		--[[Grievous Gladiator's Render]]
+i(100546);		--[[Grievous Gladiator's Ripper]]
+i(100551);		--[[Grievous Gladiator's Render]]
+i(100965);		--[[Ner'onok's Razor Katar]]
+i(102603);		--[[Prideful Gladiator's Ripper]]
+i(102608);		--[[Prideful Gladiator's Render]]
+i(102800);		--[[Grievous Gladiator's Ripper]]
+i(102805);		--[[Grievous Gladiator's Render]]
+i(103115);		--[[Prideful Gladiator's Ripper]]
+i(103116);		--[[Prideful Gladiator's Render]]
+i(103305);		--[[Grievous Gladiator's Ripper]]
+i(103306);		--[[Grievous Gladiator's Render]]
+i(103502);		--[[Prideful Gladiator's Ripper]]
+i(103503);		--[[Prideful Gladiator's Render]]
+i(103775);		--[[Softfoot's Last Resort]]
+i(104434);		--[[Softfoot's Last Resort]]
+i(104683);		--[[Softfoot's Last Resort]]
+i(104932);		--[[Softfoot's Last Resort]]
+i(105181);		--[[Softfoot's Last Resort]]
+i(105430);		--[[Softfoot's Last Resort]]
+i(105924);		--[[Hozen Can Opener]]
+i(105955);		--[[Wrathful Gladiator's Razor]]
+i(105956);		--[[Wrathful Gladiator's Razor]]
+i(107849);		--[[No Main Hand Weapon]]
+i(108787);		--[[7.0 PH Weapon - 1H Fist Int]]
+i(108788);		--[[7.0 PH Weapon - 1H Fist Str]]
+i(108789);		--[[7.0 PH Weapon - 1H Fist Agi]]
+i(108913);		--[[Rangari Initiate Armblade]]
+i(109075);		--[[Abberant's Paw]]
+i(109361);		--[[7.0 QA Combat Test Agility Fist Weapon 1]]
+i(109534);		--[[7.0 QA Combat Test Agility Fist Weapon 2]]
+i(109535);		--[[7.0 QA Combat Test Agility Fist Weapon 3]]
+i(110033);		--[[Arcanic of the High Sage]]
+i(110058);		--[[Bloodied Hand of Woe]]
+i(111069);		--[[Primal Gladiator's Ripper]]
+i(111199);		--[[Primal Gladiator's Render]]
+i(111545);		--[[Smoldering Fist of Gorg'ak]]
+i(111915);		--[[Thunderlord Skull Crusher]]
+i(112477);		--[[Softfoot's Last Resort]]
+i(112577);		--[[Teroclaw Talon]]
+i(113372);		--[[Darktide Pincer]]
+i(113591);		--[[The Bladefist]]
+i(113965);		--[[Sorka's Chainfist]]
+i(115026);		--[[Primal Combatant's Ripper]]
+i(115133);		--[[Primal Combatant's Render]]
+i(115596);		--[[Primal Gladiator's Ripper]]
+i(115726);		--[[Primal Gladiator's Render]]
+i(115797);		--[[test fist weapon]]
+i(115948);		--[[Primal Gladiator's Ripper]]
+i(115949);		--[[Primal Gladiator's Render]]
+i(116112);		--[[Ra'kahn's Bite]]
+i(116360);		--[[Blade Dancer's Claws]]
+i(116463);		--[[Frostbitten Knuckles]]
+i(116480);		--[[Lunarglow Knuckles]]
+i(116497);		--[[Vinewrapped Knuckles]]
+i(116514);		--[[Creeperclaw Knuckles]]
+i(116531);		--[[Incised Knuckles]]
+i(116548);		--[[Auchenai Knuckles]]
+i(116565);		--[[Skettis Knuckles]]
+i(116582);		--[[Longclaw Knuckles]]
+i(116599);		--[[Bloodmane Knuckles]]
+i(116616);		--[[Gorian Knuckles]]
+i(116633);		--[[Howling Knuckles]]
+i(117269);		--[[Streamtalker Claws]]
+i(117279);		--[[Streamtalker Talons]]
+i(117295);		--[[Streamtalker Slicers]]
+i(117576);		--[[Tournament Gladiator's Ripper]]
+i(117706);		--[[Tournament Gladiator's Render]]
+i(117777);		--[[Tournament Gladiator's Ripper]]
+i(117907);		--[[Tournament Gladiator's Render]]
+i(118135);		--[[Plainshunter Claws]]
+i(118223);		--[[Sunclaw]]
+i(118243);		--[[Redclaw's Gutripper]]
+i(118395);		--[[Claws of Creation]]
+i(118786);		--[[Chade's Kidneythumper]]
+i(118985);		--[[Expeditious Knuckles]]
+i(119018);		--[[Expeditious Knuckles]]
+i(119397);		--[[Gnarled Goren Jaw]]
+i(119719);		--[[Streamtalker Claws]]
+i(119729);		--[[Streamtalker Talons]]
+i(119745);		--[[Streamtalker Slicers]]
+i(120055);		--[[Primal Combatant's Ripper]]
+i(120071);		--[[Primal Combatant's Render]]
+i(120340);		--[[Son of the Beast's Bloody Paw]]
+i(122090);		--[[Stormseeker Claws]]
+i(122091);		--[[Stormseeker Talons]]
+i(122092);		--[[Stormseeker Slicers]]
+i(122396);		--[[Brawler's Razor Claws]]
+i(123994);		--[[Demonblood Eviscerator]]
+i(124030);		--[[The Bladefist]]
+i(124368);		--[[Demonblade Eviscerator]]
+i(124369);		--[[Mindscythe of the Legion]]
+i(124677);		--[[Wild Gladiator's Ripper]]
+i(124838);		--[[Wild Gladiator's Render]]
+i(124887);		--[[Wild Combatant's Ripper]]
+i(125016);		--[[Wild Combatant's Render]]
+i(125156);		--[[Wild Gladiator's Ripper]]
+i(125317);		--[[Wild Gladiator's Render]]
+i(125364);		--[[Wild Combatant's Ripper]]
+i(125493);		--[[Wild Combatant's Render]]
+i(125762);		--[[Wild Gladiator's Ripper]]
+i(125763);		--[[Wild Gladiator's Render]]
+i(125791);		--[[Warmongering Gladiator's Ripper]]
+i(125952);		--[[Warmongering Gladiator's Render]]
+i(126001);		--[[Warmongering Combatant's Ripper]]
+i(126130);		--[[Warmongering Combatant's Render]]
+i(126270);		--[[Warmongering Gladiator's Ripper]]
+i(126431);		--[[Warmongering Gladiator's Render]]
+i(126478);		--[[Warmongering Combatant's Ripper]]
+i(126607);		--[[Warmongering Combatant's Render]]
+i(126876);		--[[Warmongering Gladiator's Ripper]]
+i(126877);		--[[Warmongering Gladiator's Render]]
+i(127159);		--[[Reflex Blades]]
+i(127219);		--[[Creepjacker]]
+i(127329);		--[[Element-Infused Knuckles]]
+i(127330);		--[[The Black Fang]]
+i(127543);		--[[Fist of the Deity]]
+i(127574);		--[[Drakonid Arm Blade]]
+i(128202);		--[[Ironblade Knuckles]]
+i(128821);		--[[Claws of Ursoc]]
+i(128935);		--[[The Fist of Ra-den]]
+i(128940);		--[[Fists of the Heavens]]
+i(129620);		--[[Streamtalker Claws]]
+i(129630);		--[[Streamtalker Talons]]
+i(129646);		--[[Streamtalker Slicers]]
+i(129856);		--[[Vanir's Fist of Brutality]]
+i(133207);		--[[Fist of Pained Senses]]
+i(134719);		--[[Cold-Touched Ripper]]
+i(134780);		--[[Seasoned Ripper]]
+i(140543);		--[[Fist of the Broken Temple]]
+i(140706);		--[[Stormshaper's Claws]]
+i(140707);		--[[Talons of Totemic Might]]
+i(140708);		--[[Earthmender's Talons]]
+i(142343);		--[[Kinetic Ripper]]
+i(144148);		--[[Claws of Gekkan]]
+i(144171);		--[[Ner'onok's Razor Katar]]
+i(144215);		--[[Ka'eng, Breath of the Shadow]]
+i(150428);		--[[Eskhandar's Left Claw]]
+i(150601);		--[[Stormshaper's Claws]]
+i(150602);		--[[Talons of Totemic Might]]
+i(150603);		--[[Earthmender's Talons]]
+i(153404);		--[[Scalawag's Spikefist]]
+i(153973);		--[[Streamtalker Claws]]
+i(153983);		--[[Streamtalker Talons]]
+i(153999);		--[[Streamtalker Slicers]]
+i(154160);		--[[Shimmerscale Striker]]
+i(154161);		--[[Coarse Leather Cestus]]
+i(154162);		--[[Mistscale Knuckles]]
+i(154163);		--[[Hardened Tempest Knuckles]]
+i(154315);		--[[Rusty Steelclaw]]
+i(154975);		--[[Scalebeast Claws]]
+i(155062);		--[[Stoat-Trapper's Spikefist]]
+i(155208);		--[[Stormfused Striker]]
+i(155425);		--[[Barbthorn Queen's Stinger]]
+i(155427);		--[[Soulwrenching Claws]]
+i(155677);		--[[JKL - SQL TEST]]
+i(155933);		--[[Golden Saronite Dragon]]
+i(156014);		--[[Kinetic Ripper]]
+i(156171);		--[[The Masticator]]
+i(156206);		--[[Insanity's Grip]]
+i(156211);		--[[Delirium's Touch]]
+i(157005);		--[[Stout Fist]]
+i(157549);		--[[Vibro Knuckles]]
+i(157613);		--[[Geomancy Slicer]]
+i(157638);		--[[Lightning-Binder's Claws]]
+i(157639);		--[[Spiritbreaker Talons]]
+i(157640);		--[[Raincaller's Talons]]
+i(158087);		--[[Gol Osigr Handblade]]
+i(158088);		--[[Wintersail Striker]]
+i(158089);		--[[Deepwarden Fangs]]
+i(158116);		--[[Bonehex Claws]]
+i(158117);		--[[Salt Coast Knuckles]]
+i(158118);		--[[Razorbone Claws]]
+i(158507);		--[[Scalawag's Spikefist]]
+i(158566);		--[[Scalebeast Claws]]
+i(159084);		--[[Handscythe of the First City]]
+i(159099);		--[[Pa'ku Adherent's Talons]]
+i(159509);		--[[Gnarlwood Spikes]]
+i(159511);		--[[Wavecaller Fists]]
+i(159514);		--[[Rivermarsh Claws]]
+i(159515);		--[[Warport Knuckles]]
+i(159516);		--[[Golden Fleet Fists]]
+i(159517);		--[[Zocali Claws]]
+i(159653);		--[[Bile-Stained Crawg Tusks]]
+i(159659);		--[[Sinister Wicker Talons]]
+i(159894);		--[[Honorable Combatant's Striker]]
+i(159895);		--[[Honorable Combatant's Cestus]]
+i(160269);		--[[Soulrending Claw]]
+i(160693);		--[[Lancet of the Deft Hand]]
+i(160938);		--[[Bent Punching Blade]]
+i(160956);		--[[Hazaak's Windshorn Claws]]
+i(161193);		--[[Sethrak Ravager's Claws]]
+i(161299);		--[[Stoat-Trapper's Bladefist]]
+i(161300);		--[[Stoat-Trapper's Striker]]
+i(161599);		--[[Mechano-Cat Claw]]
+i(161969);		--[[Shimmerscale Striker]]
+i(161970);		--[[Coarse Leather Cestus]]
+i(161971);		--[[Mistscale Knuckles]]
+i(161972);		--[[Hardened Tempest Knuckles]]
+i(161973);		--[[Honorable Combatant's Striker]]
+i(161974);		--[[Honorable Combatant's Cestus]]
+i(163002);		--[[Earthpyre Talons]]
+i(163003);		--[[Earthpyre Fangs]]
+i(163004);		--[[Earthpyre Claws]]
+i(163925);		--[[Old Jon's Left Hand]]
+i(163926);		--[[Rusty Captain's Hook]]
+i(163927);		--[[Brinebeard's Shanker]]
+i(164320);		--[[Plundered Bear-Carved Fists]]
+i(164331);		--[[Plundered Coral-Scale Claw]]
+i(164332);		--[[Plundered Drillbore Fists]]
+i(164356);		--[[Plundered Twinscale Handblade]]
+i(165269);		--[[Fallback Weapon - Fist]]
+i(165588);		--[[Bonelash Paw]]
+i(168276);		--[[Claw of the Myrmidon]]
+i(168893);		--[[Hatchery Scraper]]
+i(170090);		--[[Merciless Pincher]]
+i(170115);		--[[Massive Viridian Claw]]
+i(170125);		--[[Behemoth Claw of the Abyss]]
+i(170724);		--[[Streamtalker Claws]]
+i(170726);		--[[Streamtalker Talons]]
+i(170734);		--[[Streamtalker Slicers]]
+i(171160);		--[[Notorious Gladiator's Claw]]
+i(171161);		--[[Notorious Gladiator's Claw]]
+i(171191);		--[[Owen Test]]
+i(171578);		--[[Pugius, Fist of Defiance]]
+i(172197);		--[[Unguent Caress]]
+i(172348);		--[[Desolate Leather Cestus]]
+i(172349);		--[[Bone Bound Knuckles]]
+i(172778);		--[[Corrupted Gladiator's Claw]]
+i(172779);		--[[Corrupted Gladiator's Claw]]
+i(173558);		--[[Stormshaper's Claws]]
+i(173559);		--[[Talons of Totemic Might]]
+i(173560);		--[[Earthmender's Talons]]
+i(173932);		--[[Ardenweald Covenant Fist Weapon]]
+i(174012);		--[[Corrupted Aspirant's Claw]]
+i(174013);		--[[Corrupted Aspirant's Claw]]
+i(176336);		--[[Guidenote Grip]]
+i(176798);		--[[Larion Claw]]
+i(177416);		--[[Streamtalker Claws]]
+i(177418);		--[[Streamtalker Talons]]
+i(179488);		--[[Cloudtail's Paw]]
+i(179572);		--[[Ardenweald Covenant Fist Weapon]]
+i(179573);		--[[Ardenweald Covenant Fist Weapon]]
+i(179574);		--[[Ardenweald Covenant Fist Weapon]]
+i(179575);		--[[Ardenweald Covenant Fist Weapon]]
+i(179576);		--[[Ardenweald Covenant Fist Weapon]]
+i(179577);		--[[Stonesnap Mandibles]]
+i(179578);		--[[Sinful Gladiator's Jaws]]
+i(179579);		--[[Jaws of the Hungerer]]
+i(179580);		--[[Jaws of the Wild Hunt]]
+i(179581);		--[[Night Courtier's Jaws]]
+i(179582);		--[[Winterborn Jaws]]
+i(181143);		--[[Claw of the Stoneborn Executioner]]
+i(181230);		--[[Pugilist's Chakram]]
+i(181632);		--[[Requiem Handscythes]]
+i(182371);		--[[Claws of the Court's Sentinels]]
+i(182390);		--[[Talons of the Legion Generals]]
+i(182403);		--[[Sinful Gladiator's Gargoyle Claw]]
+i(182416);		--[[Claws of the Stone Generals]]
+i(182429);		--[[Claw of the Gilded Stoneborn]]
+i(183609);		--[[Re-Powered Golliath Fists]]
+i(183678);		--[[Keleseth's Influencer]]
+i(184467);		--[[Doubt Tinged Grip]]
+i(184528);		--[[Elysian Guillotine Claws]]
+i(184799);		--[[Wolf-Fanged Fist]]

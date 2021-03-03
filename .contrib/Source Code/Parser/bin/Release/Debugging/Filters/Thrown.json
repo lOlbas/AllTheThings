@@ -1,0 +1,2626 @@
+{
+	i(25861, { -- Crude Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(25872, { -- Balanced Throwing Dagger
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 4,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			2
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(25873, { -- Keen Throwing Knife
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 9,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			5
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(25874, { -- Large Throwing Knife
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 12,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			7
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(25875, { -- Deadly Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 17,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			10
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(25876, { -- Gleaming Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 22,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			15
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(25877, { -- Master's Throwing Dagger
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(25878, { -- Dusksteel Throwing Knife
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(27631, { -- Needle Shrike
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(27916, { -- Sethekk Feather-Darts
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(27928, { -- Terminal Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(27929, { -- Terminal Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28258, { -- Nethershrike
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28319, { -- Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28408, { -- Broken Silver Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28531, { -- Barbed Shrike
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			24
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28532, { -- Silver Throwing Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			24
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28533, { -- Wooden Boomerang
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			24
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28534, { -- Fel Tipped Dart
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28535, { -- Amani Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28536, { -- Jagged Guillotine
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28537, { -- Wildhammer Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28538, { -- Forked Shuriken
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28539, { -- Razor-Edged Boomerang
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28540, { -- Arakkoa Talon-Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28541, { -- Sawshrike
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28542, { -- Heartseeker Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28543, { -- Dreghood Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28544, { -- Assassin's Shuriken
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28659, { -- Xavian Stiletto
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28826, { -- Shuriken of Negation
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28972, { -- Flightblade Throwing Axe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			23
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(28979, { -- Light Throwing Knife
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29007, { -- Weighted Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 4,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			2
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29008, { -- Sharp Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 9,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			5
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29009, { -- Heavy Throwing Dagger
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 17,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			10
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29010, { -- Wicked Throwing Dagger
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 22,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			15
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29013, { -- Jagged Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 28,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			21
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29014, { -- Blacksteel Throwing Dagger
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 28,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			21
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29201, { -- Thick Bronze Darts
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 12,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			7
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29202, { -- Whirling Steel Axes
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 22,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			15
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29203, { -- Enchanted Thorium Blades
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			23
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29204, { -- Felsteel Whisper Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29210, { -- Assassin's Throwing Axe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			24
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29211, { -- Fitz's Throwing Axe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29212, { -- Balanced Stone Dirk
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 30,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(29584, { -- Throat Piercers
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			7
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(30025, { -- Serpentshrine Shuriken
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(30227, { -- Mark V's Throwing Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(30568, { -- The Sharp Cookie
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(30599, { -- Avenging Blades
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(32054, { -- Merciless Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(32326, { -- Twisted Blades of Zarak
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(32378, { -- Silver Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+		["u"] = 2,
+	}),
+	i(32832, { -- Scout's Throwing Knives
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(33765, { -- Vengeful Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(34349, { -- Blade of Life's Inevitability
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(34419, { -- Thorium Flight Blade
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 26,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+		["u"] = 2,
+	}),
+	i(34603, { -- Distracting Blades
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(34622, { -- Spinesever
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 31,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(34783, { -- Nightstrike
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(35108, { -- Brutal Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(35845, { -- Crystalline Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36711, { -- Forsaken Edge
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			26
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36712, { -- Howling Throwing Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36713, { -- Reaching Star
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36714, { -- Tuskarr's Piercers
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36715, { -- Runed Shuriken
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36716, { -- Threatening Darts
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36717, { -- Venture Co. Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36718, { -- Nexus Shrike
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36719, { -- Hunter's Scout
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36720, { -- Flying Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36721, { -- Dragon's Teeth
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36722, { -- Pyramid Throwing Star
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36723, { -- Clawed Shuriken
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36724, { -- Frozen Throwing Blades
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(36981, { -- Hardened Vrykul Throwing Axe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(37028, { -- Condor-Bone Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(37410, { -- Tracker's Balanced Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(38167, { -- DB21 Thrown
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ilvl"] = 85,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(38192, { -- DB55 Thrown2
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ilvl"] = 85,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(38357, { -- Sharpened Throwing Gizmo
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(39138, { -- Deadly Razordarts
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(39490, { -- Dorian's Prybar
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(39995, { -- Tuskarr Javelin
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(40007, { -- Forsaken Throwing Knife
+		["class"] = 2,
+		["equippable"] = false,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 24,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(40190, { -- Spinning Fate
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(40716, { -- Lillehoff's Winged Blades
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(41241, { -- Sure-Fire Shuriken
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 33,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			28
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(41245, { -- Deadly Saronite Dirk
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(42444, { -- Savage Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(42449, { -- Hateful Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(42450, { -- Deadly Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(42451, { -- Furious Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(42483, { -- Relentless Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(42863, { -- Sharpened Hyldnir Harpoon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(43187, { -- Weighted Throwing Axe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(43188, { -- Razor-Sharp Ice Shards
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(43612, { -- Spineslicer
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(43900, { -- Fleshwerk Throwing Glaive
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 34,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(44118, { -- Stolen Vrykul Harpoon
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(44644, { -- Dalaran Dart
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 29,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(45086, { -- Rising Sun
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(45296, { -- Twirling Blades
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(47659, { -- Crimson Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(47660, { -- Blades of the Sable Cross
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(49257, { -- Seashell Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(49258, { -- Light Throwing Tusk
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(50169, { -- Papa's Brand New Knife
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(50474, { -- Shrapnel Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(50999, { -- Gluth's Fetching Knife
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(51535, { -- Wrathful Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(51880, { -- Gluth's Fetching Knife
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55470, { -- Razorwind Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55471, { -- Steelspark Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55472, { -- Angerfang Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			29
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55473, { -- Nethergarde Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55474, { -- Splinterspear Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55475, { -- Mardenholde Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			31
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55476, { -- Bladefist Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			31
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55477, { -- Irontree Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(55478, { -- Rustmaul Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(56001, { -- Slashing Thorns
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			31
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(56420, { -- Slashing Thorns
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(57311, { -- Firetail Dart
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(57441, { -- Shutter Uppers
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 18,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(58987, { -- UNUSED - Sneaky Devil's Throwing Knives
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 6,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(59392, { -- Rogue Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 28,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(59430, { -- Rogue Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 28,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(59631, { -- Beak of the Merciless One
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(59634, { -- Beak of the Merciless One
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(61347, { -- Vicious Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(61348, { -- Vicious Gladiator's Hatchet
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(61401, { -- Rigid Colossus Fragment
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(61602, { -- Ninja Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 20,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(63208, { -- Glassweb Spider Fangs
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(63795, { -- Garona's Spare Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(63798, { -- Winged Axe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 36,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(64551, { -- Winky's Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 26,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(64555, { -- Kibler's Fetch Toy
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 26,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(64759, { -- Bloodthirsty Gladiator's Hatchet
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(64871, { -- Bloodthirsty Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(65321, { -- Stars of Felwood
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 24,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(65695, { -- Sludge-Caked Throwing Knives
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 13,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(66010, { -- Star of the Fool
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(67228, { -- Jadrag's Slicers
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(67466, { -- Vicious Gladiator's Hatchet
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(67467, { -- Vicious Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(68162, { -- Spinerender
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(68608, { -- Dragonwreck Throwing Axe
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(69597, { -- Zulian Throwing Axe
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(70197, { -- Ruthless Gladiator's Hatchet
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(70198, { -- Ruthless Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(70232, { -- Ruthless Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(70233, { -- Ruthless Gladiator's Hatchet
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(71152, { -- Morningstar Shard
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(71154, { -- Giantslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(71218, { -- Deflecting Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(71568, { -- Morningstar Shard
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(71592, { -- Deflecting Star
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(71593, { -- Giantslicer
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(73357, { -- Shadowstalking Knives
+		["b"] = 1,
+		["c"] = {
+			4
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(73358, { -- Valiant Knives of Battle
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(73359, { -- Valiant Knives of Stoicism
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 35,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			30
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(73412, { -- Cataclysmic Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 38,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(73438, { -- Cataclysmic Gladiator's Hatchet
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 38,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(73445, { -- Cataclysmic Gladiator's War Edge
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(73471, { -- Cataclysmic Gladiator's Hatchet
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(76155, { -- Thorns of the Dying Day
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(77085, { -- Unexpected Backup
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(77086, { -- Windslicer Boomerang
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(77087, { -- Darting Chakram
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(77213, { -- Razor Saronite Chip
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(78369, { -- Razor Saronite Chip
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 38,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(78374, { -- Razor Saronite Chip
+		["b"] = 1,
+		["c"] = {
+			4
+		},
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(78636, { -- Unexpected Backup
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(78637, { -- Windslicer Boomerang
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(78638, { -- Darting Chakram
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(81999, { -- Polished Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			31
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(82053, { -- Bronzed Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(82108, { -- Barbarian Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 37,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			32
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(82163, { -- Rigid Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 38,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			33
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(82218, { -- Inlaid Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 38,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			33
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(82273, { -- Engraved Knives
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 38,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			34
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(108424, { -- Gronnstalker Korhol's Spear
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(150478, { -- Twisted Blades of Zarak
+		["b"] = 1,
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["ignoreSource"] = 1,
+		["ilvl"] = 32,
+		["inventoryType"] = 25,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 16,
+	}),
+	i(156850, { -- Monster - Throwing Spear, Troll
+		["class"] = 2,
+		["equippable"] = 1,
+		["f"] = 36,
+		["inventoryType"] = 25,
+		["q"] = 0,
+		["subclass"] = 16,
+	})
+}
+
+i(25861);		--[[Crude Throwing Axe]]
+i(25872);		--[[Balanced Throwing Dagger]]
+i(25873);		--[[Keen Throwing Knife]]
+i(25874);		--[[Large Throwing Knife]]
+i(25875);		--[[Deadly Throwing Axe]]
+i(25876);		--[[Gleaming Throwing Axe]]
+i(25877);		--[[Master's Throwing Dagger]]
+i(25878);		--[[Dusksteel Throwing Knife]]
+i(27631);		--[[Needle Shrike]]
+i(27916);		--[[Sethekk Feather-Darts]]
+i(27928);		--[[Terminal Edge]]
+i(27929);		--[[Terminal Edge]]
+i(28258);		--[[Nethershrike]]
+i(28319);		--[[Gladiator's War Edge]]
+i(28408);		--[[Broken Silver Star]]
+i(28531);		--[[Barbed Shrike]]
+i(28532);		--[[Silver Throwing Knives]]
+i(28533);		--[[Wooden Boomerang]]
+i(28534);		--[[Fel Tipped Dart]]
+i(28535);		--[[Amani Throwing Axe]]
+i(28536);		--[[Jagged Guillotine]]
+i(28537);		--[[Wildhammer Throwing Axe]]
+i(28538);		--[[Forked Shuriken]]
+i(28539);		--[[Razor-Edged Boomerang]]
+i(28540);		--[[Arakkoa Talon-Axe]]
+i(28541);		--[[Sawshrike]]
+i(28542);		--[[Heartseeker Knives]]
+i(28543);		--[[Dreghood Throwing Axe]]
+i(28544);		--[[Assassin's Shuriken]]
+i(28659);		--[[Xavian Stiletto]]
+i(28826);		--[[Shuriken of Negation]]
+i(28972);		--[[Flightblade Throwing Axe]]
+i(28979);		--[[Light Throwing Knife]]
+i(29007);		--[[Weighted Throwing Axe]]
+i(29008);		--[[Sharp Throwing Axe]]
+i(29009);		--[[Heavy Throwing Dagger]]
+i(29010);		--[[Wicked Throwing Dagger]]
+i(29013);		--[[Jagged Throwing Axe]]
+i(29014);		--[[Blacksteel Throwing Dagger]]
+i(29201);		--[[Thick Bronze Darts]]
+i(29202);		--[[Whirling Steel Axes]]
+i(29203);		--[[Enchanted Thorium Blades]]
+i(29204);		--[[Felsteel Whisper Knives]]
+i(29210);		--[[Assassin's Throwing Axe]]
+i(29211);		--[[Fitz's Throwing Axe]]
+i(29212);		--[[Balanced Stone Dirk]]
+i(29584);		--[[Throat Piercers]]
+i(30025);		--[[Serpentshrine Shuriken]]
+i(30227);		--[[Mark V's Throwing Star]]
+i(30568);		--[[The Sharp Cookie]]
+i(30599);		--[[Avenging Blades]]
+i(32054);		--[[Merciless Gladiator's War Edge]]
+i(32326);		--[[Twisted Blades of Zarak]]
+i(32378);		--[[Silver Star]]
+i(32832);		--[[Scout's Throwing Knives]]
+i(33765);		--[[Vengeful Gladiator's War Edge]]
+i(34349);		--[[Blade of Life's Inevitability]]
+i(34419);		--[[Thorium Flight Blade]]
+i(34603);		--[[Distracting Blades]]
+i(34622);		--[[Spinesever]]
+i(34783);		--[[Nightstrike]]
+i(35108);		--[[Brutal Gladiator's War Edge]]
+i(35845);		--[[Crystalline Star]]
+i(36711);		--[[Forsaken Edge]]
+i(36712);		--[[Howling Throwing Knives]]
+i(36713);		--[[Reaching Star]]
+i(36714);		--[[Tuskarr's Piercers]]
+i(36715);		--[[Runed Shuriken]]
+i(36716);		--[[Threatening Darts]]
+i(36717);		--[[Venture Co. Throwing Axe]]
+i(36718);		--[[Nexus Shrike]]
+i(36719);		--[[Hunter's Scout]]
+i(36720);		--[[Flying Knives]]
+i(36721);		--[[Dragon's Teeth]]
+i(36722);		--[[Pyramid Throwing Star]]
+i(36723);		--[[Clawed Shuriken]]
+i(36724);		--[[Frozen Throwing Blades]]
+i(36981);		--[[Hardened Vrykul Throwing Axe]]
+i(37028);		--[[Condor-Bone Star]]
+i(37410);		--[[Tracker's Balanced Knives]]
+i(38167);		--[[DB21 Thrown]]
+i(38192);		--[[DB55 Thrown2]]
+i(38357);		--[[Sharpened Throwing Gizmo]]
+i(39138);		--[[Deadly Razordarts]]
+i(39490);		--[[Dorian's Prybar]]
+i(39995);		--[[Tuskarr Javelin]]
+i(40007);		--[[Forsaken Throwing Knife]]
+i(40190);		--[[Spinning Fate]]
+i(40716);		--[[Lillehoff's Winged Blades]]
+i(41241);		--[[Sure-Fire Shuriken]]
+i(41245);		--[[Deadly Saronite Dirk]]
+i(42444);		--[[Savage Gladiator's War Edge]]
+i(42449);		--[[Hateful Gladiator's War Edge]]
+i(42450);		--[[Deadly Gladiator's War Edge]]
+i(42451);		--[[Furious Gladiator's War Edge]]
+i(42483);		--[[Relentless Gladiator's War Edge]]
+i(42863);		--[[Sharpened Hyldnir Harpoon]]
+i(43187);		--[[Weighted Throwing Axe]]
+i(43188);		--[[Razor-Sharp Ice Shards]]
+i(43612);		--[[Spineslicer]]
+i(43900);		--[[Fleshwerk Throwing Glaive]]
+i(44118);		--[[Stolen Vrykul Harpoon]]
+i(44644);		--[[Dalaran Dart]]
+i(45086);		--[[Rising Sun]]
+i(45296);		--[[Twirling Blades]]
+i(47659);		--[[Crimson Star]]
+i(47660);		--[[Blades of the Sable Cross]]
+i(49257);		--[[Seashell Throwing Axe]]
+i(49258);		--[[Light Throwing Tusk]]
+i(50169);		--[[Papa's Brand New Knife]]
+i(50474);		--[[Shrapnel Star]]
+i(50999);		--[[Gluth's Fetching Knife]]
+i(51535);		--[[Wrathful Gladiator's War Edge]]
+i(51880);		--[[Gluth's Fetching Knife]]
+i(55470);		--[[Razorwind Knives]]
+i(55471);		--[[Steelspark Knives]]
+i(55472);		--[[Angerfang Knives]]
+i(55473);		--[[Nethergarde Knives]]
+i(55474);		--[[Splinterspear Knives]]
+i(55475);		--[[Mardenholde Knives]]
+i(55476);		--[[Bladefist Knives]]
+i(55477);		--[[Irontree Knives]]
+i(55478);		--[[Rustmaul Knives]]
+i(56001);		--[[Slashing Thorns]]
+i(56420);		--[[Slashing Thorns]]
+i(57311);		--[[Firetail Dart]]
+i(57441);		--[[Shutter Uppers]]
+i(58987);		--[[UNUSED - Sneaky Devil's Throwing Knives]]
+i(59392);		--[[Rogue Star]]
+i(59430);		--[[Rogue Star]]
+i(59631);		--[[Beak of the Merciless One]]
+i(59634);		--[[Beak of the Merciless One]]
+i(61347);		--[[Vicious Gladiator's War Edge]]
+i(61348);		--[[Vicious Gladiator's Hatchet]]
+i(61401);		--[[Rigid Colossus Fragment]]
+i(61602);		--[[Ninja Star]]
+i(63208);		--[[Glassweb Spider Fangs]]
+i(63795);		--[[Garona's Spare Star]]
+i(63798);		--[[Winged Axe]]
+i(64551);		--[[Winky's Star]]
+i(64555);		--[[Kibler's Fetch Toy]]
+i(64759);		--[[Bloodthirsty Gladiator's Hatchet]]
+i(64871);		--[[Bloodthirsty Gladiator's War Edge]]
+i(65321);		--[[Stars of Felwood]]
+i(65695);		--[[Sludge-Caked Throwing Knives]]
+i(66010);		--[[Star of the Fool]]
+i(67228);		--[[Jadrag's Slicers]]
+i(67466);		--[[Vicious Gladiator's Hatchet]]
+i(67467);		--[[Vicious Gladiator's War Edge]]
+i(68162);		--[[Spinerender]]
+i(68608);		--[[Dragonwreck Throwing Axe]]
+i(69597);		--[[Zulian Throwing Axe]]
+i(70197);		--[[Ruthless Gladiator's Hatchet]]
+i(70198);		--[[Ruthless Gladiator's War Edge]]
+i(70232);		--[[Ruthless Gladiator's War Edge]]
+i(70233);		--[[Ruthless Gladiator's Hatchet]]
+i(71152);		--[[Morningstar Shard]]
+i(71154);		--[[Giantslicer]]
+i(71218);		--[[Deflecting Star]]
+i(71568);		--[[Morningstar Shard]]
+i(71592);		--[[Deflecting Star]]
+i(71593);		--[[Giantslicer]]
+i(73357);		--[[Shadowstalking Knives]]
+i(73358);		--[[Valiant Knives of Battle]]
+i(73359);		--[[Valiant Knives of Stoicism]]
+i(73412);		--[[Cataclysmic Gladiator's War Edge]]
+i(73438);		--[[Cataclysmic Gladiator's Hatchet]]
+i(73445);		--[[Cataclysmic Gladiator's War Edge]]
+i(73471);		--[[Cataclysmic Gladiator's Hatchet]]
+i(76155);		--[[Thorns of the Dying Day]]
+i(77085);		--[[Unexpected Backup]]
+i(77086);		--[[Windslicer Boomerang]]
+i(77087);		--[[Darting Chakram]]
+i(77213);		--[[Razor Saronite Chip]]
+i(78369);		--[[Razor Saronite Chip]]
+i(78374);		--[[Razor Saronite Chip]]
+i(78636);		--[[Unexpected Backup]]
+i(78637);		--[[Windslicer Boomerang]]
+i(78638);		--[[Darting Chakram]]
+i(81999);		--[[Polished Knives]]
+i(82053);		--[[Bronzed Knives]]
+i(82108);		--[[Barbarian Knives]]
+i(82163);		--[[Rigid Knives]]
+i(82218);		--[[Inlaid Knives]]
+i(82273);		--[[Engraved Knives]]
+i(108424);		--[[Gronnstalker Korhol's Spear]]
+i(150478);		--[[Twisted Blades of Zarak]]
+i(156850);		--[[Monster - Throwing Spear, Troll]]

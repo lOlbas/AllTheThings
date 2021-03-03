@@ -1,0 +1,187 @@
+{
+	i(154, { -- Primitive Mantle
+		["b"] = 2,
+		["class"] = 4,
+		["description"] = "Former starter shirt for Orc & Tauren Shamans",
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[0] = 50,
+			[1] = 50,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(23351, { -- Battleworn Shirt
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 9217,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(23470, { -- Rugged Trapper's Shirt
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 9290,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(46103, { -- Shirt of Titanic Scaling
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["ilvl"] = 100,
+		["inventoryType"] = 4,
+		["q"] = 1,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(49402, { -- Gilnean Apprentice's Shirt
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 24123,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(49405, { -- Gilnean Neophyte's Shirt
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 24126,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(49410, { -- Gilnean Acolyte's Shirt
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 24131,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(49414, { -- Gilnean Acolyte's Shirt
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 24135,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(49418, { -- Gilnean Apprentice's Shirt
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 24139,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(49422, { -- Gilnean Neophyte's Shirt
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 24143,
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(54331, { -- Black Velvet Chest
+		["b"] = 2,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["ilvl"] = 26,
+		["inventoryType"] = 4,
+		["lvl"] = 21,
+		["modIDs"] = {
+			[1] = 26427,
+		},
+		["q"] = 3,
+		["subclass"] = 1,
+		["u"] = 1,
+	}),
+	i(55047, { -- Shirt of No Criticals
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["inventoryType"] = 4,
+		["modIDs"] = {
+			[1] = 26812,
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(137552, { -- Purple Shirt
+		["b"] = 1,
+		["class"] = 4,
+		["equippable"] = 1,
+		["f"] = 10,
+		["ilvl"] = 47,
+		["inventoryType"] = 4,
+		["lvl"] = 42,
+		["modIDs"] = {
+			[1] = 79109,
+		},
+		["q"] = 0,
+		["subclass"] = 2,
+		["u"] = 1,
+	})
+}
+
+i(154);		--[[Primitive Mantle]]
+i(23351);		--[[Battleworn Shirt]]
+i(23470);		--[[Rugged Trapper's Shirt]]
+i(46103);		--[[Shirt of Titanic Scaling]]
+i(49402);		--[[Gilnean Apprentice's Shirt]]
+i(49405);		--[[Gilnean Neophyte's Shirt]]
+i(49410);		--[[Gilnean Acolyte's Shirt]]
+i(49414);		--[[Gilnean Acolyte's Shirt]]
+i(49418);		--[[Gilnean Apprentice's Shirt]]
+i(49422);		--[[Gilnean Neophyte's Shirt]]
+i(54331);		--[[Black Velvet Chest]]
+i(55047);		--[[Shirt of No Criticals]]
+i(137552);		--[[Purple Shirt]]

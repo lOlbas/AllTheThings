@@ -1,0 +1,6338 @@
+{
+	i(913, {
+		["u"] = 1,
+	}),
+	i(1166, {
+
+	}),
+	i(3738, {
+		["u"] = 1,
+	}),
+	i(4989, {
+		["u"] = 1,
+	}),
+	i(5008, {
+		["u"] = 2,
+	}),
+	i(5126, {
+		["u"] = 1,
+	}),
+	i(5127, {
+		["u"] = 1,
+	}),
+	i(5129, {
+		["u"] = 1,
+	}),
+	i(5130, {
+		["u"] = 1,
+	}),
+	i(5131, {
+		["u"] = 1,
+	}),
+	i(5132, {
+		["u"] = 1,
+	}),
+	i(5821, {
+		["u"] = 1,
+	}),
+	i(5822, {
+		["u"] = 1,
+	}),
+	i(6478, {
+		["u"] = 1,
+	}),
+	i(6644, {
+		["requireSkill"] = 356,
+	}),
+	i(6646, {
+		["requireSkill"] = 356,
+	}),
+	i(7948, {
+		["u"] = 1,
+	}),
+	i(7949, {
+		["u"] = 1,
+	}),
+	i(7950, {
+		["u"] = 1,
+	}),
+	i(7951, {
+		["u"] = 1,
+	}),
+	i(7952, {
+		["u"] = 1,
+	}),
+	i(7953, {
+		["u"] = 1,
+	}),
+	i(8627, {
+		["u"] = 1,
+	}),
+	i(11000, {
+
+	}),
+	i(12104, {
+		["u"] = 1,
+	}),
+	i(12105, {
+		["u"] = 1,
+	}),
+	i(12106, {
+		["u"] = 1,
+	}),
+	i(12107, {
+		["u"] = 1,
+	}),
+	i(12469, {
+		["u"] = 1,
+	}),
+	i(12615, {
+		["u"] = 1,
+	}),
+	i(12616, {
+		["u"] = 1,
+	}),
+	i(12617, {
+		["u"] = 1,
+	}),
+	i(13080, {
+		["u"] = 1,
+	}),
+	i(13090, {
+		["u"] = 1,
+	}),
+	i(13522, {
+		["u"] = 2,
+	}),
+	i(14062, {
+,		["races"] = HORDE_ONLY,
+		["races"] = {
+			2,
+			5,
+			6,
+			8,
+			9,
+			10,
+			26,
+			27,
+			28,
+			31,
+			35,
+			36
+		},
+		["u"] = 1,
+	}),
+	i(14550, {
+		["u"] = 1,
+	}),
+	i(16776, {
+
+	}),
+	i(17155, {
+		["u"] = 36,
+	}),
+	i(19986, {
+		["u"] = 1,
+	}),
+	i(20003, {
+		["u"] = 1,
+	}),
+	i(20005, {
+		["u"] = 1,
+	}),
+	i(20502, {
+		["u"] = 1,
+	}),
+	i(20522, {
+		["u"] = 1,
+	}),
+	i(20524, {
+		["u"] = 1,
+	}),
+	i(20558, { -- Warsong Gulch Mark of Honor
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(20559, { -- Arathi Basin Mark of Honor
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(20560, { -- Alterac Valley Mark of Honor
+		["b"] = 1,
+		["class"] = 10,
+		["equippable"] = false,
+		["f"] = 0,
+		["inventoryType"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(20706, {
+		["u"] = 2,
+	}),
+	i(21584, {
+		["u"] = 1,
+	}),
+	i(21587, {
+		["u"] = 1,
+	}),
+	i(21588, {
+		["u"] = 1,
+	}),
+	i(21612, {
+		["u"] = 1,
+	}),
+	i(21613, {
+		["u"] = 1,
+	}),
+	i(21614, {
+		["u"] = 1,
+	}),
+	i(22230, {
+		["u"] = 1,
+	}),
+	i(22273, {
+		["u"] = 1,
+	}),
+	i(23420, {
+		["u"] = 1,
+	}),
+	i(23422, {
+		["u"] = 1,
+	}),
+	i(23432, {
+		["u"] = 1,
+	}),
+	i(24507, { -- Elemental Shard
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(26015, {
+		["u"] = 1,
+	}),
+	i(26029, {
+		["u"] = 1,
+	}),
+	i(27718, {
+		["u"] = 1,
+	}),
+	i(27719, {
+		["u"] = 1,
+	}),
+	i(27720, {
+		["u"] = 1,
+	}),
+	i(28145, {
+		["u"] = 1,
+	}),
+	i(28276, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(29024, { -- Eye of the Storm Mark of Honor
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(29434, { -- Badge of Justice
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["ilvl"] = 27,
+		["lvl"] = {
+			27
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(30287, {
+		["u"] = 1,
+	}),
+	i(30288, {
+		["u"] = 1,
+	}),
+	i(30289, {
+		["u"] = 1,
+	}),
+	i(32180, {
+		["u"] = 1,
+	}),
+	i(32186, {
+		["u"] = 1,
+	}),
+	i(32187, {
+		["u"] = 1,
+	}),
+	i(32192, {
+		["u"] = 1,
+	}),
+	i(32482, {
+		["u"] = 1,
+	}),
+	i(34138, {
+		["u"] = 1,
+	}),
+	i(34139, {
+		["u"] = 1,
+	}),
+	i(34144, {
+		["u"] = 1,
+	}),
+	i(34145, {
+		["u"] = 1,
+	}),
+	i(34146, {
+		["u"] = 1,
+	}),
+	i(34147, {
+		["u"] = 1,
+	}),
+	i(34148, {
+		["u"] = 1,
+	}),
+	i(34149, {
+		["u"] = 1,
+	}),
+	i(34415, {
+		["u"] = 1,
+	}),
+	i(35876, {
+		["u"] = 1,
+	}),
+	i(37210, {
+		["u"] = 1,
+	}),
+	i(37225, {
+		["u"] = 1,
+	}),
+	i(37273, {
+		["u"] = 1,
+	}),
+	i(37295, {
+		["u"] = 1,
+	}),
+	i(37311, { -- Skybreaker Whip
+		["b"] = 1,
+		["class"] = 4,
+		["f"] = 0,
+		["ilvl"] = 24,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(37312, { -- Carrot on a Stick
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 21,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(37313, { -- Riding Crop
+		["b"] = 1,
+		["class"] = 4,
+		["f"] = 0,
+		["ilvl"] = 24,
+		["lvl"] = {
+			27
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(37330, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(37331, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(37332, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(37334, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(37385, {
+		["u"] = 1,
+	}),
+	i(37386, {
+		["u"] = 1,
+	}),
+	i(37400, {
+		["u"] = 1,
+	}),
+	i(37420, {
+		["u"] = 1,
+	}),
+	i(37433, {
+		["u"] = 1,
+	}),
+	i(37444, {
+		["u"] = 1,
+	}),
+	i(37477, {
+		["u"] = 1,
+	}),
+	i(37485, {
+		["u"] = 1,
+	}),
+	i(37510, {
+		["u"] = 1,
+	}),
+	i(37511, {
+		["u"] = 1,
+	}),
+	i(37836, { -- Venture Coin
+		["b"] = 1,
+		["class"] = 10,
+		["equippable"] = false,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 0,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(38243, {
+		["u"] = 1,
+	}),
+	i(38244, {
+		["u"] = 1,
+	}),
+	i(38245, {
+		["u"] = 1,
+	}),
+	i(38246, {
+		["u"] = 1,
+	}),
+	i(38247, {
+		["u"] = 1,
+	}),
+	i(38248, {
+		["u"] = 1,
+	}),
+	i(38387, {
+		["u"] = 1,
+	}),
+	i(38388, {
+		["u"] = 1,
+	}),
+	i(38389, {
+		["u"] = 1,
+	}),
+	i(38390, {
+		["u"] = 1,
+	}),
+	i(38468, {
+		["u"] = 1,
+	}),
+	i(38525, {
+		["u"] = 1,
+	}),
+	i(38527, {
+		["u"] = 1,
+	}),
+	i(39364, {
+		["u"] = 1,
+	}),
+	i(39410, {
+		["u"] = 1,
+	}),
+	i(39440, {
+		["u"] = 1,
+	}),
+	i(39460, {
+		["u"] = 1,
+	}),
+	i(39707, {
+		["u"] = 1,
+	}),
+	i(39828, {
+		["u"] = 1,
+	}),
+	i(40752, { -- Emblem of Heroism
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["ilvl"] = 30,
+		["lvl"] = {
+			30
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(40753, { -- Emblem of Valor
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["ilvl"] = 30,
+		["lvl"] = {
+			30
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(41596, { -- Dalaran Jewelcrafter's Token
+		["b"] = 1,
+		["class"] = 10,
+		["equippable"] = false,
+		["f"] = 0,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(41757, {
+		["u"] = 1,
+	}),
+	i(41758, {
+		["u"] = 1,
+	}),
+	i(41759, {
+		["u"] = 1,
+	}),
+	i(42425, { -- Strand of the Ancients Mark of Honor
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(42875, {
+		["u"] = 1,
+	}),
+	i(42885, {
+		["u"] = 1,
+	}),
+	i(42886, {
+		["u"] = 1,
+	}),
+	i(43016, { -- Dalaran Cooking Award
+		["b"] = 1,
+		["class"] = 10,
+		["equippable"] = false,
+		["f"] = 0,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(43228, { -- Stone Keeper's Shard
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(43308, { -- Honor Points
+		["b"] = 1,
+		["class"] = 10,
+		["equippable"] = false,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(43460, {
+		["u"] = 1,
+	}),
+	i(43475, {
+		["u"] = 1,
+	}),
+	i(43589, { -- Wintergrasp Mark of Honor
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(43848, {
+		["u"] = 1,
+	}),
+	i(43878, {
+		["u"] = 1,
+	}),
+	i(43895, {
+		["u"] = 1,
+	}),
+	i(43922, {
+		["u"] = 1,
+	}),
+	i(43936, {
+		["u"] = 1,
+	}),
+	i(43938, {
+		["u"] = 1,
+	}),
+	i(44559, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(44560, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(44561, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(44563, {
+		["spellID"] = 0,
+		["u"] = 2,
+	}),
+	i(44990, { -- Champion's Seal
+		["b"] = 1,
+		["class"] = 10,
+		["equippable"] = false,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 0,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(45624, { -- Emblem of Conquest
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["ilvl"] = 30,
+		["lvl"] = {
+			30
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(45629, {
+		["u"] = 1,
+	}),
+	i(47241, { -- Emblem of Triumph
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["ilvl"] = 30,
+		["lvl"] = {
+			30
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(47395, { -- Isle of Conquest Mark of Honor
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(48945, {
+		["u"] = 1,
+	}),
+	i(49426, { -- Emblem of Frost
+		["b"] = 1,
+		["class"] = 10,
+		["f"] = 0,
+		["ilvl"] = 30,
+		["lvl"] = {
+			30
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(49547, {
+		["u"] = 1,
+	}),
+	i(52446, { -- Illustrious Jewelcrafter's Token
+		["b"] = 1,
+		["class"] = 10,
+		["equippable"] = false,
+		["f"] = 0,
+		["ilvl"] = 32,
+		["inventoryType"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(52488, {
+		["f"] = 0,
+		["modIDs"] = {
+			[1] = 25732,
+		},
+		["u"] = 1,
+	}),
+	i(53879, {
+		["u"] = 1,
+	}),
+	i(53880, {
+		["u"] = 1,
+	}),
+	i(54542, {
+		["u"] = 1,
+	}),
+	i(54543, {
+		["u"] = 1,
+	}),
+	i(54544, {
+		["u"] = 1,
+	}),
+	i(54549, {
+		["u"] = 1,
+	}),
+	i(54550, {
+		["u"] = 1,
+	}),
+	i(54551, {
+		["u"] = 1,
+	}),
+	i(54552, {
+		["u"] = 1,
+	}),
+	i(54553, {
+		["u"] = 1,
+	}),
+	i(54554, {
+		["u"] = 1,
+	}),
+	i(54655, {
+		["u"] = 1,
+	}),
+	i(54666, {
+		["u"] = 1,
+	}),
+	i(54674, {
+		["u"] = 1,
+	}),
+	i(54683, {
+		["u"] = 1,
+	}),
+	i(54698, {
+		["u"] = 1,
+	}),
+	i(54703, {
+		["u"] = 1,
+	}),
+	i(54708, {
+		["u"] = 1,
+	}),
+	i(54724, {
+		["u"] = 1,
+	}),
+	i(54725, {
+		["u"] = 1,
+	}),
+	i(54727, {
+		["u"] = 1,
+	}),
+	i(54789, {
+		["u"] = 1,
+	}),
+	i(54977, {
+		["u"] = 1,
+	}),
+	i(56405, {
+		["u"] = 1,
+	}),
+	i(56485, {
+		["u"] = 1,
+	}),
+	i(56486, {
+		["u"] = 1,
+	}),
+	i(56487, {
+		["u"] = 1,
+	}),
+	i(56488, {
+		["u"] = 1,
+	}),
+	i(56492, {
+		["u"] = 1,
+	}),
+	i(56493, {
+		["u"] = 1,
+	}),
+	i(56496, {
+		["u"] = 1,
+	}),
+	i(56497, {
+		["u"] = 1,
+	}),
+	i(56500, {
+		["u"] = 1,
+	}),
+	i(56501, {
+		["u"] = 1,
+	}),
+	i(56506, {
+		["u"] = 1,
+	}),
+	i(56507, {
+		["u"] = 1,
+	}),
+	i(56510, {
+		["u"] = 1,
+	}),
+	i(56514, {
+		["u"] = 1,
+	}),
+	i(57528, {
+		["u"] = 1,
+	}),
+	i(59768, {
+		["u"] = 1,
+	}),
+	i(59772, {
+		["u"] = 1,
+	}),
+	i(60728, {
+		["u"] = 1,
+	}),
+	i(62898, { -- Tol Barad Commendation
+		["b"] = 1,
+		["class"] = 10,
+		["equippable"] = false,
+		["f"] = 0,
+		["ilvl"] = 30,
+		["inventoryType"] = 0,
+		["lvl"] = 30,
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(65743, {
+		["u"] = 1,
+	}),
+	i(65744, {
+		["u"] = 1,
+	}),
+	i(65746, {
+		["u"] = 1,
+	}),
+	i(65815, {
+		["u"] = 1,
+	}),
+	i(67001, {
+		["u"] = 1,
+	}),
+	i(67002, {
+		["u"] = 1,
+	}),
+	i(67003, {
+		["u"] = 1,
+	}),
+	i(67004, {
+		["u"] = 1,
+	}),
+	i(67008, {
+		["u"] = 1,
+	}),
+	i(67009, {
+		["u"] = 1,
+	}),
+	i(67012, {
+		["u"] = 1,
+	}),
+	i(67013, {
+		["u"] = 1,
+	}),
+	i(67016, {
+		["u"] = 1,
+	}),
+	i(67017, {
+		["u"] = 1,
+	}),
+	i(67022, {
+		["u"] = 1,
+	}),
+	i(67023, {
+		["u"] = 1,
+	}),
+	i(67028, {
+		["u"] = 1,
+	}),
+	i(67030, {
+		["u"] = 1,
+	}),
+	i(67034, {
+		["u"] = 1,
+	}),
+	i(67035, {
+		["u"] = 1,
+	}),
+	i(67600, {
+		["u"] = 1,
+	}),
+	i(68844, {
+		["u"] = 1,
+	}),
+	i(69856, { -- Test Item
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(84895, {
+		["u"] = 1,
+	}),
+	i(84897, {
+		["f"] = 0,
+		["modIDs"] = {
+			[1] = 43355,
+		},
+		["u"] = 1,
+	}),
+	i(85118, {
+		["u"] = 1,
+	}),
+	i(94898, {
+		["u"] = 1,
+	}),
+	i(94899, {
+		["u"] = 1,
+	}),
+	i(104355, {
+		["f"] = 0,
+		["modIDs"] = {
+			[1] = 56032,
+		},
+		["u"] = 1,
+	}),
+	i(105710, {
+		["f"] = 0,
+		["modIDs"] = {
+			[1] = 57072,
+		},
+		["u"] = 1,
+	}),
+	i(105914, {
+		["u"] = 1,
+	}),
+	i(105915, {
+		["u"] = 1,
+	}),
+	i(105928, {
+		["f"] = 0,
+		["modIDs"] = {
+			[1] = 57192,
+		},
+		["u"] = 1,
+	}),
+	i(106829, {
+		["f"] = 0,
+		["modIDs"] = {
+			[1] = 57875,
+		},
+	}),
+	i(106830, {
+		["f"] = 0,
+		["modIDs"] = {
+			[1] = 57876,
+		},
+	}),
+	i(107203, {
+		["u"] = 1,
+	}),
+	i(107337, {
+		["u"] = 1,
+	}),
+	i(111783, {
+		["u"] = 1,
+	}),
+	i(130327, {
+		["u"] = 1,
+	}),
+	i(132107, {
+		["u"] = 1,
+	}),
+	i(133018, {
+		["u"] = 1,
+	}),
+	i(136411, {
+		["u"] = 1,
+	}),
+	i(138489, {
+		["u"] = 1,
+	}),
+	i(140011, {
+		["u"] = 1,
+	}),
+	i(146306, {
+		["u"] = 1,
+	}),
+	i(146307, {
+		["u"] = 1,
+	}),
+	i(147036, {
+		["u"] = 1,
+	}),
+	i(147058, {
+		["u"] = 1,
+	}),
+	i(147074, {
+		["u"] = 1,
+	}),
+	i(151377, {
+		["u"] = 1,
+	}),
+	sp(254667, { -- Observer's Locus Resonator
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = {
+	{
+		"i",
+		153021,
+		500
+	}
+},
+		["equippable"] = false,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 0,
+		["itemID"] = 153226,
+		["q"] = 1,
+		["subclass"] = 4,
+	}),
+	i(154841, {
+		["u"] = 1,
+	}),
+	i(154846, {
+		["u"] = 1,
+	}),
+	i(154849, {
+		["u"] = 1,
+	}),
+	i(154852, {
+		["u"] = 1,
+	}),
+	i(154856, {
+		["u"] = 1,
+	}),
+	i(154861, {
+		["u"] = 1,
+	}),
+	i(154866, {
+		["u"] = 1,
+	}),
+	i(154867, {
+		["u"] = 1,
+	}),
+	i(154868, {
+		["u"] = 1,
+	}),
+	i(154869, {
+		["u"] = 1,
+	}),
+	i(154870, {
+		["u"] = 1,
+	}),
+	i(154871, {
+		["u"] = 1,
+	}),
+	i(154873, {
+		["u"] = 1,
+	}),
+	i(158782, {
+		["u"] = 1,
+	}),
+	i(158841, {
+		["u"] = 1,
+	}),
+	i(159159, {
+		["u"] = 1,
+	}),
+	i(159160, {
+		["u"] = 1,
+	}),
+	i(159165, {
+		["u"] = 1,
+	}),
+	i(159170, {
+		["u"] = 1,
+	}),
+	i(159175, {
+		["u"] = 1,
+	}),
+	i(159176, {
+		["u"] = 1,
+	}),
+	i(159177, {
+		["u"] = 1,
+	}),
+	i(159178, {
+		["u"] = 1,
+	}),
+	i(159180, {
+		["u"] = 1,
+	}),
+	i(159181, {
+		["u"] = 1,
+	}),
+	i(159182, {
+		["u"] = 1,
+	}),
+	i(159183, {
+		["u"] = 1,
+	}),
+	i(159190, {
+		["u"] = 1,
+	}),
+	i(159195, {
+		["u"] = 1,
+	}),
+	i(159197, {
+		["u"] = 1,
+	}),
+	i(159201, {
+		["u"] = 1,
+	}),
+	i(159203, {
+		["u"] = 1,
+	}),
+	i(159208, {
+		["u"] = 1,
+	}),
+	i(159210, {
+		["u"] = 1,
+	}),
+	i(159213, {
+		["u"] = 1,
+	}),
+	i(159216, {
+		["u"] = 1,
+	}),
+	i(159221, {
+		["u"] = 1,
+	}),
+	i(159472, {
+		["u"] = 1,
+	}),
+	i(159495, {
+		["u"] = 1,
+	}),
+	i(159498, {
+		["u"] = 1,
+	}),
+	i(159499, {
+		["u"] = 1,
+	}),
+	i(159500, {
+		["u"] = 1,
+	}),
+	i(159503, {
+		["u"] = 1,
+	}),
+	i(159510, {
+		["u"] = 1,
+	}),
+	i(159512, {
+		["u"] = 1,
+	}),
+	i(159513, {
+		["u"] = 1,
+	}),
+	i(159526, {
+		["u"] = 1,
+	}),
+	i(159538, {
+		["u"] = 1,
+	}),
+	i(159541, {
+		["u"] = 1,
+	}),
+	i(159542, {
+		["u"] = 1,
+	}),
+	i(159552, {
+		["u"] = 1,
+	}),
+	i(159553, {
+		["u"] = 1,
+	}),
+	i(159554, {
+		["u"] = 1,
+	}),
+	i(159559, {
+		["u"] = 1,
+	}),
+	i(159561, {
+		["u"] = 1,
+	}),
+	i(159562, {
+		["u"] = 1,
+	}),
+	i(159565, {
+		["u"] = 1,
+	}),
+	i(159567, {
+		["u"] = 1,
+	}),
+	i(159586, {
+		["u"] = 1,
+	}),
+	i(159588, {
+		["u"] = 1,
+	}),
+	i(159591, {
+		["u"] = 1,
+	}),
+	i(159592, {
+		["u"] = 1,
+	}),
+	i(159603, {
+		["u"] = 1,
+	}),
+	i(159801, {
+		["u"] = 1,
+	}),
+	i(159817, {
+		["u"] = 1,
+	}),
+	i(160468, {
+		["u"] = 1,
+	}),
+	i(160891, {
+		["u"] = 1,
+	}),
+	i(164285, {
+		["description"] = "This item was removed from the game database in 8.1.\nIf you get this as a drop please report to the ATT Discord!.",
+		["u"] = 1,
+	}),
+	i(164286, {
+		["description"] = "This item was removed from the game database in 8.1.\nIf you get this as a drop please report to the ATT Discord!.",
+		["u"] = 1,
+	}),
+	i(164287, {
+		["description"] = "This item was removed from the game database in 8.1.\nIf you get this as a drop please report to the ATT Discord!.",
+		["u"] = 1,
+	}),
+	i(164288, {
+		["description"] = "This item was removed from the game database in 8.1.\nIf you get this as a drop please report to the ATT Discord!.",
+		["u"] = 1,
+	}),
+	i(165036, {
+		["f"] = 0,
+		["modIDs"] = {
+			[0] = 101219,
+			[1] = 101219,
+		},
+		["u"] = 2,
+	}),
+	i(165617, {
+		["f"] = 0,
+		["modIDs"] = {
+			[1] = 102082,
+		},
+		["u"] = 1,
+	}),
+	i(165684, {
+		["f"] = 0,
+		["modIDs"] = {
+			[0] = 102105,
+			[1] = 102105,
+		},
+		["u"] = 45,
+	}),
+	i(165685, {
+		["f"] = 0,
+		["modIDs"] = {
+			[0] = 102106,
+			[1] = 102106,
+		},
+		["u"] = 45,
+	}),
+	i(165883, {
+		["u"] = 1,
+	}),
+	i(166411, {
+		["u"] = 1,
+	}),
+	i(166606, {
+		["u"] = 2,
+	}),
+	i(166607, {
+		["u"] = 2,
+	}),
+	i(166608, {
+		["u"] = 2,
+	}),
+	i(166609, {
+		["u"] = 2,
+	}),
+	i(166610, {
+		["u"] = 2,
+	}),
+	i(166611, {
+		["u"] = 2,
+	}),
+	i(166612, {
+		["u"] = 2,
+	}),
+	i(166613, {
+		["u"] = 2,
+	}),
+	i(166630, {
+		["u"] = 2,
+	}),
+	i(166631, {
+		["u"] = 2,
+	}),
+	i(166632, {
+		["u"] = 2,
+	}),
+	i(166633, {
+		["u"] = 2,
+	}),
+	i(166634, {
+		["u"] = 2,
+	}),
+	i(166635, {
+		["u"] = 2,
+	}),
+	i(166636, {
+		["u"] = 2,
+	}),
+	i(166637, {
+		["u"] = 2,
+	}),
+	i(166654, {
+		["u"] = 2,
+	}),
+	i(166655, {
+		["u"] = 2,
+	}),
+	i(166656, {
+		["u"] = 2,
+	}),
+	i(166657, {
+		["u"] = 2,
+	}),
+	i(166658, {
+		["u"] = 2,
+	}),
+	i(166659, {
+		["u"] = 2,
+	}),
+	i(166660, {
+		["u"] = 2,
+	}),
+	i(166661, {
+		["u"] = 2,
+	}),
+	i(166680, {
+		["u"] = 1,
+	}),
+	sp(299712, { -- Light-Step Hoofplates
+		["class"] = 15,
+		["equippable"] = false,
+		["f"] = 0,
+		["inventoryType"] = 0,
+		["itemID"] = 168412,
+		["lvl"] = 10,
+		["q"] = 2,
+		["subclass"] = 6,
+	}),
+	sp(299583, { -- Anglers' Water Striders
+		["class"] = 15,
+		["equippable"] = false,
+		["f"] = 0,
+		["inventoryType"] = 0,
+		["itemID"] = 168416,
+		["lvl"] = 10,
+		["q"] = 7,
+		["subclass"] = 6,
+	}),
+	sp(299971, { -- Inflatable Mount Shoes
+		["class"] = 15,
+		["equippable"] = false,
+		["f"] = 0,
+		["inventoryType"] = 0,
+		["itemID"] = 168417,
+		["lvl"] = 10,
+		["q"] = 2,
+		["subclass"] = 6,
+	}),
+	sp(300027, { -- Comfortable Rider's Barding
+		["class"] = 15,
+		["equippable"] = false,
+		["f"] = 0,
+		["inventoryType"] = 0,
+		["itemID"] = 168419,
+		["lvl"] = 10,
+		["q"] = 2,
+		["subclass"] = 6,
+	}),
+	sp(300031, { -- Saddlechute
+		["class"] = 15,
+		["equippable"] = false,
+		["f"] = 0,
+		["inventoryType"] = 0,
+		["itemID"] = 168427,
+		["lvl"] = 10,
+		["q"] = 2,
+		["subclass"] = 6,
+	}),
+	i(169195, {
+		["u"] = 1,
+	}),
+	i(169589, {
+		["u"] = 1,
+	}),
+	i(169592, {
+		["u"] = 1,
+	}),
+	i(169787, {
+		["u"] = 1,
+	}),
+	i(169819, { -- Handful of Blood Shards
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 10,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(169821, { -- Ogre Effigy
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 10,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(169823, { -- Lordaeron Coin
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 10,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(170053, { -- Grek'og's Tusk
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 10,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(170276, {
+		["u"] = 1,
+	}),
+	i(170277, {
+		["u"] = 1,
+	}),
+	i(170540, {
+
+	}),
+	i(171293, { -- Alchemist's Pouch
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(171346, { -- Letters from the City
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(171420, { -- Reinforced Girdle
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(172338, { -- Loosened Belt
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(172926, { -- Necrostatic Micro Capacitor
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(172928, { -- Hydrodynamic Accelerators
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(173160, { -- Missive of Haste
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(173161, { -- Missive of Critical Strike
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(173162, { -- Missive of Mastery
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(173163, { -- Missive of Versatility
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(173169, { -- Elethium Setting
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(173258, { -- Craftman's Pouch
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(173359, { -- Lambent Feather
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 40,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173360, { -- Glossy Fur
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 40,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173361, { -- Polished Claw
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173362, { -- Lustrous Scale
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173381, { -- Crafter's Mark I
+		["b"] = 1,
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(173382, { -- Crafter's Mark II
+		["b"] = 1,
+		["class"] = 7,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 18,
+	}),
+	i(173383, { -- Crafter's Mark III
+		["b"] = 1,
+		["class"] = 7,
+		["f"] = 0,
+		["q"] = 3,
+		["subclass"] = 18,
+	}),
+	i(173384, { -- Crafter's Mark IV
+		["b"] = 1,
+		["class"] = 7,
+		["f"] = 0,
+		["q"] = 4,
+		["subclass"] = 18,
+	}),
+	i(173421, {
+		["u"] = 1,
+	}),
+	i(173426, {
+		["u"] = 1,
+	}),
+	i(173870, { -- Fading Glimmerdust
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173871, { -- Harrowed Ichor
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173874, { -- Twisted Sediment
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173875, { -- Defiling Mire
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173877, { -- Burnished Hoof
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173878, { -- Empyreal Horn
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(173929, { -- Perforated Skull
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(173941, { -- Monstrous Skull
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(174022, { -- Ceremonial Hand Bell
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 60,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(174104, { -- Shattered Memento
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(174322, { -- Harmonious Windchime
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 60,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(174746, { -- Golden Egg Shells
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(174790, { -- Overseer's Mandate
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(174999, { -- Long-Forgotten Sinstone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175135, { -- Atticus's Spare Supplies
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(175242, { -- Waterlogged Supplies
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175243, { -- Faded Grimoire
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(175954, { -- Suffused Horn
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175955, { -- Umbral Pelt
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175956, { -- PH Unusual
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175957, { -- Fleecy Paw
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175959, { -- Silky Mane
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175960, { -- Notched Bone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175962, { -- Dreamwood Antler
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175964, { -- PH Frequent
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(175965, { -- Needlepoint Beak
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176086, { -- Nightmare Silt
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176087, { -- Gorm Chitin
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176088, { -- Gormgris
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176089, { -- Treesnap Mandible
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176391, { -- Leafy Antenna
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176392, { -- Patterned Wing
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176393, { -- Slumber Powder
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176394, { -- PH Critical
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176730, { -- Orders from the Ancient One
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176806, { -- Drained Anima-Core
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176807, { -- Dented Armorplate
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176809, { -- Cracked Actuator
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176810, { -- Centurion Core
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176852, { -- Hardened Tail Bone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176853, { -- Spindly Flesh
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176854, { -- Unbreakable Jawbone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176855, { -- Caustic Secretion
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176856, { -- Partially Digested Viscera
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176857, { -- Abrasive Foot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176858, { -- Pliable Tail Fin
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176859, { -- Tempered Carapace
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176860, { -- Keen Incisor
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176861, { -- Engorged Venom Sac
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176862, { -- Marred Skin
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176863, { -- Virulent Gland
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176864, { -- Barbed Leg
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176865, { -- Contaminated Pollen
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176866, { -- Putrid Sludge
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176867, { -- Fractured Shackle
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176868, { -- Sliver of Entropy
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176869, { -- Bone Chip
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176870, { -- Skeletal Tusk
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176871, { -- Fortified Antennae
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176872, { -- Dense Stalk
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176873, { -- Macerated Ribs
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176874, { -- Desiccated Humerus
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176875, { -- Crooked Horn
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176876, { -- Collapsed Psyche
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176877, { -- Split Tooth
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176878, { -- Dulled Memento
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176879, { -- Silk Spigot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176880, { -- Colossal Stinger
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176881, { -- Grasping Tendril
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176882, { -- Spotless Skull
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176883, { -- Congealed Muck
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176884, { -- Elongated Spinal Column
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176885, { -- Wisp of Extinction
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176886, { -- Augmented Femur
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(176887, { -- Malicious Essence
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(177025, { -- Partially Eaten Fish
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(177026, { -- Lost Earring
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(177027, { -- Old Glove
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(177028, { -- Rusty Chain
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178017, { -- Drusty Molting
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178088, { -- Maldraxxus Unique Loot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178090, { -- Bastion Unique Loot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178091, { -- Revendreth Unique Loot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178103, { -- Tiny Wing
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178104, { -- Ember Ashes
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178105, { -- Fiery Hell Hound Claws
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178106, { -- Splintered Fang
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178107, { -- Pallid Sinuous Hide
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178108, { -- Wool of Dredbat
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178110, { -- Oily Black Feather
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178111, { -- Carrion Spattered Beak
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178112, { -- Death Venom Stinger
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178113, { -- Twitching Stone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178114, { -- Stone Haunch
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178115, { -- Tapping Stone Claw
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178116, { -- Squishy Eyeball
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178122, { -- Crematoric Residue
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178123, { -- Fading Lightspawn Ember
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(328301, { -- Dancing Motes of Light
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["itemID"] = 178124,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(178125, { -- Dancing Metal Slivers
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178126, { -- Sinew-Wrapped Hilt
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178127, { -- Tattered Scraps of Clothing
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178128, { -- Pouch of Shinies
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(178129, { -- Bone and Muck Figure
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178130, { -- Shapeable Muck
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178131, { -- Whetstone Talon File
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178132, { -- Richly Caligraphed Invitation
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178133, { -- Tendrils of Ectoplasm
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178134, { -- Ephemeral Digits
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178135, { -- Wisp of Life
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178136, { -- Emotional Residue
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178137, { -- Drop of Memory
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178152, { -- <Broker Adjective> Return Beacon
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 60,
+		["lvl"] = {
+			35
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(178172, { -- Abrasive Sand
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178173, { -- Crumbling Sandstone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178174, { -- Desiccated Core
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178175, { -- Gooey Sap
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178177, { -- Consumptive Brambles
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178178, { -- Brittle Bark
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178517, { -- Gold Tooth
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178519, { -- Blank Sinstone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178528, { -- Winter Veil Gift
+		["b"] = 1,
+		["class"] = 15,
+		["description"] = "Gift from 2020.",
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["lvl"] = {
+			10
+		},
+		["q"] = 1,
+		["questID"] = 60239,
+		["subclass"] = 0,
+		["u"] = 29,
+	}),
+	i(178529, { -- Gently Shaken Gift
+		["b"] = 1,
+		["class"] = 15,
+		["description"] = "Gift from 2020.",
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["lvl"] = {
+			10
+		},
+		["q"] = 1,
+		["questID"] = 60238,
+		["subclass"] = 0,
+		["u"] = 29,
+	}),
+	i(178566, { -- Cracked Hand Mirror
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178923, { -- Fractured Rubble
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 58,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(178924, { -- Ash Clod
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 58,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179001, { -- Tithe Jar
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179003, { -- Shattered Quartz Eyes
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179004, { -- Polished Silver Tithe
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179005, { -- Glinting Gold Fang
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179006, { -- Glowing Endmire Dust
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179288, { -- Voltive Candles
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179289, { -- Twisted Prayer Beads
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179290, { -- Simple Manacles
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179291, { -- Silver Flask
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179292, { -- Fine Handkerchief
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179293, { -- Glimmering Facial Cream
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 100,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(179294, { -- Empty Dredwing Skin
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179296, { -- Duelist's Glove
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179297, { -- Dust Filled Flask
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179298, { -- Cloth Parisol Strips
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179299, { -- Pulled Canine
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179300, { -- Muck-Hardened Marble
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179306, { -- Wingtip Warmer
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179311, { -- Oxxein Lockbox
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["lvl"] = 50,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(179368, { -- Immutable Shackles
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179369, { -- Spectral Key
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179370, { -- Inert Passage Sigil
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179372, { -- Broken Mawrat Trap
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179382, { -- Tiny, Wet Scroll
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179862, { -- Luxurious Feather
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(179919, { -- Shadowy Rabbit's Foot
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(179985, { -- Clouded Stain Glass Shards
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(179986, { -- Agonized Echoes
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180052, { -- Left Gem Eye
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(180053, { -- Right Gem Eye
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(180055, { -- Relic of the Past I
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(180057, { -- Relic of the Past II
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(180058, { -- Relic of the Past III
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(180059, { -- Relic of the Past IV
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(180060, { -- Relic of the Past V
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(180088, { -- Handwritten Note
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(180174, { -- Witherfall Varietals for the Discriminating Palate
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180175, { -- A Treatise on Henbestian Logic
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180176, { -- On the Nature of the Divine
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180230, { -- Gemstone Chips
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180286, { -- Broken Fishing Pole
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180289, { -- Sinvyr Statuette
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 60,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180293, { -- Night Fae Insignia
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180307, { -- Horrific Stone Visage
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180308, { -- Determined Stone Visage
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180309, { -- Malicious Mandible
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180310, { -- Fluttering Stone Wings
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180326, { -- Twisted Parasol
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180327, { -- Emberflea Collection
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180328, { -- Ghost Tracks: A Treatise on the Unseen Trails
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180329, { -- Naked Morningstar Chain
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180330, { -- Fading Denathrius Pennant
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180331, { -- Stonewright's Chisel
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180332, { -- Discarded Wingtips
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180333, { -- Disquieted Lyre Neck
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180334, { -- Splintering Stein
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180338, { -- Graven Image
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180340, { -- Dark Deceits and Diversions
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180341, { -- Nathrezim Relic
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180342, { -- Silvered Fang
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180343, { -- Everburning Censer
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180344, { -- Wisps of Nightmares
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180345, { -- Forgotten Dream Vial
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180346, { -- Nail-Worked Crystalware
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180347, { -- Sinsteel Silverware
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180348, { -- Ornate Filigreed Harp
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180353, { -- Ghostly Pocket Stone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180354, { -- Ripped Stuffing
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180381, { -- Brainwort
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180382, { -- Scaldhead
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180383, { -- Devil's Dung
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180384, { -- Gallowsgrass
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180385, { -- Bats Wing
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(332211, { -- Rusty Gargon Chain
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["itemID"] = 180405,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180406, { -- Gargon Treat
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180407, { -- Empty Brandy Bottle
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180408, { -- Empty Brandy Phial
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(332304, { -- Mistcaller's Aria
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = 1000000,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["itemID"] = 180416,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	sp(332305, { -- Mistcaller's Ballad
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = 1000000,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["itemID"] = 180417,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	sp(332306, { -- Mistcaller's March
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = 1000000,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["itemID"] = 180418,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	sp(332307, { -- Mistcaller's Dirge
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = 1000000,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["itemID"] = 180419,
+		["lvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(180421, { -- Emberfall
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180422, { -- The Banewood Road
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180423, { -- Duchess Helveera
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180448, { -- Eroded Heat Sink
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180449, { -- Failed Experiment
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180450, { -- Assorted Bolts
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180458, { -- Writ of Tithe Exemption
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 60,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180463, { -- Crusty Scepter
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180475, { -- Webbed Foot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180476, { -- Sleep Slime
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180504, { -- Shimmerbough Recorder
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180505, { -- Cracked Stone Mask
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180506, { -- Faulty Hookshot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180507, { -- Feathered Drake Down
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180508, { -- Night Lily's Bell
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180509, { -- Mane Hair Harp
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180510, { -- Hibiscus Tea Bag
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180511, { -- Petrified Leaf
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180512, { -- Guardian's Acorn
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180513, { -- Sleepy Toadstool
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180514, { -- Gorm Bracelet
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180515, { -- Weird Egg
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180516, { -- Spriggan Pipes
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180517, { -- Lifecrafted Flute
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180518, { -- Ironwood Needle
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180519, { -- Lifeless Branch
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180520, { -- Cracked Amber Doll
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180521, { -- Creeping Hive Cobweb
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180522, { -- Phaedrum Lockbox
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["lvl"] = 50,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180532, { -- Laestrite Lockbox
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["lvl"] = 50,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180533, { -- Solenium Lockbox
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["lvl"] = 50,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	sp(333801, { -- Lost Soul
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180590,
+		["q"] = 3,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(180614, { -- Depleted Nethershard
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180622, { -- Essence of Ephemeral Knowledge
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180623, { -- Torn Rune-Etched Page
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180624, { -- Faintly Glowing Vellum
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180627, { -- Tranquil Wader
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180632, { -- Gorm Rootstinger
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180652, { -- Fae Dreamcatcher
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	sp(334176, { -- Fae Ornament
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180654,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	sp(334176, { -- Raw Dream Fibers
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180655,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	sp(334176, { -- Enchanted Bough
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180656,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180674, { -- Wand of Grumpiness
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(180675, { -- Wand of Regal Bearing
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(180753, { -- Twinklestar's Gardening Toolkit
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(180754, { -- Gardener's Hammer
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180756, { -- Gardener's Flute
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180757, { -- Gardener's Wand
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180758, { -- Gardener's Basket
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180759, { -- Diary of the Night
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(180775, { -- Memory of Home
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(180784, { -- Aromatic Flowers
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(180798, { -- PH - Kyrian IOU
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(334793, { -- Silver Teroclaw
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180813,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	sp(334982, { -- Blue Glimmerfly
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180837,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	sp(334985, { -- Blue Etherwyrm
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180838,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	sp(334989, { -- Pink Glimmerfly
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180840,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(180841, { -- Olive Dragon Turtle
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	sp(335060, { -- Orange Vulpin
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180860,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	sp(335062, { -- Red Vulpin
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180861,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	sp(335080, { -- Silver Crane
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 180867,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(180878, { -- Corroded Vial
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180879, { -- Gritty Bone File
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180880, { -- Gory Keepsake
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180881, { -- Mangled Toothpick
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180882, { -- Arena Writ
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180883, { -- Gleaming Crystal
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180884, { -- Scroll of Foul Rites
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180885, { -- Worn Rune-Adorned Pouch
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180886, { -- Coarse Ground Sinew
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180887, { -- Preserved Organ
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180888, { -- Illegible Journal
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180889, { -- Warped Spectacles
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180890, { -- Bloodstained Gambrel
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180891, { -- Smooshed Maggot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180892, { -- Teeth-Marked Bone Chips
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180893, { -- Clumped Spores
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180894, { -- Drained Flask
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 100,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(341097, { -- Animaflow Stabilizer
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = {
+	{
+		"c",
+		1767,
+		1650
+	}
+},
+		["f"] = 0,
+		["ilvl"] = 60,
+		["itemID"] = 180949,
+		["lvl"] = 60,
+		["q"] = 3,
+		["questID"] = 61600,
+		["subclass"] = 0,
+	}),
+	i(180991, { -- Crimson Ink Well
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(180992, { -- Blood Red Plume
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(335861, { -- Oil of Ethereal Force
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = {
+	{
+		"c",
+		1767,
+		165
+	}
+},
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 60,
+		["itemID"] = 181245,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(181246, { -- Withered Leaf
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181247, { -- Pointy Stick
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(335962, { -- Clutch
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 181259,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(181379, { -- Larionfeather Quill
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181380, { -- Forgehand Tools
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181382, { -- Chime of Eternity
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181483, { -- Spool of Silkstrider Thread
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181484, { -- Songwood Graft
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181485, { -- Jeweled Amber Leaf
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181486, { -- Leafscale Coat
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181487, { -- Glowberry Bead String
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181488, { -- Shadowstalker Claw
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181489, { -- Star Lake Sonnets
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181490, { -- Wild Godrune
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181491, { -- Gormgris Lamp
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181492, { -- Petrified Faeflower
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181515, { -- Miserable Pile of Secrets
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181713, { -- Scorched Letter
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181722, { -- Antiquated Verdigris Coin
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181723, { -- Meticulously Pickled Head
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181724, { -- Tactics Vol. 83: Exploitation of Weather
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181725, { -- Prized Guardian's Medal
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181726, { -- Warfare Vol. 27: Behind Enemy Lines
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181727, { -- Devoid Reinforced Flasks
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181728, { -- Pristine Fleshstitcher Needles
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181729, { -- Prototype Phylactery Mold
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181730, { -- Forged Oxxein Whetstone
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181731, { -- Lacquered Larion Fang
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(181778, { -- Sack of Shinies
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(181779, { -- A "Wrapped" Weapon
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(181780, { -- An Undelivered Tradesman's Shipment
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(182114, { -- Assorted Parts and 'Things'
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(182124, { -- PH Rare Item
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182161, { -- Ceremonial Javelin
+		["b"] = 1,
+		["class"] = 15,
+		["equippable"] = 1,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["inventoryType"] = 13,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182287, { -- Eternally Preserved Scarab
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 50,
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	i(182299, { -- Ruined Carapace
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182366, { -- Disgusting Ooze
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182367, { -- Foul Bones
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182672, { -- Misty Leaper
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(182707, { -- Discarded Hand-Wraps
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182708, { -- Wood Carved Chomper Protector
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182709, { -- Fancy Half-Leggings
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182710, { -- Fluffy Robe
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182711, { -- Winner Caller's Warbler
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["lvl"] = {
+			48
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182713, { -- Water-Run Letter
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182714, { -- Bundle of Leaflets
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182715, { -- Empty Crate
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182718, { -- Stoneborn Messenger Stamp Sheet
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182733, { -- Gnawed Animacorns
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182745, { -- Large Aquamarine Crystal
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182756, { -- Silver Winged Bust
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182757, { -- Redelav Silver Set
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182758, { -- Decorative Sinsteel Dagger
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182760, { -- Brilliant Azure Orb
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182761, { -- Refined Gold Ingot
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182762, { -- Ornately Jeweled Amulet
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182763, { -- Enormous Jade Pendant
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182764, { -- Pulsing Star Amethyst
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182765, { -- Golden Wren
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182766, { -- Golden Egg
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182774, { -- Chalice of Renagal's Pact
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182775, { -- Teramanik's Gilded Reins
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182776, { -- Demoltrov's Ritual Dagger
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182797, { -- Pugilist Ring Rules
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(182968, { -- Humerus
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183047, { -- Soul of the Darkhound
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183048, { -- Power of the Darkhound
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183049, { -- Guile of the Pack
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183050, { -- The Endmire's Mists
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183051, { -- The Rushing Tide
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183055, { -- Chained Venthyr Pocketwatch
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183056, { -- Shriekwing by Krentis
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183062, { -- Gleaming Replica of Partannas
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183064, { -- Jewel of Opantriss
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183065, { -- Dazzling Zircon Cube
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183071, { -- Lucky Sinrunner Horseshoe
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183072, { -- Perfume Bottles
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183073, { -- Royal Sinvyr Cooking Set
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183075, { -- Phantasmal Masquerade Guise
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183108, { -- Tainted Void-Touched Core
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183109, { -- Pulsing Voidscarred Fragment
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183110, { -- Mercurial Void
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183164, { -- 9.0 PH Treasure Reward
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183190, { -- Oublion Cipher
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ilvl"] = 60,
+		["lvl"] = {
+			60
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(183203, { -- Massive Oxxein Tankard
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183204, { -- Manual of Bonebending Methods
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183205, { -- Plated Horn of Battle
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183207, { -- Keepsake of the First Conflict
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183208, { -- Beasts, and How to Eat Them: Volume I
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183209, { -- Prime Enforcer's Seal
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183695, { -- Decaying Dark Naaru Shard
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(339723, { -- Swamp Reed
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["itemID"] = 183714,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	i(183726, { -- Gratitude of the Liberated
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(183788, { -- Placeholder Twisting Corridors Cosmetic
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183795, { -- Notice of Special Delivery
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183834, { -- Crate of Drust Archaeology Fragments
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = {
+	{
+		"i",
+		87399,
+		1
+	}
+},
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["requireSkill"] = 794,
+		["subclass"] = 0,
+	}),
+	i(183835, { -- Crate of Zandalari Archaeology Fragments
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = {
+	{
+		"i",
+		87399,
+		1
+	}
+},
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["requireSkill"] = 794,
+		["subclass"] = 0,
+	}),
+	i(183888, { -- Apogee Anima Bead
+		["b"] = 1,
+		["c"] = {
+			1,
+			2,
+			5,
+			10
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 200,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183889, { -- Thaumaturgic Anima Bead
+		["b"] = 1,
+		["c"] = {
+			7,
+			8,
+			9,
+			11
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 200,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183890, { -- Zenith Anima Spherule
+		["b"] = 1,
+		["c"] = {
+			1,
+			4,
+			10
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 200,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183891, { -- Venerated Anima Spherule
+		["b"] = 1,
+		["c"] = {
+			2,
+			5,
+			7
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 200,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183892, { -- Mystic Anima Spherule
+		["b"] = 1,
+		["c"] = {
+			3,
+			8,
+			11
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 200,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183893, { -- Abominable Anima Spherule
+		["b"] = 1,
+		["c"] = {
+			6,
+			9,
+			12
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 200,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183894, { -- Thaumaturgic Anima Bead
+		["b"] = 1,
+		["c"] = {
+			7,
+			8,
+			9,
+			11
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 207,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183895, { -- Apogee Anima Bead
+		["b"] = 1,
+		["c"] = {
+			1,
+			2,
+			5,
+			10
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 207,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183896, { -- Abominable Anima Spherule
+		["b"] = 1,
+		["c"] = {
+			6,
+			9,
+			12
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 207,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183897, { -- Mystic Anima Spherule
+		["b"] = 1,
+		["c"] = {
+			3,
+			8,
+			11
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 207,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183898, { -- Venerated Anima Spherule
+		["b"] = 1,
+		["c"] = {
+			2,
+			5,
+			7
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 207,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183899, { -- Zenith Anima Spherule
+		["b"] = 1,
+		["c"] = {
+			1,
+			4,
+			10
+		},
+		["class"] = 5,
+		["f"] = 0,
+		["ilvl"] = 207,
+		["lvl"] = {
+			60
+		},
+		["q"] = 4,
+		["subclass"] = 2,
+	}),
+	i(183913, { -- Broken Flute Stem
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183914, { -- Gummy Napkin
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183915, { -- Scrap of Streamer
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183916, { -- Cracked Tea Cup
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183917, { -- Slime-Stained Bowl
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183918, { -- Chipped Serving Bowl
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183920, { -- Bent Fork
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183921, { -- Crumpled Napkin
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183922, { -- Crushed Nut Shells
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183923, { -- Broken Claw
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183924, { -- Gorm Egg Shells
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183925, { -- Mushy Snowplum
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183926, { -- Frayed Leather Laces
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183927, { -- Broken Centurian Mechanism
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183928, { -- A Polite, But Short Thank You Note
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183929, { -- Laestrite Pocket Gravel
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183930, { -- Broken Vambrace Clasp
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183931, { -- Split Arrow Fletching
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183932, { -- Torn Bet Voucher
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183933, { -- Guttered Crypt Candle
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183934, { -- Muck-Stained Napkin
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183935, { -- Modified Death Warrant
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183936, { -- A Curt Note
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(183942, { -- Novice Crafter's Mark
+		["b"] = 1,
+		["class"] = 7,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 18,
+	}),
+	i(183945, { -- Enlarged Nerve
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184076, { -- Partially Finished Stone Sentry
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184077, { -- Famous Sinstone Headers
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184163, { -- Gilded Slime
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(184206, { -- Moth-Eaten Covenant Cloak
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184207, { -- Rusting Covenant Spaulder
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184208, { -- Fraying Covenant Belt
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184209, { -- Stoneborn Fragments
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 120,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184304, { -- Anima-Touched Weapon Fragments
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(184309, { -- Venthyr Inquisitor's Notes
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184310, { -- Tod's Sinstone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184369, { -- Brutally Sundered Mallet
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184370, { -- Erratic Sparkshield
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184372, { -- Charred Dreadplate
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184375, { -- Shattered Orbiter Crystal
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184376, { -- Incinerated Arcane Tome
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184377, { -- Shattered Firestone
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184390, { -- Foul Ectoplasm
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184391, { -- Hollow Phylactery Shard
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184392, { -- Fizzled Ritual Scroll
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184393, { -- Everburning Mange
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184394, { -- Vial of Bleak Blood
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 55,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184402, { -- Culexwood Pan Flute
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184403, { -- Dreamlure Candle
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184553, { -- Sinvyr Shards
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 50,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184562, { -- Tranquility Stone
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184563, { -- Anima Condenser
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184564, { -- Kyrian Music Box
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184565, { -- Kyrian Wave Simulator
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184566, { -- Adrima's Potpourri
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184567, { -- Hand-Knitted Steward Sweater
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(184607, { -- Words of the Warden
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(184608, { -- Korrath's Grimoire: Aleketh
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(184609, { -- Korrath's Grimoire: Belidir
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(184610, { -- Korrath's Grimoire: Gyadrek
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(184611, { -- Tormentor's Notes
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(184612, { -- Mawsworn Orders
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(184650, { -- Adventure Campaign Progress
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(347232, { -- Maw-Touched Miasma
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = {
+	{
+		"c",
+		1767,
+		230
+	}
+},
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 60,
+		["itemID"] = 184651,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	sp(347233, { -- Phantasmic Infuser
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = {
+	{
+		"c",
+		1767,
+		3760
+	}
+},
+		["f"] = 0,
+		["ilvl"] = 60,
+		["itemID"] = 184652,
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(347378, { -- Sticky-Fingered Skeletal Hand
+		["b"] = 1,
+		["class"] = 15,
+		["cost"] = {
+	{
+		"c",
+		1767,
+		210
+	}
+},
+		["f"] = 0,
+		["ignoreSource"] = 1,
+		["ilvl"] = 60,
+		["itemID"] = 184664,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(184810, { -- Plundered Supplies
+		["b"] = 1,
+		["class"] = 15,
+		["f"] = 0,
+		["q"] = 4,
+		["subclass"] = 0,
+	})
+}
+
+i(913);
+i(1166);
+i(3738);
+i(4989);
+i(5008);
+i(5126);
+i(5127);
+i(5129);
+i(5130);
+i(5131);
+i(5132);
+i(5821);
+i(5822);
+i(6478);
+i(6644);
+i(6646);
+i(7948);
+i(7949);
+i(7950);
+i(7951);
+i(7952);
+i(7953);
+i(8627);
+i(11000);
+i(12104);
+i(12105);
+i(12106);
+i(12107);
+i(12469);
+i(12615);
+i(12616);
+i(12617);
+i(13080);
+i(13090);
+i(13522);
+i(14062);
+i(14550);
+i(16776);
+i(17155);
+i(19986);
+i(20003);
+i(20005);
+i(20502);
+i(20522);
+i(20524);
+i(20558);		--[[Warsong Gulch Mark of Honor]]
+i(20559);		--[[Arathi Basin Mark of Honor]]
+i(20560);		--[[Alterac Valley Mark of Honor]]
+i(20706);
+i(21584);
+i(21587);
+i(21588);
+i(21612);
+i(21613);
+i(21614);
+i(22230);
+i(22273);
+i(23420);
+i(23422);
+i(23432);
+i(24507);		--[[Elemental Shard]]
+i(26015);
+i(26029);
+i(27718);
+i(27719);
+i(27720);
+i(28145);
+i(28276);
+i(29024);		--[[Eye of the Storm Mark of Honor]]
+i(29434);		--[[Badge of Justice]]
+i(30287);
+i(30288);
+i(30289);
+i(32180);
+i(32186);
+i(32187);
+i(32192);
+i(32482);
+i(34138);
+i(34139);
+i(34144);
+i(34145);
+i(34146);
+i(34147);
+i(34148);
+i(34149);
+i(34415);
+i(35876);
+i(37210);
+i(37225);
+i(37273);
+i(37295);
+i(37311);		--[[Skybreaker Whip]]
+i(37312);		--[[Carrot on a Stick]]
+i(37313);		--[[Riding Crop]]
+i(37330);
+i(37331);
+i(37332);
+i(37334);
+i(37385);
+i(37386);
+i(37400);
+i(37420);
+i(37433);
+i(37444);
+i(37477);
+i(37485);
+i(37510);
+i(37511);
+i(37836);		--[[Venture Coin]]
+i(38243);
+i(38244);
+i(38245);
+i(38246);
+i(38247);
+i(38248);
+i(38387);
+i(38388);
+i(38389);
+i(38390);
+i(38468);
+i(38525);
+i(38527);
+i(39364);
+i(39410);
+i(39440);
+i(39460);
+i(39707);
+i(39828);
+i(40752);		--[[Emblem of Heroism]]
+i(40753);		--[[Emblem of Valor]]
+i(41596);		--[[Dalaran Jewelcrafter's Token]]
+i(41757);
+i(41758);
+i(41759);
+i(42425);		--[[Strand of the Ancients Mark of Honor]]
+i(42875);
+i(42885);
+i(42886);
+i(43016);		--[[Dalaran Cooking Award]]
+i(43228);		--[[Stone Keeper's Shard]]
+i(43308);		--[[Honor Points]]
+i(43460);
+i(43475);
+i(43589);		--[[Wintergrasp Mark of Honor]]
+i(43848);
+i(43878);
+i(43895);
+i(43922);
+i(43936);
+i(43938);
+i(44559);
+i(44560);
+i(44561);
+i(44563);
+i(44990);		--[[Champion's Seal]]
+i(45624);		--[[Emblem of Conquest]]
+i(45629);
+i(47241);		--[[Emblem of Triumph]]
+i(47395);		--[[Isle of Conquest Mark of Honor]]
+i(48945);
+i(49426);		--[[Emblem of Frost]]
+i(49547);
+i(52446);		--[[Illustrious Jewelcrafter's Token]]
+i(52488);
+i(53879);
+i(53880);
+i(54542);
+i(54543);
+i(54544);
+i(54549);
+i(54550);
+i(54551);
+i(54552);
+i(54553);
+i(54554);
+i(54655);
+i(54666);
+i(54674);
+i(54683);
+i(54698);
+i(54703);
+i(54708);
+i(54724);
+i(54725);
+i(54727);
+i(54789);
+i(54977);
+i(56405);
+i(56485);
+i(56486);
+i(56487);
+i(56488);
+i(56492);
+i(56493);
+i(56496);
+i(56497);
+i(56500);
+i(56501);
+i(56506);
+i(56507);
+i(56510);
+i(56514);
+i(57528);
+i(59768);
+i(59772);
+i(60728);
+i(62898);		--[[Tol Barad Commendation]]
+i(65743);
+i(65744);
+i(65746);
+i(65815);
+i(67001);
+i(67002);
+i(67003);
+i(67004);
+i(67008);
+i(67009);
+i(67012);
+i(67013);
+i(67016);
+i(67017);
+i(67022);
+i(67023);
+i(67028);
+i(67030);
+i(67034);
+i(67035);
+i(67600);
+i(68844);
+i(69856);		--[[Test Item]]
+i(84895);
+i(84897);
+i(85118);
+i(94898);
+i(94899);
+i(104355);
+i(105710);
+i(105914);
+i(105915);
+i(105928);
+i(106829);
+i(106830);
+i(107203);
+i(107337);
+i(111783);
+i(130327);
+i(132107);
+i(133018);
+i(136411);
+i(138489);
+i(140011);
+i(146306);
+i(146307);
+i(147036);
+i(147058);
+i(147074);
+i(151377);
+i(153226);		--[[Observer's Locus Resonator]]
+i(154841);
+i(154846);
+i(154849);
+i(154852);
+i(154856);
+i(154861);
+i(154866);
+i(154867);
+i(154868);
+i(154869);
+i(154870);
+i(154871);
+i(154873);
+i(158782);
+i(158841);
+i(159159);
+i(159160);
+i(159165);
+i(159170);
+i(159175);
+i(159176);
+i(159177);
+i(159178);
+i(159180);
+i(159181);
+i(159182);
+i(159183);
+i(159190);
+i(159195);
+i(159197);
+i(159201);
+i(159203);
+i(159208);
+i(159210);
+i(159213);
+i(159216);
+i(159221);
+i(159472);
+i(159495);
+i(159498);
+i(159499);
+i(159500);
+i(159503);
+i(159510);
+i(159512);
+i(159513);
+i(159526);
+i(159538);
+i(159541);
+i(159542);
+i(159552);
+i(159553);
+i(159554);
+i(159559);
+i(159561);
+i(159562);
+i(159565);
+i(159567);
+i(159586);
+i(159588);
+i(159591);
+i(159592);
+i(159603);
+i(159801);
+i(159817);
+i(160468);
+i(160891);
+i(164285);
+i(164286);
+i(164287);
+i(164288);
+i(165036);
+i(165617);
+i(165684);
+i(165685);
+i(165883);
+i(166411);
+i(166606);
+i(166607);
+i(166608);
+i(166609);
+i(166610);
+i(166611);
+i(166612);
+i(166613);
+i(166630);
+i(166631);
+i(166632);
+i(166633);
+i(166634);
+i(166635);
+i(166636);
+i(166637);
+i(166654);
+i(166655);
+i(166656);
+i(166657);
+i(166658);
+i(166659);
+i(166660);
+i(166661);
+i(166680);
+i(168412);		--[[Light-Step Hoofplates]]
+i(168416);		--[[Anglers' Water Striders]]
+i(168417);		--[[Inflatable Mount Shoes]]
+i(168419);		--[[Comfortable Rider's Barding]]
+i(168427);		--[[Saddlechute]]
+i(169195);
+i(169589);
+i(169592);
+i(169787);
+i(169819);		--[[Handful of Blood Shards]]
+i(169821);		--[[Ogre Effigy]]
+i(169823);		--[[Lordaeron Coin]]
+i(170053);		--[[Grek'og's Tusk]]
+i(170276);
+i(170277);
+i(170540);
+i(171293);		--[[Alchemist's Pouch]]
+i(171346);		--[[Letters from the City]]
+i(171420);		--[[Reinforced Girdle]]
+i(172338);		--[[Loosened Belt]]
+i(172926);		--[[Necrostatic Micro Capacitor]]
+i(172928);		--[[Hydrodynamic Accelerators]]
+i(173160);		--[[Missive of Haste]]
+i(173161);		--[[Missive of Critical Strike]]
+i(173162);		--[[Missive of Mastery]]
+i(173163);		--[[Missive of Versatility]]
+i(173169);		--[[Elethium Setting]]
+i(173258);		--[[Craftman's Pouch]]
+i(173359);		--[[Lambent Feather]]
+i(173360);		--[[Glossy Fur]]
+i(173361);		--[[Polished Claw]]
+i(173362);		--[[Lustrous Scale]]
+i(173381);		--[[Crafter's Mark I]]
+i(173382);		--[[Crafter's Mark II]]
+i(173383);		--[[Crafter's Mark III]]
+i(173384);		--[[Crafter's Mark IV]]
+i(173421);
+i(173426);
+i(173870);		--[[Fading Glimmerdust]]
+i(173871);		--[[Harrowed Ichor]]
+i(173874);		--[[Twisted Sediment]]
+i(173875);		--[[Defiling Mire]]
+i(173877);		--[[Burnished Hoof]]
+i(173878);		--[[Empyreal Horn]]
+i(173929);		--[[Perforated Skull]]
+i(173941);		--[[Monstrous Skull]]
+i(174022);		--[[Ceremonial Hand Bell]]
+i(174104);		--[[Shattered Memento]]
+i(174322);		--[[Harmonious Windchime]]
+i(174746);		--[[Golden Egg Shells]]
+i(174790);		--[[Overseer's Mandate]]
+i(174999);		--[[Long-Forgotten Sinstone]]
+i(175135);		--[[Atticus's Spare Supplies]]
+i(175242);		--[[Waterlogged Supplies]]
+i(175243);		--[[Faded Grimoire]]
+i(175954);		--[[Suffused Horn]]
+i(175955);		--[[Umbral Pelt]]
+i(175956);		--[[PH Unusual]]
+i(175957);		--[[Fleecy Paw]]
+i(175959);		--[[Silky Mane]]
+i(175960);		--[[Notched Bone]]
+i(175962);		--[[Dreamwood Antler]]
+i(175964);		--[[PH Frequent]]
+i(175965);		--[[Needlepoint Beak]]
+i(176086);		--[[Nightmare Silt]]
+i(176087);		--[[Gorm Chitin]]
+i(176088);		--[[Gormgris]]
+i(176089);		--[[Treesnap Mandible]]
+i(176391);		--[[Leafy Antenna]]
+i(176392);		--[[Patterned Wing]]
+i(176393);		--[[Slumber Powder]]
+i(176394);		--[[PH Critical]]
+i(176730);		--[[Orders from the Ancient One]]
+i(176806);		--[[Drained Anima-Core]]
+i(176807);		--[[Dented Armorplate]]
+i(176809);		--[[Cracked Actuator]]
+i(176810);		--[[Centurion Core]]
+i(176852);		--[[Hardened Tail Bone]]
+i(176853);		--[[Spindly Flesh]]
+i(176854);		--[[Unbreakable Jawbone]]
+i(176855);		--[[Caustic Secretion]]
+i(176856);		--[[Partially Digested Viscera]]
+i(176857);		--[[Abrasive Foot]]
+i(176858);		--[[Pliable Tail Fin]]
+i(176859);		--[[Tempered Carapace]]
+i(176860);		--[[Keen Incisor]]
+i(176861);		--[[Engorged Venom Sac]]
+i(176862);		--[[Marred Skin]]
+i(176863);		--[[Virulent Gland]]
+i(176864);		--[[Barbed Leg]]
+i(176865);		--[[Contaminated Pollen]]
+i(176866);		--[[Putrid Sludge]]
+i(176867);		--[[Fractured Shackle]]
+i(176868);		--[[Sliver of Entropy]]
+i(176869);		--[[Bone Chip]]
+i(176870);		--[[Skeletal Tusk]]
+i(176871);		--[[Fortified Antennae]]
+i(176872);		--[[Dense Stalk]]
+i(176873);		--[[Macerated Ribs]]
+i(176874);		--[[Desiccated Humerus]]
+i(176875);		--[[Crooked Horn]]
+i(176876);		--[[Collapsed Psyche]]
+i(176877);		--[[Split Tooth]]
+i(176878);		--[[Dulled Memento]]
+i(176879);		--[[Silk Spigot]]
+i(176880);		--[[Colossal Stinger]]
+i(176881);		--[[Grasping Tendril]]
+i(176882);		--[[Spotless Skull]]
+i(176883);		--[[Congealed Muck]]
+i(176884);		--[[Elongated Spinal Column]]
+i(176885);		--[[Wisp of Extinction]]
+i(176886);		--[[Augmented Femur]]
+i(176887);		--[[Malicious Essence]]
+i(177025);		--[[Partially Eaten Fish]]
+i(177026);		--[[Lost Earring]]
+i(177027);		--[[Old Glove]]
+i(177028);		--[[Rusty Chain]]
+i(178017);		--[[Drusty Molting]]
+i(178088);		--[[Maldraxxus Unique Loot]]
+i(178090);		--[[Bastion Unique Loot]]
+i(178091);		--[[Revendreth Unique Loot]]
+i(178103);		--[[Tiny Wing]]
+i(178104);		--[[Ember Ashes]]
+i(178105);		--[[Fiery Hell Hound Claws]]
+i(178106);		--[[Splintered Fang]]
+i(178107);		--[[Pallid Sinuous Hide]]
+i(178108);		--[[Wool of Dredbat]]
+i(178110);		--[[Oily Black Feather]]
+i(178111);		--[[Carrion Spattered Beak]]
+i(178112);		--[[Death Venom Stinger]]
+i(178113);		--[[Twitching Stone]]
+i(178114);		--[[Stone Haunch]]
+i(178115);		--[[Tapping Stone Claw]]
+i(178116);		--[[Squishy Eyeball]]
+i(178122);		--[[Crematoric Residue]]
+i(178123);		--[[Fading Lightspawn Ember]]
+i(178124);		--[[Dancing Motes of Light]]
+i(178125);		--[[Dancing Metal Slivers]]
+i(178126);		--[[Sinew-Wrapped Hilt]]
+i(178127);		--[[Tattered Scraps of Clothing]]
+i(178128);		--[[Pouch of Shinies]]
+i(178129);		--[[Bone and Muck Figure]]
+i(178130);		--[[Shapeable Muck]]
+i(178131);		--[[Whetstone Talon File]]
+i(178132);		--[[Richly Caligraphed Invitation]]
+i(178133);		--[[Tendrils of Ectoplasm]]
+i(178134);		--[[Ephemeral Digits]]
+i(178135);		--[[Wisp of Life]]
+i(178136);		--[[Emotional Residue]]
+i(178137);		--[[Drop of Memory]]
+i(178152);		--[[<Broker Adjective> Return Beacon]]
+i(178172);		--[[Abrasive Sand]]
+i(178173);		--[[Crumbling Sandstone]]
+i(178174);		--[[Desiccated Core]]
+i(178175);		--[[Gooey Sap]]
+i(178177);		--[[Consumptive Brambles]]
+i(178178);		--[[Brittle Bark]]
+i(178517);		--[[Gold Tooth]]
+i(178519);		--[[Blank Sinstone]]
+i(178528);		--[[Winter Veil Gift]]
+i(178529);		--[[Gently Shaken Gift]]
+i(178566);		--[[Cracked Hand Mirror]]
+i(178923);		--[[Fractured Rubble]]
+i(178924);		--[[Ash Clod]]
+i(179001);		--[[Tithe Jar]]
+i(179003);		--[[Shattered Quartz Eyes]]
+i(179004);		--[[Polished Silver Tithe]]
+i(179005);		--[[Glinting Gold Fang]]
+i(179006);		--[[Glowing Endmire Dust]]
+i(179288);		--[[Voltive Candles]]
+i(179289);		--[[Twisted Prayer Beads]]
+i(179290);		--[[Simple Manacles]]
+i(179291);		--[[Silver Flask]]
+i(179292);		--[[Fine Handkerchief]]
+i(179293);		--[[Glimmering Facial Cream]]
+i(179294);		--[[Empty Dredwing Skin]]
+i(179296);		--[[Duelist's Glove]]
+i(179297);		--[[Dust Filled Flask]]
+i(179298);		--[[Cloth Parisol Strips]]
+i(179299);		--[[Pulled Canine]]
+i(179300);		--[[Muck-Hardened Marble]]
+i(179306);		--[[Wingtip Warmer]]
+i(179311);		--[[Oxxein Lockbox]]
+i(179368);		--[[Immutable Shackles]]
+i(179369);		--[[Spectral Key]]
+i(179370);		--[[Inert Passage Sigil]]
+i(179372);		--[[Broken Mawrat Trap]]
+i(179382);		--[[Tiny, Wet Scroll]]
+i(179862);		--[[Luxurious Feather]]
+i(179919);		--[[Shadowy Rabbit's Foot]]
+i(179985);		--[[Clouded Stain Glass Shards]]
+i(179986);		--[[Agonized Echoes]]
+i(180052);		--[[Left Gem Eye]]
+i(180053);		--[[Right Gem Eye]]
+i(180055);		--[[Relic of the Past I]]
+i(180057);		--[[Relic of the Past II]]
+i(180058);		--[[Relic of the Past III]]
+i(180059);		--[[Relic of the Past IV]]
+i(180060);		--[[Relic of the Past V]]
+i(180088);		--[[Handwritten Note]]
+i(180174);		--[[Witherfall Varietals for the Discriminating Palate]]
+i(180175);		--[[A Treatise on Henbestian Logic]]
+i(180176);		--[[On the Nature of the Divine]]
+i(180230);		--[[Gemstone Chips]]
+i(180286);		--[[Broken Fishing Pole]]
+i(180289);		--[[Sinvyr Statuette]]
+i(180293);		--[[Night Fae Insignia]]
+i(180307);		--[[Horrific Stone Visage]]
+i(180308);		--[[Determined Stone Visage]]
+i(180309);		--[[Malicious Mandible]]
+i(180310);		--[[Fluttering Stone Wings]]
+i(180326);		--[[Twisted Parasol]]
+i(180327);		--[[Emberflea Collection]]
+i(180328);		--[[Ghost Tracks: A Treatise on the Unseen Trails]]
+i(180329);		--[[Naked Morningstar Chain]]
+i(180330);		--[[Fading Denathrius Pennant]]
+i(180331);		--[[Stonewright's Chisel]]
+i(180332);		--[[Discarded Wingtips]]
+i(180333);		--[[Disquieted Lyre Neck]]
+i(180334);		--[[Splintering Stein]]
+i(180338);		--[[Graven Image]]
+i(180340);		--[[Dark Deceits and Diversions]]
+i(180341);		--[[Nathrezim Relic]]
+i(180342);		--[[Silvered Fang]]
+i(180343);		--[[Everburning Censer]]
+i(180344);		--[[Wisps of Nightmares]]
+i(180345);		--[[Forgotten Dream Vial]]
+i(180346);		--[[Nail-Worked Crystalware]]
+i(180347);		--[[Sinsteel Silverware]]
+i(180348);		--[[Ornate Filigreed Harp]]
+i(180353);		--[[Ghostly Pocket Stone]]
+i(180354);		--[[Ripped Stuffing]]
+i(180381);		--[[Brainwort]]
+i(180382);		--[[Scaldhead]]
+i(180383);		--[[Devil's Dung]]
+i(180384);		--[[Gallowsgrass]]
+i(180385);		--[[Bats Wing]]
+i(180405);		--[[Rusty Gargon Chain]]
+i(180406);		--[[Gargon Treat]]
+i(180407);		--[[Empty Brandy Bottle]]
+i(180408);		--[[Empty Brandy Phial]]
+i(180416);		--[[Mistcaller's Aria]]
+i(180417);		--[[Mistcaller's Ballad]]
+i(180418);		--[[Mistcaller's March]]
+i(180419);		--[[Mistcaller's Dirge]]
+i(180421);		--[[Emberfall]]
+i(180422);		--[[The Banewood Road]]
+i(180423);		--[[Duchess Helveera]]
+i(180448);		--[[Eroded Heat Sink]]
+i(180449);		--[[Failed Experiment]]
+i(180450);		--[[Assorted Bolts]]
+i(180458);		--[[Writ of Tithe Exemption]]
+i(180463);		--[[Crusty Scepter]]
+i(180475);		--[[Webbed Foot]]
+i(180476);		--[[Sleep Slime]]
+i(180504);		--[[Shimmerbough Recorder]]
+i(180505);		--[[Cracked Stone Mask]]
+i(180506);		--[[Faulty Hookshot]]
+i(180507);		--[[Feathered Drake Down]]
+i(180508);		--[[Night Lily's Bell]]
+i(180509);		--[[Mane Hair Harp]]
+i(180510);		--[[Hibiscus Tea Bag]]
+i(180511);		--[[Petrified Leaf]]
+i(180512);		--[[Guardian's Acorn]]
+i(180513);		--[[Sleepy Toadstool]]
+i(180514);		--[[Gorm Bracelet]]
+i(180515);		--[[Weird Egg]]
+i(180516);		--[[Spriggan Pipes]]
+i(180517);		--[[Lifecrafted Flute]]
+i(180518);		--[[Ironwood Needle]]
+i(180519);		--[[Lifeless Branch]]
+i(180520);		--[[Cracked Amber Doll]]
+i(180521);		--[[Creeping Hive Cobweb]]
+i(180522);		--[[Phaedrum Lockbox]]
+i(180532);		--[[Laestrite Lockbox]]
+i(180533);		--[[Solenium Lockbox]]
+i(180590);		--[[Lost Soul]]
+i(180614);		--[[Depleted Nethershard]]
+i(180622);		--[[Essence of Ephemeral Knowledge]]
+i(180623);		--[[Torn Rune-Etched Page]]
+i(180624);		--[[Faintly Glowing Vellum]]
+i(180627);		--[[Tranquil Wader]]
+i(180632);		--[[Gorm Rootstinger]]
+i(180652);		--[[Fae Dreamcatcher]]
+i(180654);		--[[Fae Ornament]]
+i(180655);		--[[Raw Dream Fibers]]
+i(180656);		--[[Enchanted Bough]]
+i(180674);		--[[Wand of Grumpiness]]
+i(180675);		--[[Wand of Regal Bearing]]
+i(180753);		--[[Twinklestar's Gardening Toolkit]]
+i(180754);		--[[Gardener's Hammer]]
+i(180756);		--[[Gardener's Flute]]
+i(180757);		--[[Gardener's Wand]]
+i(180758);		--[[Gardener's Basket]]
+i(180759);		--[[Diary of the Night]]
+i(180775);		--[[Memory of Home]]
+i(180784);		--[[Aromatic Flowers]]
+i(180798);		--[[PH - Kyrian IOU]]
+i(180813);		--[[Silver Teroclaw]]
+i(180837);		--[[Blue Glimmerfly]]
+i(180838);		--[[Blue Etherwyrm]]
+i(180840);		--[[Pink Glimmerfly]]
+i(180841);		--[[Olive Dragon Turtle]]
+i(180860);		--[[Orange Vulpin]]
+i(180861);		--[[Red Vulpin]]
+i(180867);		--[[Silver Crane]]
+i(180878);		--[[Corroded Vial]]
+i(180879);		--[[Gritty Bone File]]
+i(180880);		--[[Gory Keepsake]]
+i(180881);		--[[Mangled Toothpick]]
+i(180882);		--[[Arena Writ]]
+i(180883);		--[[Gleaming Crystal]]
+i(180884);		--[[Scroll of Foul Rites]]
+i(180885);		--[[Worn Rune-Adorned Pouch]]
+i(180886);		--[[Coarse Ground Sinew]]
+i(180887);		--[[Preserved Organ]]
+i(180888);		--[[Illegible Journal]]
+i(180889);		--[[Warped Spectacles]]
+i(180890);		--[[Bloodstained Gambrel]]
+i(180891);		--[[Smooshed Maggot]]
+i(180892);		--[[Teeth-Marked Bone Chips]]
+i(180893);		--[[Clumped Spores]]
+i(180894);		--[[Drained Flask]]
+i(180949);		--[[Animaflow Stabilizer]]
+i(180991);		--[[Crimson Ink Well]]
+i(180992);		--[[Blood Red Plume]]
+i(181245);		--[[Oil of Ethereal Force]]
+i(181246);		--[[Withered Leaf]]
+i(181247);		--[[Pointy Stick]]
+i(181259);		--[[Clutch]]
+i(181379);		--[[Larionfeather Quill]]
+i(181380);		--[[Forgehand Tools]]
+i(181382);		--[[Chime of Eternity]]
+i(181483);		--[[Spool of Silkstrider Thread]]
+i(181484);		--[[Songwood Graft]]
+i(181485);		--[[Jeweled Amber Leaf]]
+i(181486);		--[[Leafscale Coat]]
+i(181487);		--[[Glowberry Bead String]]
+i(181488);		--[[Shadowstalker Claw]]
+i(181489);		--[[Star Lake Sonnets]]
+i(181490);		--[[Wild Godrune]]
+i(181491);		--[[Gormgris Lamp]]
+i(181492);		--[[Petrified Faeflower]]
+i(181515);		--[[Miserable Pile of Secrets]]
+i(181713);		--[[Scorched Letter]]
+i(181722);		--[[Antiquated Verdigris Coin]]
+i(181723);		--[[Meticulously Pickled Head]]
+i(181724);		--[[Tactics Vol. 83: Exploitation of Weather]]
+i(181725);		--[[Prized Guardian's Medal]]
+i(181726);		--[[Warfare Vol. 27: Behind Enemy Lines]]
+i(181727);		--[[Devoid Reinforced Flasks]]
+i(181728);		--[[Pristine Fleshstitcher Needles]]
+i(181729);		--[[Prototype Phylactery Mold]]
+i(181730);		--[[Forged Oxxein Whetstone]]
+i(181731);		--[[Lacquered Larion Fang]]
+i(181778);		--[[Sack of Shinies]]
+i(181779);		--[[A "Wrapped" Weapon]]
+i(181780);		--[[An Undelivered Tradesman's Shipment]]
+i(182114);		--[[Assorted Parts and 'Things']]
+i(182124);		--[[PH Rare Item]]
+i(182161);		--[[Ceremonial Javelin]]
+i(182287);		--[[Eternally Preserved Scarab]]
+i(182299);		--[[Ruined Carapace]]
+i(182366);		--[[Disgusting Ooze]]
+i(182367);		--[[Foul Bones]]
+i(182672);		--[[Misty Leaper]]
+i(182707);		--[[Discarded Hand-Wraps]]
+i(182708);		--[[Wood Carved Chomper Protector]]
+i(182709);		--[[Fancy Half-Leggings]]
+i(182710);		--[[Fluffy Robe]]
+i(182711);		--[[Winner Caller's Warbler]]
+i(182713);		--[[Water-Run Letter]]
+i(182714);		--[[Bundle of Leaflets]]
+i(182715);		--[[Empty Crate]]
+i(182718);		--[[Stoneborn Messenger Stamp Sheet]]
+i(182733);		--[[Gnawed Animacorns]]
+i(182745);		--[[Large Aquamarine Crystal]]
+i(182756);		--[[Silver Winged Bust]]
+i(182757);		--[[Redelav Silver Set]]
+i(182758);		--[[Decorative Sinsteel Dagger]]
+i(182760);		--[[Brilliant Azure Orb]]
+i(182761);		--[[Refined Gold Ingot]]
+i(182762);		--[[Ornately Jeweled Amulet]]
+i(182763);		--[[Enormous Jade Pendant]]
+i(182764);		--[[Pulsing Star Amethyst]]
+i(182765);		--[[Golden Wren]]
+i(182766);		--[[Golden Egg]]
+i(182774);		--[[Chalice of Renagal's Pact]]
+i(182775);		--[[Teramanik's Gilded Reins]]
+i(182776);		--[[Demoltrov's Ritual Dagger]]
+i(182797);		--[[Pugilist Ring Rules]]
+i(182968);		--[[Humerus]]
+i(183047);		--[[Soul of the Darkhound]]
+i(183048);		--[[Power of the Darkhound]]
+i(183049);		--[[Guile of the Pack]]
+i(183050);		--[[The Endmire's Mists]]
+i(183051);		--[[The Rushing Tide]]
+i(183055);		--[[Chained Venthyr Pocketwatch]]
+i(183056);		--[[Shriekwing by Krentis]]
+i(183062);		--[[Gleaming Replica of Partannas]]
+i(183064);		--[[Jewel of Opantriss]]
+i(183065);		--[[Dazzling Zircon Cube]]
+i(183071);		--[[Lucky Sinrunner Horseshoe]]
+i(183072);		--[[Perfume Bottles]]
+i(183073);		--[[Royal Sinvyr Cooking Set]]
+i(183075);		--[[Phantasmal Masquerade Guise]]
+i(183108);		--[[Tainted Void-Touched Core]]
+i(183109);		--[[Pulsing Voidscarred Fragment]]
+i(183110);		--[[Mercurial Void]]
+i(183164);		--[[9.0 PH Treasure Reward]]
+i(183190);		--[[Oublion Cipher]]
+i(183203);		--[[Massive Oxxein Tankard]]
+i(183204);		--[[Manual of Bonebending Methods]]
+i(183205);		--[[Plated Horn of Battle]]
+i(183207);		--[[Keepsake of the First Conflict]]
+i(183208);		--[[Beasts, and How to Eat Them: Volume I]]
+i(183209);		--[[Prime Enforcer's Seal]]
+i(183695);		--[[Decaying Dark Naaru Shard]]
+i(183714);		--[[Swamp Reed]]
+i(183726);		--[[Gratitude of the Liberated]]
+i(183788);		--[[Placeholder Twisting Corridors Cosmetic]]
+i(183795);		--[[Notice of Special Delivery]]
+i(183834);		--[[Crate of Drust Archaeology Fragments]]
+i(183835);		--[[Crate of Zandalari Archaeology Fragments]]
+i(183888);		--[[Apogee Anima Bead]]
+i(183889);		--[[Thaumaturgic Anima Bead]]
+i(183890);		--[[Zenith Anima Spherule]]
+i(183891);		--[[Venerated Anima Spherule]]
+i(183892);		--[[Mystic Anima Spherule]]
+i(183893);		--[[Abominable Anima Spherule]]
+i(183894);		--[[Thaumaturgic Anima Bead]]
+i(183895);		--[[Apogee Anima Bead]]
+i(183896);		--[[Abominable Anima Spherule]]
+i(183897);		--[[Mystic Anima Spherule]]
+i(183898);		--[[Venerated Anima Spherule]]
+i(183899);		--[[Zenith Anima Spherule]]
+i(183913);		--[[Broken Flute Stem]]
+i(183914);		--[[Gummy Napkin]]
+i(183915);		--[[Scrap of Streamer]]
+i(183916);		--[[Cracked Tea Cup]]
+i(183917);		--[[Slime-Stained Bowl]]
+i(183918);		--[[Chipped Serving Bowl]]
+i(183920);		--[[Bent Fork]]
+i(183921);		--[[Crumpled Napkin]]
+i(183922);		--[[Crushed Nut Shells]]
+i(183923);		--[[Broken Claw]]
+i(183924);		--[[Gorm Egg Shells]]
+i(183925);		--[[Mushy Snowplum]]
+i(183926);		--[[Frayed Leather Laces]]
+i(183927);		--[[Broken Centurian Mechanism]]
+i(183928);		--[[A Polite, But Short Thank You Note]]
+i(183929);		--[[Laestrite Pocket Gravel]]
+i(183930);		--[[Broken Vambrace Clasp]]
+i(183931);		--[[Split Arrow Fletching]]
+i(183932);		--[[Torn Bet Voucher]]
+i(183933);		--[[Guttered Crypt Candle]]
+i(183934);		--[[Muck-Stained Napkin]]
+i(183935);		--[[Modified Death Warrant]]
+i(183936);		--[[A Curt Note]]
+i(183942);		--[[Novice Crafter's Mark]]
+i(183945);		--[[Enlarged Nerve]]
+i(184076);		--[[Partially Finished Stone Sentry]]
+i(184077);		--[[Famous Sinstone Headers]]
+i(184163);		--[[Gilded Slime]]
+i(184206);		--[[Moth-Eaten Covenant Cloak]]
+i(184207);		--[[Rusting Covenant Spaulder]]
+i(184208);		--[[Fraying Covenant Belt]]
+i(184209);		--[[Stoneborn Fragments]]
+i(184304);		--[[Anima-Touched Weapon Fragments]]
+i(184309);		--[[Venthyr Inquisitor's Notes]]
+i(184310);		--[[Tod's Sinstone]]
+i(184369);		--[[Brutally Sundered Mallet]]
+i(184370);		--[[Erratic Sparkshield]]
+i(184372);		--[[Charred Dreadplate]]
+i(184375);		--[[Shattered Orbiter Crystal]]
+i(184376);		--[[Incinerated Arcane Tome]]
+i(184377);		--[[Shattered Firestone]]
+i(184390);		--[[Foul Ectoplasm]]
+i(184391);		--[[Hollow Phylactery Shard]]
+i(184392);		--[[Fizzled Ritual Scroll]]
+i(184393);		--[[Everburning Mange]]
+i(184394);		--[[Vial of Bleak Blood]]
+i(184402);		--[[Culexwood Pan Flute]]
+i(184403);		--[[Dreamlure Candle]]
+i(184553);		--[[Sinvyr Shards]]
+i(184562);		--[[Tranquility Stone]]
+i(184563);		--[[Anima Condenser]]
+i(184564);		--[[Kyrian Music Box]]
+i(184565);		--[[Kyrian Wave Simulator]]
+i(184566);		--[[Adrima's Potpourri]]
+i(184567);		--[[Hand-Knitted Steward Sweater]]
+i(184607);		--[[Words of the Warden]]
+i(184608);		--[[Korrath's Grimoire: Aleketh]]
+i(184609);		--[[Korrath's Grimoire: Belidir]]
+i(184610);		--[[Korrath's Grimoire: Gyadrek]]
+i(184611);		--[[Tormentor's Notes]]
+i(184612);		--[[Mawsworn Orders]]
+i(184650);		--[[Adventure Campaign Progress]]
+i(184651);		--[[Maw-Touched Miasma]]
+i(184652);		--[[Phantasmic Infuser]]
+i(184664);		--[[Sticky-Fingered Skeletal Hand]]
+i(184810);		--[[Plundered Supplies]]

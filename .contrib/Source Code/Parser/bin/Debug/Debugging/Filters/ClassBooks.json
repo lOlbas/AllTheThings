@@ -1,0 +1,3217 @@
+{
+	i(4213, { -- Grimoire of Doom
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	i(9214, { -- Grimoire of Inferno
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = 21,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(11732, { -- Libram of Rumination
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(11733, { -- Libram of Constitution
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(11734, { -- Libram of Tenacity
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(11736, { -- Libram of Resilience
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(11737, { -- Libram of Voracity
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(16302, { -- Grimoire of Firebolt (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 4,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			4
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16316, { -- Grimoire of Firebolt (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 9,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			9
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16317, { -- Grimoire of Firebolt (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 12,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			12
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16318, { -- Grimoire of Firebolt (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 16,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			16
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16319, { -- Grimoire of Firebolt (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16320, { -- Grimoire of Firebolt (Rank 7)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 24,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			24
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16321, { -- Grimoire of Blood Pact (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 2,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			2
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16322, { -- Grimoire of Blood Pact (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 7,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			7
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16323, { -- Grimoire of Blood Pact (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 12,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			12
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16324, { -- Grimoire of Blood Pact (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 16,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			16
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16325, { -- Grimoire of Blood Pact (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16326, { -- Grimoire of Fire Shield (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 7,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			7
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16327, { -- Grimoire of Fire Shield (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16328, { -- Grimoire of Fire Shield (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 14,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			14
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16329, { -- Grimoire of Fire Shield (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 19,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			19
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16330, { -- Grimoire of Fire Shield (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 23,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			23
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16331, { -- Grimoire of Phase Shift
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 6,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			6
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16346, { -- Grimoire of Torment (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 10,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			10
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16347, { -- Grimoire of Torment (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 13,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			13
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16348, { -- Grimoire of Torment (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 17,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			17
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16349, { -- Grimoire of Torment (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16350, { -- Grimoire of Torment (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16351, { -- Grimoire of Sacrifice (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 8,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			8
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16352, { -- Grimoire of Sacrifice (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16353, { -- Grimoire of Sacrifice (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 14,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			14
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16354, { -- Grimoire of Sacrifice (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 17,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			17
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16355, { -- Grimoire of Sacrifice (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16356, { -- Grimoire of Sacrifice (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 23,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			23
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16357, { -- Grimoire of Consume Shadows (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 9,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			9
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16358, { -- Grimoire of Consume Shadows (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 12,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			12
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16359, { -- Grimoire of Consume Shadows (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 14,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			14
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16360, { -- Grimoire of Consume Shadows (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 18,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			18
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16361, { -- Grimoire of Consume Shadows (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16362, { -- Grimoire of Consume Shadows (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 24,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			24
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16363, { -- Grimoire of Suffering (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 11,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			11
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16364, { -- Grimoire of Suffering (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 15,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			15
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16365, { -- Grimoire of Suffering (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16366, { -- Grimoire of Suffering (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16368, { -- Grimoire of Lash of Pain (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 12,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			12
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16371, { -- Grimoire of Lash of Pain (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 15,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			15
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16372, { -- Grimoire of Lash of Pain (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 19,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			19
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16373, { -- Grimoire of Lash of Pain (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 22,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			22
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16374, { -- Grimoire of Lash of Pain (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16375, { -- Grimoire of Soothing Kiss (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 10,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			10
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16376, { -- Grimoire of Soothing Kiss (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 14,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			14
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16377, { -- Grimoire of Soothing Kiss (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 20,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			20
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16378, { -- Grimoire of Soothing Kiss (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 24,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			24
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16379, { -- Grimoire of Seduction
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 12,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			12
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16380, { -- Grimoire of Lesser Invisibility
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 14,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			14
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16381, { -- Grimoire of Devour Magic (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 16,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			16
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16382, { -- Grimoire of Devour Magic (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 20,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			20
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16383, { -- Grimoire of Devour Magic (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 23,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			23
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16384, { -- Grimoire of Tainted Blood (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 14,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			14
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16385, { -- Grimoire of Tainted Blood (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 17,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			17
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16386, { -- Grimoire of Tainted Blood (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16387, { -- Grimoire of Tainted Blood (Rank 4)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 23,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			23
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16388, { -- Grimoire of Spell Lock (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 15,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			15
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16389, { -- Grimoire of Spell Lock (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 22,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			22
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(16390, { -- Grimoire of Paranoia
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 18,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			18
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	sp(19801, { -- Tome of Tranquilizing Shot
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["itemID"] = 16665,
+		["lvl"] = {
+			25
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(17413, { -- Codex: Prayer of Fortitude
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(17414, { -- Codex: Prayer of Fortitude
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(17682, { -- Book: Gift of the Wild
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(17683, { -- Book: Gift of the Wild
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(18332, { -- Libram of Rapidity
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = 21,
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(18333, { -- Libram of Focus
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(18334, { -- Libram of Protection
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	i(18600, { -- Tome of Arcane Brilliance
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 23,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			23
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21214, { -- Tome of Frostbolt
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21279, { -- Tome of Fireball
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21280, { -- Tome of Arcane Missiles
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21281, { -- Grimoire of Shadow Bolt
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21282, { -- Grimoire of Immolate
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21283, { -- Grimoire of Corruption
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21284, { -- Codex of Greater Heal
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21285, { -- Codex of Renew
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21287, { -- Codex of Prayer of Healing
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21288, { -- Libram: Blessing of Wisdom
+		["c"] = {
+			2
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21289, { -- Libram: Blessing of Might
+		["c"] = {
+			2
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21290, { -- Libram: Holy Light
+		["c"] = {
+			2
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21291, { -- Tablet of Healing Wave
+		["c"] = {
+			7
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21292, { -- Tablet of Strength of Earth Totem
+		["c"] = {
+			7
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21293, { -- Tablet of Grace of Air Totem
+		["c"] = {
+			7
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21294, { -- Book of Healing Touch
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21295, { -- Book of Starfire
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21296, { -- Book of Rejuvenation
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21297, { -- Manual of Heroic Strike
+		["c"] = {
+			1
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21298, { -- Manual of Battle Shout
+		["c"] = {
+			1
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21299, { -- Manual of Revenge
+		["c"] = {
+			1
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21300, { -- Handbook of Backstab
+		["c"] = {
+			4
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21302, { -- Handbook of Deadly Poison
+		["c"] = {
+			4
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21303, { -- Handbook of Feint
+		["c"] = {
+			4
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21304, { -- Guide: Multi-Shot
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21306, { -- Guide: Serpent Sting
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(21307, { -- Guide: Aspect of the Hawk
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = 25,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(22146, { -- Book: Gift of the Wild
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(22153, { -- Tome of Arcane Brilliance
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = 27,
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(22179, { -- Grimoire of Firebolt (Rank 8)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22180, { -- Grimoire of Blood Pact (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22181, { -- Grimoire of Fire Shield (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 26,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			26
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22182, { -- Grimoire of Torment (Rank 7)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22183, { -- Grimoire of Suffering (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22184, { -- Grimoire of Consume Shadows (Rank 7)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 26,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			26
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22185, { -- Grimoire of Sacrifice (Rank 7)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 26,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			26
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22186, { -- Grimoire of Lash of Pain (Rank 7)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22187, { -- Grimoire of Soothing Kiss (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22188, { -- Grimoire of Devour Magic (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22189, { -- Grimoire of Devour Magic (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22190, { -- Grimoire of Tainted Blood (Rank 5)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 26,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			26
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(22393, { -- Codex: Prayer of Shadow Protection
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(22890, { -- Tome of Frost Ward
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(22891, { -- Grimoire of Shadow Ward
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(22897, { -- Tome of Conjure Food
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(23320, { -- Tablet of Flame Shock
+		["c"] = {
+			7
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(23711, { -- Grimoire of Intercept (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 22,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			22
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(23730, { -- Grimoire of Intercept (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(23731, { -- Grimoire of Intercept (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(23734, { -- Grimoire of Cleave (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(23745, { -- Grimoire of Cleave (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(23755, { -- Grimoire of Cleave (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(24101, { -- Book of Ferocious Bite V
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(24102, { -- Manual of Eviscerate IX
+		["c"] = {
+			4
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(24345, { -- Book of Cower IV
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(25469, { -- Grimoire of Avoidance
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(25900, { -- Grimoire of Demonic Frenzy
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 23,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			23
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(28068, { -- Grimoire of Suffering (Rank 6)
+		["b"] = 1,
+		["c"] = {
+			9,
+			10
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(28071, { -- Grimoire of Anguish (Rank 1)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 21,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			21
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(28072, { -- Grimoire of Anguish (Rank 2)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 25,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			25
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(28073, { -- Grimoire of Anguish (Rank 3)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(29549, { -- Codex: Prayer of Fortitude
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(29550, { -- Tome of Conjure Water
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(31501, { -- Tome of Conjure Food
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(31837, { -- Codex: Prayer of Shadow Protection
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 27,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			27
+		},
+		["q"] = 0,
+		["subclass"] = 0,
+	}),
+	i(36955, { -- Grimoire of Firebolt (Rank 9)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 78,
+		["inventoryType"] = 0,
+		["lvl"] = 78,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(36959, { -- Grimoire of Blood Pact (Rank 7)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 74,
+		["inventoryType"] = 0,
+		["lvl"] = 74,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(36960, { -- Grimoire of Fire Shield (Rank 7)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 76,
+		["inventoryType"] = 0,
+		["lvl"] = 76,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(36964, { -- Grimoire of Sacrifice (Rank 8)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 72,
+		["inventoryType"] = 0,
+		["lvl"] = 72,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(36965, { -- Grimoire of Sacrifice (Rank 9)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 79,
+		["inventoryType"] = 0,
+		["lvl"] = 79,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(36966, { -- Grimoire of Consume Shadows (Rank 8)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 73,
+		["inventoryType"] = 0,
+		["lvl"] = 73,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(36967, { -- Grimoire of Consume Shadows (Rank 9)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 78,
+		["inventoryType"] = 0,
+		["lvl"] = 78,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(36968, { -- Grimoire of Suffering (Rank 7)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 75,
+		["inventoryType"] = 0,
+		["lvl"] = 75,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	i(36970, { -- Grimoire of Suffering (Rank 8)
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 80,
+		["inventoryType"] = 0,
+		["lvl"] = 80,
+		["q"] = 1,
+		["subclass"] = 0,
+	}),
+	sp(61316, { -- Tome of Dalaran Brilliance
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 30,
+		["inventoryType"] = 0,
+		["itemID"] = 44714,
+		["lvl"] = 30,
+		["q"] = 2,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	sp(101805, { -- Tome of Burning Jewels
+		["b"] = 1,
+		["class"] = 9,
+		["collectible"] = false,
+		["cost"] = {
+	{
+		"c",
+		361,
+		4
+	}
+},
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 32,
+		["inventoryType"] = 0,
+		["itemID"] = 71949,
+		["q"] = 3,
+		["requireSkill"] = 755,
+		["subclass"] = 0,
+	}),
+	sp(138430, { -- Ancient Tome of Dinomancy
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 35,
+		["inventoryType"] = 0,
+		["itemID"] = 94232,
+		["lvl"] = 35,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	i(109586, { -- Brittle Cartography Journal
+		["b"] = 1,
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 40,
+		["inventoryType"] = 0,
+		["lvl"] = {
+			10
+		},
+		["q"] = 3,
+		["requireSkill"] = 794,
+		["subclass"] = 0,
+	}),
+	sp(160326, { -- Fishing Guide to Draenor
+		["b"] = 1,
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 40,
+		["inventoryType"] = 0,
+		["itemID"] = 111356,
+		["lvl"] = {
+			10
+		},
+		["q"] = 3,
+		["requireSkill"] = 356,
+		["subclass"] = 0,
+	}),
+	sp(160360, { -- The Joy of Draenor Cooking
+		["b"] = 1,
+		["class"] = 9,
+		["collectible"] = false,
+		["description"] = "This can drop from any Warlords of Draenor mob if you don't already have it learned.",
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 40,
+		["inventoryType"] = 0,
+		["itemID"] = 111387,
+		["lvl"] = 10,
+		["q"] = 3,
+		["requireSkill"] = 185,
+		["subclass"] = 0,
+	}),
+	sp(168803, { -- Codex of Ascension
+		["b"] = 1,
+		["c"] = {
+			5
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 111926,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(168802, { -- The Jailer's Libram
+		["b"] = 1,
+		["c"] = {
+			2
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 112005,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(162116, { -- Guide: Disengage
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 112154,
+		["lvl"] = {
+			40
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	sp(167948, { -- Scribe's Research Notes
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ignoreSource"] = 1,
+		["ilvl"] = 40,
+		["inventoryType"] = 0,
+		["itemID"] = 113992,
+		["q"] = 1,
+		["requireSkill"] = 773,
+		["subclass"] = 0,
+	}),
+	sp(168796, { -- Book of Flight Form
+		["b"] = 1,
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 114842,
+		["lvl"] = {
+			40
+		},
+		["q"] = 5,
+		["subclass"] = 0,
+	}),
+	sp(168798, { -- Handbook: Pick Pocket
+		["b"] = 1,
+		["c"] = {
+			4
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 114843,
+		["lvl"] = {
+			40
+		},
+		["q"] = 2,
+		["subclass"] = 0,
+	}),
+	sp(168797, { -- Scroll of Touch of Fatality
+		["b"] = 1,
+		["c"] = {
+			10
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 114844,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(168795, { -- Tome of Blink
+		["b"] = 1,
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 114845,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(168793, { -- Sigil of Death Grip
+		["b"] = 1,
+		["c"] = {
+			6
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 114846,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(168799, { -- Tablet of Ghost Wolf
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 114847,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(168800, { -- Grimoire Of Convert Demon
+		["b"] = 1,
+		["c"] = {
+			9
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 114848,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(168801, { -- Manual Of Heroic Leap
+		["b"] = 1,
+		["c"] = {
+			1
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 114849,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(169926, { -- Draenor Jewelcrafting
+		["b"] = 1,
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 40,
+		["inventoryType"] = 0,
+		["itemID"] = 115359,
+		["lvl"] = 10,
+		["q"] = 3,
+		["requireSkill"] = 755,
+		["subclass"] = 6,
+	}),
+	sp(172399, { -- Handbook: Vanish
+		["b"] = 1,
+		["c"] = {
+			4
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 116982,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(176021, { -- Book of Rebirth
+		["b"] = 1,
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 118760,
+		["lvl"] = {
+			40
+		},
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	sp(161355, { -- Tome of Polymorph: Penguin
+		["b"] = 1,
+		["c"] = {
+			8
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 40,
+		["inventoryType"] = 0,
+		["itemID"] = 120139,
+		["lvl"] = 11,
+		["q"] = 3,
+		["subclass"] = 0,
+		["u"] = 2,
+	}),
+	sp(178545, { -- Guide: Sharpshooting
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 138,
+		["inventoryType"] = 0,
+		["itemID"] = 120327,
+		["lvl"] = {
+			40
+		},
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(201709, { -- Excavator's Notebook
+		["b"] = 1,
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 40,
+		["inventoryType"] = 0,
+		["itemID"] = 136419,
+		["lvl"] = {
+			10
+		},
+		["q"] = 3,
+		["requireSkill"] = 794,
+		["subclass"] = 0,
+	}),
+	i(136790, { -- Tome of the Wilds: Track Beasts
+		["b"] = 1,
+		["c"] = {
+			11
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["lvl"] = 10,
+		["q"] = 3,
+		["spellID"] = 0,
+		["subclass"] = 0,
+	}),
+	sp(210108, { -- Dirty Tricks, Vol 1: Detection
+		["b"] = 1,
+		["c"] = {
+			4
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 136803,
+		["lvl"] = 10,
+		["q"] = 3,
+		["subclass"] = 0,
+	}),
+	sp(211010, { -- Tome of Hex: Snake
+		["b"] = 1,
+		["c"] = {
+			7
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 136971,
+		["lvl"] = 24,
+		["q"] = 3,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	sp(242155, { -- Tome of the Hybrid Beast
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["cost"] = {
+	{
+		"c",
+		1220,
+		1000
+	}
+},
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 147580,
+		["lvl"] = 45,
+		["q"] = 4,
+		["subclass"] = 0,
+	}),
+	sp(242155, { -- Tome of the PTR Beast
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 45,
+		["inventoryType"] = 0,
+		["itemID"] = 147770,
+		["lvl"] = 45,
+		["q"] = 4,
+		["subclass"] = 0,
+		["u"] = 1,
+	}),
+	sp(288956, { -- Blood-Soaked Tome of Dark Whispers
+		["b"] = 1,
+		["c"] = {
+			3
+		},
+		["class"] = 9,
+		["collectible"] = false,
+		["equippable"] = false,
+		["f"] = 59,
+		["ilvl"] = 50,
+		["inventoryType"] = 0,
+		["itemID"] = 166502,
+		["lvl"] = 50,
+		["q"] = 3,
+		["questID"] = 54753,
+		["subclass"] = 0,
+	}),
+	sp(340826, { -- How to School Your Serpent
+		["class"] = 9,
+		["collectible"] = false,
+		["description"] = "Purchasable/learnable by any character exalted with Order of the Cloud Serpent.",
+		["f"] = 59,
+		["ilvl"] = 30,
+		["itemID"] = 183123,
+		["q"] = 3,
+		["questID"] = 62254,
+		["subclass"] = 0,
+	})
+}
+
+i(4213);		--[[Grimoire of Doom]]
+i(9214);		--[[Grimoire of Inferno]]
+i(11732);		--[[Libram of Rumination]]
+i(11733);		--[[Libram of Constitution]]
+i(11734);		--[[Libram of Tenacity]]
+i(11736);		--[[Libram of Resilience]]
+i(11737);		--[[Libram of Voracity]]
+i(16302);		--[[Grimoire of Firebolt (Rank 2)]]
+i(16316);		--[[Grimoire of Firebolt (Rank 3)]]
+i(16317);		--[[Grimoire of Firebolt (Rank 4)]]
+i(16318);		--[[Grimoire of Firebolt (Rank 5)]]
+i(16319);		--[[Grimoire of Firebolt (Rank 6)]]
+i(16320);		--[[Grimoire of Firebolt (Rank 7)]]
+i(16321);		--[[Grimoire of Blood Pact (Rank 1)]]
+i(16322);		--[[Grimoire of Blood Pact (Rank 2)]]
+i(16323);		--[[Grimoire of Blood Pact (Rank 3)]]
+i(16324);		--[[Grimoire of Blood Pact (Rank 4)]]
+i(16325);		--[[Grimoire of Blood Pact (Rank 5)]]
+i(16326);		--[[Grimoire of Fire Shield (Rank 1)]]
+i(16327);		--[[Grimoire of Fire Shield (Rank 2)]]
+i(16328);		--[[Grimoire of Fire Shield (Rank 3)]]
+i(16329);		--[[Grimoire of Fire Shield (Rank 4)]]
+i(16330);		--[[Grimoire of Fire Shield (Rank 5)]]
+i(16331);		--[[Grimoire of Phase Shift]]
+i(16346);		--[[Grimoire of Torment (Rank 2)]]
+i(16347);		--[[Grimoire of Torment (Rank 3)]]
+i(16348);		--[[Grimoire of Torment (Rank 4)]]
+i(16349);		--[[Grimoire of Torment (Rank 5)]]
+i(16350);		--[[Grimoire of Torment (Rank 6)]]
+i(16351);		--[[Grimoire of Sacrifice (Rank 1)]]
+i(16352);		--[[Grimoire of Sacrifice (Rank 2)]]
+i(16353);		--[[Grimoire of Sacrifice (Rank 3)]]
+i(16354);		--[[Grimoire of Sacrifice (Rank 4)]]
+i(16355);		--[[Grimoire of Sacrifice (Rank 5)]]
+i(16356);		--[[Grimoire of Sacrifice (Rank 6)]]
+i(16357);		--[[Grimoire of Consume Shadows (Rank 1)]]
+i(16358);		--[[Grimoire of Consume Shadows (Rank 2)]]
+i(16359);		--[[Grimoire of Consume Shadows (Rank 3)]]
+i(16360);		--[[Grimoire of Consume Shadows (Rank 4)]]
+i(16361);		--[[Grimoire of Consume Shadows (Rank 5)]]
+i(16362);		--[[Grimoire of Consume Shadows (Rank 6)]]
+i(16363);		--[[Grimoire of Suffering (Rank 1)]]
+i(16364);		--[[Grimoire of Suffering (Rank 2)]]
+i(16365);		--[[Grimoire of Suffering (Rank 3)]]
+i(16366);		--[[Grimoire of Suffering (Rank 4)]]
+i(16368);		--[[Grimoire of Lash of Pain (Rank 2)]]
+i(16371);		--[[Grimoire of Lash of Pain (Rank 3)]]
+i(16372);		--[[Grimoire of Lash of Pain (Rank 4)]]
+i(16373);		--[[Grimoire of Lash of Pain (Rank 5)]]
+i(16374);		--[[Grimoire of Lash of Pain (Rank 6)]]
+i(16375);		--[[Grimoire of Soothing Kiss (Rank 1)]]
+i(16376);		--[[Grimoire of Soothing Kiss (Rank 2)]]
+i(16377);		--[[Grimoire of Soothing Kiss (Rank 3)]]
+i(16378);		--[[Grimoire of Soothing Kiss (Rank 4)]]
+i(16379);		--[[Grimoire of Seduction]]
+i(16380);		--[[Grimoire of Lesser Invisibility]]
+i(16381);		--[[Grimoire of Devour Magic (Rank 2)]]
+i(16382);		--[[Grimoire of Devour Magic (Rank 3)]]
+i(16383);		--[[Grimoire of Devour Magic (Rank 4)]]
+i(16384);		--[[Grimoire of Tainted Blood (Rank 1)]]
+i(16385);		--[[Grimoire of Tainted Blood (Rank 2)]]
+i(16386);		--[[Grimoire of Tainted Blood (Rank 3)]]
+i(16387);		--[[Grimoire of Tainted Blood (Rank 4)]]
+i(16388);		--[[Grimoire of Spell Lock (Rank 1)]]
+i(16389);		--[[Grimoire of Spell Lock (Rank 2)]]
+i(16390);		--[[Grimoire of Paranoia]]
+i(16665);		--[[Tome of Tranquilizing Shot]]
+i(17413);		--[[Codex: Prayer of Fortitude]]
+i(17414);		--[[Codex: Prayer of Fortitude]]
+i(17682);		--[[Book: Gift of the Wild]]
+i(17683);		--[[Book: Gift of the Wild]]
+i(18332);		--[[Libram of Rapidity]]
+i(18333);		--[[Libram of Focus]]
+i(18334);		--[[Libram of Protection]]
+i(18600);		--[[Tome of Arcane Brilliance]]
+i(21214);		--[[Tome of Frostbolt]]
+i(21279);		--[[Tome of Fireball]]
+i(21280);		--[[Tome of Arcane Missiles]]
+i(21281);		--[[Grimoire of Shadow Bolt]]
+i(21282);		--[[Grimoire of Immolate]]
+i(21283);		--[[Grimoire of Corruption]]
+i(21284);		--[[Codex of Greater Heal]]
+i(21285);		--[[Codex of Renew]]
+i(21287);		--[[Codex of Prayer of Healing]]
+i(21288);		--[[Libram: Blessing of Wisdom]]
+i(21289);		--[[Libram: Blessing of Might]]
+i(21290);		--[[Libram: Holy Light]]
+i(21291);		--[[Tablet of Healing Wave]]
+i(21292);		--[[Tablet of Strength of Earth Totem]]
+i(21293);		--[[Tablet of Grace of Air Totem]]
+i(21294);		--[[Book of Healing Touch]]
+i(21295);		--[[Book of Starfire]]
+i(21296);		--[[Book of Rejuvenation]]
+i(21297);		--[[Manual of Heroic Strike]]
+i(21298);		--[[Manual of Battle Shout]]
+i(21299);		--[[Manual of Revenge]]
+i(21300);		--[[Handbook of Backstab]]
+i(21302);		--[[Handbook of Deadly Poison]]
+i(21303);		--[[Handbook of Feint]]
+i(21304);		--[[Guide: Multi-Shot]]
+i(21306);		--[[Guide: Serpent Sting]]
+i(21307);		--[[Guide: Aspect of the Hawk]]
+i(22146);		--[[Book: Gift of the Wild]]
+i(22153);		--[[Tome of Arcane Brilliance]]
+i(22179);		--[[Grimoire of Firebolt (Rank 8)]]
+i(22180);		--[[Grimoire of Blood Pact (Rank 6)]]
+i(22181);		--[[Grimoire of Fire Shield (Rank 6)]]
+i(22182);		--[[Grimoire of Torment (Rank 7)]]
+i(22183);		--[[Grimoire of Suffering (Rank 5)]]
+i(22184);		--[[Grimoire of Consume Shadows (Rank 7)]]
+i(22185);		--[[Grimoire of Sacrifice (Rank 7)]]
+i(22186);		--[[Grimoire of Lash of Pain (Rank 7)]]
+i(22187);		--[[Grimoire of Soothing Kiss (Rank 5)]]
+i(22188);		--[[Grimoire of Devour Magic (Rank 5)]]
+i(22189);		--[[Grimoire of Devour Magic (Rank 6)]]
+i(22190);		--[[Grimoire of Tainted Blood (Rank 5)]]
+i(22393);		--[[Codex: Prayer of Shadow Protection]]
+i(22890);		--[[Tome of Frost Ward]]
+i(22891);		--[[Grimoire of Shadow Ward]]
+i(22897);		--[[Tome of Conjure Food]]
+i(23320);		--[[Tablet of Flame Shock]]
+i(23711);		--[[Grimoire of Intercept (Rank 1)]]
+i(23730);		--[[Grimoire of Intercept (Rank 2)]]
+i(23731);		--[[Grimoire of Intercept (Rank 3)]]
+i(23734);		--[[Grimoire of Cleave (Rank 1)]]
+i(23745);		--[[Grimoire of Cleave (Rank 2)]]
+i(23755);		--[[Grimoire of Cleave (Rank 3)]]
+i(24101);		--[[Book of Ferocious Bite V]]
+i(24102);		--[[Manual of Eviscerate IX]]
+i(24345);		--[[Book of Cower IV]]
+i(25469);		--[[Grimoire of Avoidance]]
+i(25900);		--[[Grimoire of Demonic Frenzy]]
+i(28068);		--[[Grimoire of Suffering (Rank 6)]]
+i(28071);		--[[Grimoire of Anguish (Rank 1)]]
+i(28072);		--[[Grimoire of Anguish (Rank 2)]]
+i(28073);		--[[Grimoire of Anguish (Rank 3)]]
+i(29549);		--[[Codex: Prayer of Fortitude]]
+i(29550);		--[[Tome of Conjure Water]]
+i(31501);		--[[Tome of Conjure Food]]
+i(31837);		--[[Codex: Prayer of Shadow Protection]]
+i(36955);		--[[Grimoire of Firebolt (Rank 9)]]
+i(36959);		--[[Grimoire of Blood Pact (Rank 7)]]
+i(36960);		--[[Grimoire of Fire Shield (Rank 7)]]
+i(36964);		--[[Grimoire of Sacrifice (Rank 8)]]
+i(36965);		--[[Grimoire of Sacrifice (Rank 9)]]
+i(36966);		--[[Grimoire of Consume Shadows (Rank 8)]]
+i(36967);		--[[Grimoire of Consume Shadows (Rank 9)]]
+i(36968);		--[[Grimoire of Suffering (Rank 7)]]
+i(36970);		--[[Grimoire of Suffering (Rank 8)]]
+i(44714);		--[[Tome of Dalaran Brilliance]]
+i(71949);		--[[Tome of Burning Jewels]]
+i(94232);		--[[Ancient Tome of Dinomancy]]
+i(109586);		--[[Brittle Cartography Journal]]
+i(111356);		--[[Fishing Guide to Draenor]]
+i(111387);		--[[The Joy of Draenor Cooking]]
+i(111926);		--[[Codex of Ascension]]
+i(112005);		--[[The Jailer's Libram]]
+i(112154);		--[[Guide: Disengage]]
+i(113992);		--[[Scribe's Research Notes]]
+i(114842);		--[[Book of Flight Form]]
+i(114843);		--[[Handbook: Pick Pocket]]
+i(114844);		--[[Scroll of Touch of Fatality]]
+i(114845);		--[[Tome of Blink]]
+i(114846);		--[[Sigil of Death Grip]]
+i(114847);		--[[Tablet of Ghost Wolf]]
+i(114848);		--[[Grimoire Of Convert Demon]]
+i(114849);		--[[Manual Of Heroic Leap]]
+i(115359);		--[[Draenor Jewelcrafting]]
+i(116982);		--[[Handbook: Vanish]]
+i(118760);		--[[Book of Rebirth]]
+i(120139);		--[[Tome of Polymorph: Penguin]]
+i(120327);		--[[Guide: Sharpshooting]]
+i(136419);		--[[Excavator's Notebook]]
+i(136790);		--[[Tome of the Wilds: Track Beasts]]
+i(136803);		--[[Dirty Tricks, Vol 1: Detection]]
+i(136971);		--[[Tome of Hex: Snake]]
+i(147580);		--[[Tome of the Hybrid Beast]]
+i(147770);		--[[Tome of the PTR Beast]]
+i(166502);		--[[Blood-Soaked Tome of Dark Whispers]]
+i(183123);		--[[How to School Your Serpent]]
