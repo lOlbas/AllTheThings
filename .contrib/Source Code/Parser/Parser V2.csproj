@@ -8,6 +8,10 @@
   <PropertyGroup>
     <ApplicationIcon>lib\att_logo_128_new_jrX_icon.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup>
+    <OutputPath>..\..\Parser\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Retail|x86' ">
     <DebugSymbols>true</DebugSymbols>
     <OutputPath>..\..\Parser\</OutputPath>
